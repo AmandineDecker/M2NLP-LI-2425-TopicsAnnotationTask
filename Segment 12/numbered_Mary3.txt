@@ -1,0 +1,666 @@
+Mary3
+AMY-704:	oh wait .
+AMY-705:	I know I got an idea (.) we'll just thaw my bread out .
+RAL-706:	here (.) take it [/] this plate .
+AMY-707:	I'm doing fine .
+AMY-708:	I'm just going to eat right here .
+RAL-709:	we'll you don't want to eat off there .
+RAL-710:	because I'm going to eat off one of these anyway .
+RAL-711:	everybody grab one (0.5) .
+FRE-712:	well .
+MAR-713:	uhhuh .
+MAR-714:	xxx .
+RAL-715:	how did I end up with four ?
+FRE-716:	pieces of bread .
+AMY-717:	oh, Dad, one of them's .
+MAR-718:	hahaha (0.3) .
+MAR-719:	that was pretty funny .
+MAR-720:	hey yeh .
+MAR-721:	I mean we've got bread here with the peanut butter and jelly .
+PAT-722:	⁎ouch⁎ xxx (10.) .
+MAR-723:	what sandwich ?
+PAT-724:	A⁎m⁎y don't throw it away .
+PAT-725:	put it on top of the [/] this thing here .
+PAT-726:	and uh +...
+AMY-727:	did you hear it ?
+MAR-728:	uhuh .
+AMY-729:	are you okay Mom ?
+AMY-730:	did you burn yourself bad ?
+PAT-731:	all right [/] all right (.) yeah .
+PAT-732:	I burned myself .
+MAR-733:	where's the ice (0.6) ?
+RAL-734:	do you want some ice (0.2) ?
+AMY-735:	come on, put some ice on it so it doesn't (0.3) +...
+AMY-736:	++ so it doesn't blister ⁎up⁎ .
+RAL-737:	did you put some ham in your sandwich ?
+RAL-738:	did you put ham in your sandwich ?
+RAL-739:	you were supposed to .
+RAL-740:	that's what it's all there for .
+AMY-741:	it is not there .
+MAR-742:	yes it ⁎is⁎ .
+RAL-743:	the ham right there .
+MAR-744:	put that on the sandwich ?
+RAL-745:	your mother decided that we would have ham and cheese .
+MAR-746:	what do you do ?
+MAR-747:	just cut it in the half ?
+RAL-748:	well, you're supposed to take the whole thing and put it in your sandwich .
+PAT-749:	where are the forks ?
+MAR-750:	I didn't put forks on (0.6) .
+PAT-751:	xxx kitchen xxx .
+AMY-752:	I had nothing to do with dinner (0.6) .
+MAR-753:	I didn't think of cutting it before .
+PAT-754:	it's kinda hard to (.) clean and make meals (0.4) .
+PAT-755:	and then I'm as slow as molasses at the cleaning .
+PAT-756:	cause didn't feel like doing it .
+MAR-757:	nobody feels like cleaning .
+PAT-758:	no, but sometimes you have the ambition for doing it .
+AMY-759:	could you put that back .
+RAL-760:	I was wondering where it went .
+RAL-761:	I thought she cut it in the half .
+RAL-762:	there's a whole one and a half on her thing .
+RAL-763:	and I didn't see the other one .
+AMY-764:	the half was on the floor, under the table .
+PAT-765:	that was all I had (0.4) was four slices (0.2) .
+AMY-766:	sure Brad'll just take mine .
+PAT-767:	<laughing> .
+RAL-768:	<laughing> .
+RAL-769:	you didn't want it anyway (0.4) .
+FRE-770:	yeah .
+AMY-771:	I'll stop making you feel guilty if you give me the Christmas list .
+RAL-772:	what ?
+AMY-773:	I said I'd stop making him feel guilty if he'd give me the Chrismas list .
+PAT-774:	don't be ridiculous .
+PAT-775:	she won't give me one .
+FRE-776:	xxx (0.8) .
+AMY-777:	kick donkey [?] .
+RAL-778:	what'd she say ?
+AMY-779:	continually Belgish[?] .
+AMY-780:	she just watched “Perfect Strangers” (0.2) .
+MAR-781:	I didn't see it .
+AMY-782:	I want some fruit juice .
+PAT-783:	I want you to know that I burned myself the day of the garage sale .
+MAR-784:	mhm .
+AMY-785:	could I have a napkin while you're up ?
+PAT-786:	Nancy sold ah Nancy was selling her mother's sewing machine .
+MAR-787:	mhm .
+MAR-788:	thank you .
+%act:	door closes
+PAT-789:	so what [/] a an Indian couple came or an Arabian or whatever they were .
+MAR-790:	that's scary .
+AMY-791:	Arabian <laugh> .
+MAR-792:	<laugh> Arabian .
+MAR-793:	they come in on little camels .
+MAR-794:	<laugh> .
+PAT-795:	they were asking me about the sewing machine, and I am telling them that it's not my sewing machine, and I don't know anything about it, the woman isn't here, I don't know how to sew .
+%act:	(4.0) pause to drink
+PAT-796:	so he's talking me and I said I can just show you how it opens and whatever and (.) her husband is right behind me and I'm talking and talking .
+PAT-797:	and I thought he would help me because I had a cigarette in my hand, I thought he would help me y'know ?
+MAR-798:	uhhuh .
+PAT-799:	and I swung around, and he's gone I don't know where he went .
+PAT-800:	talking to somebody in the garage .
+PAT-801:	and I don't know what I did: as I tried to open the top, the cigarette went underneath my fingernail .
+AMY-802:	&=noise .
+PAT-803:	in two shakes, I ha [/] by the time I got back to the garage I had a blister .
+PAT-804:	that's how bad I burned myself .
+MAR-805:	mm, mm, wow, gee .
+PAT-806:	I could have gladly killed that guy .
+FRE-807:	what's so funny ?
+RAL-808:	keep going .
+RAL-809:	what did she say ?
+AMY-810:	ow (.) gee (0.6) .
+MAR-811:	this is pretty good with the ham on it .
+RAL-812:	what ?
+RAL-813:	do you like it with the ham ?
+AMY-814:	yeah (0.2) .
+RAL-815:	well it's kinda like boiled ham .
+PAT-816:	xxx put the ice on it .
+PAT-817:	at least eases the fire .
+AMY-818:	mhm .
+PAT-819:	I put my finger on the [/] on the uh +...
+PAT-820:	I couldn't believe how quickly that my finger blistered .
+PAT-821:	who would ever think the [/] the cigarette .
+PAT-822:	of course I smoke those narrow little cigarettes anyway .
+PAT-823:	but that it could go underneath my fingernail (0.7) .
+PAT-824:	that was a good idea Joany (0.1) .
+AMY-825:	thanks (0.3) .
+PAT-826:	I have to make more .
+PAT-827:	you'll have to wait now .
+PAT-828:	I mean now that Momma burned her .
+RAL-829:	this is a gourmet uh sandwich .
+PAT-830:	I wish I had more ham .
+FRE-831:	this is gourmet grilled cheese .
+RAL-832:	<laughing> .
+PAT-833:	that's what we have .
+PAT-834:	we have tomato soup, (.) and grilled cheese sandwiches .
+MAR-835:	mmm (.) that's his favourite meal at school .
+RAL-836:	come on, at school, they have that ?
+MAR-837:	they always serve tomato soup with the grilled cheese .
+FRE-838:	yeah .
+RAL-839:	oh really ?
+MAR-840:	mhm .
+MAR-841:	I always ⁎get⁎ it .
+PAT-842:	tomato soup [/] tomato soup is very good with cheese .
+MAR-843:	and I eat and I eat half the bowl before I get (.) sick of it .
+RAL-844:	yeah .
+MAR-845:	⌈but that's⌉ .
+RAL-846:	⌊it's very rich too⌋ .
+AMY-847:	It usually gets +/.
+MAR-848:	+, that's how I start though .
+MAR-849:	with (.) you know (.) stuff .
+MAR-850:	that's how I started with tapioca .
+MAR-851:	I'd eat a little bit everytime (.) until I didn't care for the taste of it anymore and then (.) now I like it (0.1) .
+MAR-852:	but the tomato soup tastes really good with the [/] the cheese .
+RAL-853:	are you putting the bread out there for the birds ?
+RAL-854:	Is that what it's there for ?
+MAR-855:	the ⁎cheese⁎ is so rich +/.
+RAL-856:	+, the birds are gonna have a gourmet breakfast .
+MAR-857:	the cheese is so rich and then also +/?
+PAT-858:	+, see why [/] that's what .
+PAT-859:	the tomato .
+PAT-860:	that's why I always put a tomato on my sandw [/] have a tomato put on my sandwich in the restaurants .
+PAT-861:	because (.) the tomato cuts the richness of the cheese (0.2) .
+MAR-862:	but what I was going to say (0.1) ?
+MAR-863:	was that +/.
+RAL-864:	+, we need more butter .
+RAL-865:	is everybody having another sandwich ?
+AMY-866:	I'm really trying to hear the end of this story .
+MAR-867:	you know, this tape is gonna be hilarious .
+MAR-868:	(be)cause I have been interrupted at least ⁎four⁎ times +/.
+PAT-869:	+, what tape .
+FRE-870:	<laughing> it's right there in front of you .
+PAT-871:	I didn't swear at all today .
+RAL-872:	no but you talked about your gourmet cooking .
+RAL-873:	and that sounded good .
+MAR-874:	<laughing> .
+RAL-875:	the men will love it .
+RAL-876:	wait until you hear that tape .
+MAR-877:	anyway (0.3) .
+MAR-878:	⌈the cheese⌉ is rich .
+PAT-879:	⌊did the⌋ tape get [/] did the tape hear my sandwich fall ?
+PAT-880:	0 [% General laughter] .
+RAL-881:	I think it went bloop@o .
+RAL-882:	Amy how did it sound when it hit the floor ?
+RAL-883:	the other one ?
+PAT-884:	the thing goes splatt@o .
+MAR-885:	anyway ⁎the cheese is rich and the tomato sauce is rich and [/] and it's a rich meal altogether⁎ .
+MAR-886:	0 [% General laughter] .
+AMY-887:	end of story .
+PAT-888:	end of story .
+RAL-889:	for what is all this bread here ?
+PAT-890:	that's just the crust, right ?
+FRE-891:	&=whispering .
+RAL-892:	we don't have enough butter here .
+PAT-893:	put some more in .
+AMY-894:	he won't talk loud enough .
+AMY-895:	for the thing to pick him up (0.6) .
+AMY-896:	that's how you open it, Babe .
+AMY-897:	&=scream .
+PAT-898:	frighten nice .
+MAR-899:	Mel Gibson .
+RAL-900:	Mel Gibson ?
+AMY-901:	didn't he do that in “Lethal Weapon” ?
+RAL-902:	there you go .
+RAL-903:	he knows where everything is here .
+MAR-904:	or “Lethal Weapon Two” .
+PAT-905:	and it's clean .
+RAL-906:	we don't have maid service or anything else .
+RAL-907:	we're gonna get a little button here .
+RAL-908:	ring for maid service, .
+RAL-909:	if the maid doesn't answer .
+RAL-910:	do it yourself .
+PAT-911:	we should have bought one of those .
+PAT-912:	you liked that so much .
+AMY-913:	we should have .
+RAL-914:	I thought that was funny .
+RAL-915:	the girls loved it .
+AMY-916:	we saw “Lethal Weapon Two” .
+MAR-917:	awesome movie (0.5) .
+AMY-918:	I thought it was kind of unrealistic ending .
+PAT-919:	what ?
+MAR-920:	⌈Lethal Weapon Two⌉ .
+AMY-921:	⌊no way⌋ I loved it .
+RAL-922:	which one ?
+AMY-923:	I thought he was gonna die .
+MAR-924:	“Lethal Weapon Two” .
+RAL-925:	you loved that so much ?
+AMY-926:	yeah (.) looked like the guy got shot four, five times .
+AMY-927:	and the guy's laying there on the ground laughing .
+RAL-928:	xxx .
+RAL-929:	you saw it already ?
+RAL-930:	where did you see it ?
+RAL-931:	in the [/] at home ?
+AMY-932:	at school .
+RAL-933:	and (0.2) did they have it at the theatre there ?
+RAL-934:	or did they have +/.
+AMY-935:	+, yeah (.) at school .
+AMY-936:	every good movie .
+AMY-937:	it goes on a projections strip .
+PAT-938:	it's the cultural center of the farm community .
+MAR-939:	<laughing> .
+AMY-940:	hey .
+AMY-941:	it goes on a film .
+AMY-942:	and we order them .
+RAL-943:	you, are you involved in that ?
+RAL-944:	do you do all that ?
+AMY-945:	yeah .
+AMY-946:	I'm not involved in ordering them .
+AMY-947:	I'm involved in watching them .
+MAR-948:	<laughing> like most students .
+AMY-949:	no I take +...
+AMY-950:	I take tickets and stuff .
+AMY-951:	and then I get to see all the movies for ⁎free⁎ .
+PAT-952:	the second one's not gonna be as good as the first one .
+RAL-953:	I [/] it's is gonna be just as good .
+RAL-954:	I'm making it over here .
+RAL-955:	the gourmet butter has got it made here .
+MAR-956:	I don't want another one .
+RAL-957:	who doesn't want another one ?
+MAR-958:	Mary that is a second degree burn .
+FRE-959:	+, so I'd say .
+PAT-960:	is that what it is ?
+AMY-961:	that's what that is .
+FRE-962:	three probably .
+PAT-963:	and that hurts .
+FRE-964:	maybe third .
+PAT-965:	where's that ice ?
+PAT-966:	that ice really does relieve the +...
+AMY-967:	don't top that .
+RAL-968:	oh yeah (0.5) .
+AMY-969:	would you (.) stop that ?
+RAL-970:	haha you should talk .
+PAT-971:	I can't make it .
+PAT-972:	I'm injured (0.5) .
+MAR-973:	Mom's injured .
+MAR-974:	scarred for life .
+PAT-975:	it was too bad it didn't happen this morning .
+PAT-976:	I wouldn't have had to finish the cabinett .
+PAT-977:	0 [% general laughter] .
+AMY-978:	well she slept under the cover, didn't it .
+AMY-979:	she begged and begged ⌈to get under there⌉ .
+MAR-980:	                      ⌊yeah, she was toasty warm⌋ .
+PAT-981:	Skirt [/] Skirt slept underneath the afghan with me this afternoon .
+PAT-982:	when I took a two hour nap .
+MAR-983:	you did ?
+AMY-984:	you must have been gone quite a while .
+RAL-985:	you were gone a long time .
+MAR-986:	Dad, don't leave the butter on .
+AMY-987:	the make_up broke, too .
+RAL-988:	what ?
+RAL-989:	what'd you say ?
+MAR-990:	the butter is still on .
+RAL-991:	I know it's on .
+MAR-992:	oh .
+PAT-993:	xxx over to the very edge .
+RAL-994:	I can be a gourmet cook too (0.4) .
+MAR-995:	Friday night we're having grilled cheese (0.4) .
+FRE-996:	xxx .
+AMY-997:	you did .
+AMY-998:	did you hear they offered me a job for Christmas .
+MAR-999:	oh yeah ?
+RAL-1000:	yes .
+AMY-1001:	and now they are interested in having an internship next summer .
+RAL-1002:	oh open that up xxx .
+PAT-1003:	is that your mother's sister ?
+FRE-1004:	dad's sister .
+RAL-1005:	who turned that down ?
+AMY-1006:	Mom .
+AMY-1007:	you should have seen Brad today .
+AMY-1008:	you know we knew this bio was missing on Tuesday .
+AMY-1009:	and he says +"/.
+AMY-1010:	+" Tuesday [/] Tuesday evening .
+PAT-1011:	you told us about it .
+RAL-1012:	⌈xxx⌉ .
+PAT-1013:	⌊xxx⌋ .
+AMY-1014:	oh .
+RAL-1015:	yeah, you told me about when ⌈you xxx⌉ .
+PAT-1016:	                             ⌊did you want me⌋ [/] did you want me to let you finish ?
+AMY-1017:	I heard .
+PAT-1018:	and then say +"/.
+PAT-1019:	+" you told me that twice ⁎Amy⁎ .
+AMY-1020:	I told you that once .
+AMY-1021:	that would be the second time .
+PAT-1022:	I know .
+PAT-1023:	but that's what you do to me .
+AMY-1024:	be quiet .
+AMY-1025:	I have to reprimand that on tape .
+RAL-1026:	you know (.) that (.) tape probably sounds like brutality in this household (0.2) .
+PAT-1027:	&=singing .
+AMY-1028:	they were you doing the chicken earlier .
+AMY-1029:	you should have seen .
+MAR-1030:	⁎oh⁎ the chicken ?
+RAL-1031:	we did it last Sunday .
+RAL-1032:	at the [/] first time ever .
+MAR-1033:	where's the music for it ?
+AMY-1034:	I don't wanna go to school [% singing] .
+AMY-1035:	I want to learn to be a turkey .
+AMY-1036:	chicken ?
+AMY-1037:	whichever bird it was .
+AMY-1038:	remember that guy, Mary ?
+AMY-1039:	on the rollerskates with this (.) with the beany and the red nose ?
+AMY-1040:	mhm .
+MAR-1041:	that was great .
+RAL-1042:	where ?
+AMY-1043:	Mary had it on tape on one of the (0.2) .
+AMY-1044:	night [/] night (.) hawk tapes .
+RAL-1045:	the videotape ?
+MAR-1046:	yeah .
+PAT-1047:	&=singing .
+AMY-1048:	what was that show called ?
+MAR-1049:	I still have it .
+AMY-1050:	should have put a xxx .
+PAT-1051:	0 [% talking in background to kitten] .
+MAR-1052:	that was so: funny (0.2) .
+FRE-1053:	yeah (0.2) .
+MAR-1054:	<laughing> .
+AMY-1055:	<laughing> .
+PAT-1056:	there's a red pen on the couch .
+%com:	amy, mary, ralph all giggle
+PAT-1057:	who belongs to it .
+MAR-1058:	who belongs to the red pen, Mom .
+PAT-1059:	the kitten's playing with it .
+PAT-1060:	she's shoving it all over .
+PAT-1061:	and if it's open .
+AMY-1062:	well I guess the kitten belongs to the red pen .
+MAR-1063:	<laugh> .
+PAT-1064:	she had it underneath the cushion .
+AMY-1065:	she still hasn't picked up on it .
+MAR-1066:	<laugh> .
+PAT-1067:	what am I picking up ?
+AMY-1068:	you said +"/.
+AMY-1069:	+" who belongs to the red pen .
+PAT-1070:	that's what I meant .
+PAT-1071:	that's what I meant to say .
+RAL-1072:	who belongs to the red pen .
+AMY-1073:	don't you want to say +"/.
+AMY-1074:	+" who does the red pen be ⌈long to⌉ ?
+PAT-1075:	                           ⌊I know, honey⌋ .
+PAT-1076:	but I said +"/.
+PAT-1077:	+" who belongs to it .
+PAT-1078:	I meant to say +"/.
+PAT-1079:	+" who belongs to it .
+PAT-1080:	I meant it as a joke .
+RAL-1081:	<laugh> .
+MAR-1082:	that's good .
+MAR-1083:	keep talking guys .
+MAR-1084:	that's good stuff .
+RAL-1085:	<laughing> (0.2) .
+PAT-1086:	anybody gonna finish up those raspberry cookies ?
+RAL-1087:	mhm .
+MAR-1088:	semantics and all that stuff, great stuff .
+AMY-1089:	xxx .
+AMY-1090:	(0.3) but I will anyway .
+MAR-1091:	&=giggles .
+RAL-1092:	yeah .
+RAL-1093:	as long as you don't use it to put it under your armpits .
+MAR-1094:	<laugh>s .
+PAT-1095:	I got to get up in the morning .
+PAT-1096:	and put a load of clothes in, huh ?
+MAR-1097:	yup [% crumbling paper] .
+MAR-1098:	we were going to do it today .
+MAR-1099:	I don't know what happened .
+AMY-1100:	shut up .
+FRE-1101:	<laughing> hit her, hit her hard .
+MAR-1102:	<laugh> hello .
+MAR-1103:	Daddy ?
+AMY-1104:	Mom burned her finger today (0.5) .
+PAT-1105:	I had a lot of work to do today .
+AMY-1106:	and some of us had a day job today (0.3) .
+MAR-1107:	some of us had a hard day on Wednesday .
+MAR-1108:	we haven't ⌈recovered yet⌉ .
+AMY-1109:	           ⌊some of us had⌋ a hard day on Wednesday too .
+AMY-1110:	and we're still sick &=exhales (0.5) .
+AMY-1111:	well, and I feel more sorry for Bradely than you .
+MAR-1112:	why, he should never be angry at me: .
+AMY-1113:	because more than likely .
+AMY-1114:	you were having a conniption fit and making him nervous .
+FRE-1115:	<laugh>s .
+MAR-1116:	xxx before the cats find it (0.3) .
+RAL-1117:	these are big .
+RAL-1118:	they are bigger than the other ones .
+PAT-1119:	you better find that xxx .
+AMY-1120:	he doesn't care if the cat chews it up .
+PAT-1121:	no, but I: do .
+AMY-1122:	&=exhales (0.8) .
+AMY-1123:	oh okaydoky .
+AMY-1124:	look at the dishes .
+MAR-1125:	oh man .
+MAR-1126:	it's not my turn .
+FRE-1127:	no .
+AMY-1128:	excuse me .
+MAR-1129:	it's Brad's turn .
+AMY-1130:	that's right .
+AMY-1131:	I keep it .
+AMY-1132:	it's the men's night .
+PAT-1133:	yeah because I can't put my hand under water anymore .
+MAR-1134:	oh yea:h .
+FRE-1135:	<laughing> .
+MAR-1136:	and Amy and I did them this afternoon .
+MAR-1137:	guess it's the guys turn, right ?
+AMY-1138:	that's right, and I helped to do dishes ⁎last⁎ night .
+FRE-1139:	where ?
+AMY-1140:	at Ma's house .
+RAL-1141:	did you really ?
+AMY-1142:	I did .
+FRE-1143:	xxx pots .
+FRE-1144:	I did them .
+AMY-1145:	you know what was really scary, .
+AMY-1146:	I didn't spend a minute down in the basement .
+RAL-1147:	yeah cause you were doing the coffee cups and everything afterwards .
+MAR-1148:	I'm cold [% chattering her teeth] .
+PAT-1149:	xxx diningroom though, .
+PAT-1150:	I don't know how much was on the dining table .
+PAT-1151:	but I saw tons of beer cans and +...
+AMY-1152:	why don't you collect those cans ?
+RAL-1153:	Ma coll(ects) +/.
+PAT-1154:	+, Ma collects them .
+AMY-1155:	oh .
+PAT-1156:	Ma, Ma took the cans in .
+PAT-1157:	she had forty three dollars and seventy some cents .
+RAL-1158:	she had a moving van (.) I think (0.3) .
+PAT-1159:	but she found a different place because she said she doesn't like to go over on flavey road .
+PAT-1160:	(1.7) flavey road is where that +...
+RAL-1161:	++ truck .
+PAT-1162:	truck went over the +...
+RAL-1163:	++ &~m car .
+PAT-1164:	car killing three people from grant lake .
+MAR-1165:	what do you mean the truck went over ?
+MAR-1166:	over what ?
+RAL-1167:	⌈guy from atlanta⌉ .
+PAT-1168:	⌊guy⌋ drove all the way over from atlanta without a &~s without making a rest stop .
+PAT-1169:	he had [/] he didn't have any sleep .
+RAL-1170:	amazing .
+AMY-1171:	so ?
+RAL-1172:	then he r(an) [/] then he ran into a car .
+PAT-1173:	got off +...
+RAL-1174:	I think he burst into flames, didn't he ?
+PAT-1175:	mhm, ca(r) [/] the truck ran right over .
+RAL-1176:	ran right over him .
+PAT-1177:	right up and over and killed three young people .
+MAR-1178:	up and over what ?
+RAL-1179:	⌈a car⌉ .
+PAT-1180:	⌊a car⌋ .
+RAL-1181:	⌈at an exit ramp⌉ .
+PAT-1182:	⌊with three young⌋ coup(le) [/] three young people in it from the grant lake naval base .
+RAL-1183:	wow .
+AMY-1184:	you just kept saying +"/.
+AMY-1185:	+" up and over, up and over, up and over .
+RAL-1186:	forget it .
+MAR-1187:	⌈did the truck driver die⌉ ?
+RAL-1188:	⌊just call me if you get too much news⌋ .
+RAL-1189:	what ?
+AMY-1190:	just kidding .
+MAR-1191:	they should shoot him .
+RAL-1192:	hoh &=sigh .
+MAR-1193:	well, that's what he deserves, isn't it ?
+PAT-1194:	well, he certainly deserves to go to jail .
+MAR-1195:	⌈did he⌉ ?
+AMY-1196:	⌊were all three people killed⌋ ?
+PAT-1197:	ha, you never read a follow up .
+AMY-1198:	all three people were killed ?
+PAT-1199:	yeah, they were all like y'know twenty one, twenty two .
+RAL-1200:	yeah, they were about the same .
+AMY-1201:	what would you charge him with .
+MAR-1202:	with three counts of manslaughter .
+RAL-1203:	probably manslaughter .
+%com:	clock strikes in hall
+AMY-1204:	⌈I think that reckless driving would be⌉ .
+MAR-1205:	⌊reckless driving⌋ .
+MAR-1206:	three counts of manslaughter .
+MAR-1207:	whole tons of things .
+PAT-1208:	he ⁎was⁎ probably ⌈asleep⌉ .
+RAL-1209:	                  ⌊your clock's slow too⌋ .
+PAT-1210:	hm ?
+RAL-1211:	your clock's slow, too .
+RAL-1212:	oh you took the battery out .
+AMY-1213:	what kind of truck was he driving ?
+PAT-1214:	yeah, but I fixed them, after .
+RAL-1215:	that one, too ?
+PAT-1216:	probably .
+PAT-1217:	Amy and I did it .
+AMY-1218:	what kind of truck ⌈was he driving⌉ ?
+RAL-1219:	                   ⌊that one is five minutes slow⌋ .
+AMY-1220:	so was your truck ⁎dri⁎ver .
+RAL-1221:	because your ⁎vcr⁎ is slow .
+MAR-1222:	mhm .
+RAL-1223:	like ⌈almost thirty [/] fifteen minutes⌉ .
+AMY-1224:	     ⌊obvious that you killed somebody⌋ .
+AMY-1225:	if it went up and over .
+MAR-1226:	I know, its +/.
+PAT-1227:	+, but Flavey Road, .
+PAT-1228:	there's been a lot of accidents at Flavey Road .
+PAT-1229:	because evidently it's a funny intersection .
+PAT-1230:	they've been (0.1) .
+PAT-1231:	every now and then you see on the news where people go out with uh you know their little placards and try to get the state to (.) change the way the road has been drawn up .
+MAR-1232:	and way [/] we had some lady call in and say +"/.
+MAR-1233:	+" she doesn't like the way the intersection at Bowdy and and uh (.) Salin were painted .
+MAR-1234:	It be [/] it might have been Bowdy (0.2) .
+MAR-1235:	It's right on a turn where (0.1) where I [/] coming home from you +...
+MAR-1236:	from your place you come out of that (.) slow turn .
+MAR-1237:	and then you make (.) the first left or something .
+RAL-1238:	it's Bowdy and .
+AMY-1239:	Gallan .
+PAT-1240:	don't you try to talk about Birch .
+RAL-1241:	⌈it's Bowdy and Gallan⌉ .
+MAR-1242:	⌊it's Bowdy and Gallan⌋ .
+AMY-1243:	⌊Gallan on this side and Jody on the other⌋ .
+RAL-1244:	yeah .
+MAR-1245:	that's where it is .
+RAL-1246:	there's a four way stop there .
+RAL-1247:	that's a four way stop .
+AMY-1248:	no (.) there's no stop .
+MAR-1249:	yah sure there is .
+MAR-1250:	⌈a four way stop⌉ .
+RAL-1251:	⌊at Bowdy and Gallan there is⌋ .
+AMY-1252:	oh you mean .
+RAL-1253:	the other is Jody and Bowdy or whatever you're talking <laughing> .
+AMY-1254:	okay I was thinking of the other one .
+MAR-1255:	Jody and Bowdy ?
+PAT-1256:	maybe it's Brinkley and Bowdy .
+AMY-1257:	uhm so what I was thinking of where you go you make a left turn from the left lane and and you go straight or right from the right lane .
+PAT-1258:	oh that's at u:hm u:hm .
+MAR-1259:	it's on Bowdy .
+RAL-1260:	is that fifty eight and Banta ?
+PAT-1261:	uh (.) fifty eight and Banta .
+MAR-1262:	it's on Bowdy .
+RAL-1263:	it's on five lanes .
+AMY-1264:	it's on Bowdy .
+AMY-1265:	because I remember taking up .
+AMY-1266:	I remember taking a phone call .
+AMY-1267:	she's go [/] she got so u(pset) [/] she's upset , she goes +/.
+FRE-1268:	Salin and Bowdy .
+FRE-1269:	Salin comes like this .
+FRE-1270:	and Bowdy curves .
+AMY-1271:	see that might have been right .
+AMY-1272:	⌈that⌉ was my first thought but .
+FRE-1273:	⌊straight⌋ .
+AMY-1274:	my first thought but .
+FRE-1275:	that's one lane .
+FRE-1276:	the left lane is for going straight .
+MAR-1277:	it's not [/] no because it's a four way stop, isn't it ?
+FRE-1278:	no (0.3) .
+AMY-1279:	Bowdy and Salin .
+AMY-1280:	four way stop .
+PAT-1281:	I think it wasn't there one time though .
+AMY-1282:	well I'm talking recently .
+AMY-1283:	she called in the summer time .
+AMY-1284:	and she's like the way the painting is .
+RAL-1285:	oh it sure was .
+AMY-1286:	sh(e) [/] sh(e) [/] she doesn't like the way the s(he) [/] the painting is .
+AMY-1287:	yeah you know cause she doesn't like making left turn in the left lane and going straight .
+AMY-1288:	she thinks she should be able to go straight .
+AMY-1289:	or make a left (.) from the left lane .
+AMY-1290:	and only right turn .
+AMY-1291:	on that one lane .
+AMY-1292:	cause she's like people .
+AMY-1293:	so I want the town to change it .
+MAR-1294:	<laugh>s .
+AMY-1295:	that's okay .
+AMY-1296:	I gave it to Ken .
+AMY-1297:	I said +"/.
+AMY-1298:	+" Ken you have a ⁎job⁎ to do .
+AMY-1299:	+" you have to change the whole painting on the street .
+AMY-1300:	and he's like +"/.
+AMY-1301:	+" why ?
+AMY-1302:	+" (be)cause this lady wants you to .
+AMY-1303:	and he said that there had been had complaints about that intersection before and uh [/] they were looking in to it .
+RAL-1304:	are you going to do an internship there next year ?
+AMY-1305:	yeah (.) he was talking about it .
+AMY-1306:	they say +"/.
+AMY-1307:	+" what he wants to get is a full time drafting technician .
+MAR-1308:	that would be awesome money .
+AMY-1309:	I would be their first candidate because he [/] he says [/] you know, he said to me +"/.
+AMY-1310:	+" what's your (.) schedule like ?
+AMY-1311:	and I said +"/.
+AMY-1312:	+" well I have construction in my second [/] in my second drafting class .
+AMY-1313:	he says +"/.
+AMY-1314:	+" well, what I'd like to get is an engineering student that uh has some kind of drafting experience .
+AMY-1315:	he says +"/.
+AMY-1316:	+" I don't want to get anybody that uh has just no drafting experience at all .
+AMY-1317:	and he said +"/.
+AMY-1318:	+" we'll discuss it over Christmas break (0.2) .
+AMY-1319:	and he says +"/.
+AMY-1320:	+" there will be some kind of pay increase .
+AMY-1321:	and I started smiling .
+AMY-1322:	I just said +"/.
+AMY-1323:	+" what ?
+RAL-1324:	what's his name ?
+RAL-1325:	Ken ?
+AMY-1326:	Fred .
+AMY-1327:	this is Fred Boudin ?
+AMY-1328:	and he starts laughing .
+AMY-1329:	and he says +"/.
+AMY-1330:	+" a ⁎li:ttle⁎ pay increase .
+AMY-1331:	that's not what I'm worrying about, you know .
+AMY-1332:	all I have to do is .
+AMY-1333:	just (.) put an application to I_dot and say +"/.
+AMY-1334:	+" hey, hire me .
+FRE-1335:	hey, they're gonna jump .
+AMY-1336:	yes they will, I'm a minority .
+RAL-1337:	<laughing> .
+AMY-1338:	I'm serious .
+PAT-1339:	well you better put in application .
+AMY-1340:	I've got have time .
+PAT-1341:	I know you do .
+PAT-1342:	but I mean you better (.) not rely on .
+AMY-1343:	I've gotta list of construction agent here .
+RAL-1344:	what are you gonna do there all ?
+AMY-1345:	put all those places in there .
+AMY-1346:	I wanted to do a resume first .
+AMY-1347:	I told Sheryl I was gonna, .
+AMY-1348:	she said are you gonna add this place .
+AMY-1349:	yeah, I was gonna make it sounded like I was .
+AMY-1350:	all I didn't do was kind of copying and typing and stuff .
+AMY-1351:	I'll just add in some plans and stuff .
+AMY-1352:	she said .
+PAT-1353:	&=coughing .
+AMY-1354:	she said uhm .
+AMY-1355:	now was it Christmas break or was it summer ?
+AMY-1356:	would it be all right right if I came back over the summer ?
+AMY-1357:	you know ?
+AMY-1358:	because she didn't realize .
+AMY-1359:	I have to go on an internship next summer .
+AMY-1360:	she said +"/.
+AMY-1361:	+" if you come ba:ck .
+AMY-1362:	maybe he can assign you to me and .
+AMY-1363:	we'll have a few runs, you know ?
+AMY-1364:	so I will teach you how to yell at contractors .
