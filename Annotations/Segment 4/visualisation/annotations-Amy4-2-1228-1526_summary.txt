@@ -1,0 +1,52 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	None_0 > None_0
+	1228_1 > 1252_25
+	1253_26 > 1283_56
+	1284_57 > 1287_60
+	1288_61 > 1295_68
+	1296_69 > 1302_75
+	1303_76 > 1308_81
+	1309_82 > 1322_95
+	1323_96 > 1346_119
+	1347_120 > 1358_131
+	1359_132 > 1365_139
+	1366_140 > 1392_166
+	1393_167 > 1405_179
+	1406_180 > 1441_215
+	1442_216 > 1447_221
+	1448_222 > 1463_237
+	1464_238 > 1468_242
+	1469_243 > 1478_252
+	1479_253 > 1480_254
+	1481_255 > 1484_258
+	1485_259 > 1488_262
+	1489_263 > 1526_300
+
+
+Relations:
+	s_None --- Continuation --- A_1228
+	B_1252 --- Continuation --- A_1253
+	A_1258 --- Digression --- B_1259
+	B_1283 --- Continuation --- A_1284
+	A_1287 --- Enumeration --- B_1288
+	B_1295 --- Continuation --- B_1296
+	A_1302 --- Continuation --- B_1303
+	A_1308 --- Continuation --- B_1309
+	A_1322 --- Continuation --- B_1323
+	A_1346 --- Enumeration --- B_1347
+	B_1358 --- Continuation --- A_1359
+	A_1365 --- Explanation --- A_1366
+	A_1392 --- Meta --- B_1393
+	B_1405 --- Explanation --- A_1406
+	A_1441 --- Unrelated --- A_1442
+	B_1447 --- Continuation --- B_1448
+	A_1463 --- Explanation --- A_1464
+	A_1468 --- Explanation --- B_1469
+	B_1478 --- Explanation --- B_1479
+	A_1480 --- Illustration --- B_1481
+	A_1484 --- Illustration --- B_1485
+	A_1488 --- Continuation --- B_1489

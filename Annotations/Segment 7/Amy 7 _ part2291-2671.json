@@ -1,0 +1,4188 @@
+{
+  "id": "In : Third part",
+  "edus": [
+    {
+      "text": "ha ha (1.5) ha ha so he's always asking me now “what is your theme” ?",
+      "speaker": "A",
+      "eduidx": 0,
+      "turnidx": 2291
+    },
+    {
+      "text": "+\" have you gotten a theme yet ?",
+      "speaker": "A",
+      "eduidx": 1,
+      "turnidx": 2292
+    },
+    {
+      "text": "⌈ <laugh>⌉ .",
+      "speaker": "B",
+      "eduidx": 2,
+      "turnidx": 2293
+    },
+    {
+      "text": "⌊“yes⌋, s",
+      "speaker": "A",
+      "eduidx": 3,
+      "turnidx": 2294
+    },
+    {
+      "text": "(1.) Brianne Smith is in my class .",
+      "speaker": "A",
+      "eduidx": 4,
+      "turnidx": 2295
+    },
+    {
+      "text": "is she really ?",
+      "speaker": "B",
+      "eduidx": 5,
+      "turnidx": 2296
+    },
+    {
+      "text": "yes she is .",
+      "speaker": "A",
+      "eduidx": 6,
+      "turnidx": 2297
+    },
+    {
+      "text": "oh wow .",
+      "speaker": "B",
+      "eduidx": 7,
+      "turnidx": 2298
+    },
+    {
+      "text": "that was cool .",
+      "speaker": "A",
+      "eduidx": 8,
+      "turnidx": 2299
+    },
+    {
+      "text": "I couldn't believe it the day she walked in .",
+      "speaker": "A",
+      "eduidx": 9,
+      "turnidx": 2300
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 10,
+      "turnidx": 2301
+    },
+    {
+      "text": "I mean I [/] I never knew her before and then we went to classes ⌈and⌉ +...",
+      "speaker": "A",
+      "eduidx": 11,
+      "turnidx": 2302
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "B",
+      "eduidx": 12,
+      "turnidx": 2303
+    },
+    {
+      "text": "that was neat (2.) it's neat .",
+      "speaker": "A",
+      "eduidx": 13,
+      "turnidx": 2304
+    },
+    {
+      "text": "ha ha she [/] she missess class every now and then .",
+      "speaker": "A",
+      "eduidx": 14,
+      "turnidx": 2305
+    },
+    {
+      "text": "oh yeah .",
+      "speaker": "B",
+      "eduidx": 15,
+      "turnidx": 2306
+    },
+    {
+      "text": "I bet she does <laugh> .",
+      "speaker": "B",
+      "eduidx": 16,
+      "turnidx": 2307
+    },
+    {
+      "text": "she's wild .",
+      "speaker": "A",
+      "eduidx": 17,
+      "turnidx": 2308
+    },
+    {
+      "text": "+\" that was a rough night ye",
+      "speaker": "B",
+      "eduidx": 18,
+      "turnidx": 2309
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 19,
+      "turnidx": 2310
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 20,
+      "turnidx": 2311
+    },
+    {
+      "text": "<laugh> (1.5) she's funny .",
+      "speaker": "A",
+      "eduidx": 21,
+      "turnidx": 2312
+    },
+    {
+      "text": "(1.) we have a friend in common .",
+      "speaker": "A",
+      "eduidx": 22,
+      "turnidx": 2313
+    },
+    {
+      "text": "(1.5) I mean that was her friend from before .",
+      "speaker": "A",
+      "eduidx": 23,
+      "turnidx": 2314
+    },
+    {
+      "text": "or [/] I don't know if she had any friends .",
+      "speaker": "A",
+      "eduidx": 24,
+      "turnidx": 2315
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 25,
+      "turnidx": 2316
+    },
+    {
+      "text": "a",
+      "speaker": "A",
+      "eduidx": 26,
+      "turnidx": 2317
+    },
+    {
+      "text": "++ uhhuh .",
+      "speaker": "B",
+      "eduidx": 27,
+      "turnidx": 2318
+    },
+    {
+      "text": "yeah ?",
+      "speaker": "B",
+      "eduidx": 28,
+      "turnidx": 2319
+    },
+    {
+      "text": "yeah, I guess so .",
+      "speaker": "A",
+      "eduidx": 29,
+      "turnidx": 2320
+    },
+    {
+      "text": "(5.) I've been having a pretty good year .",
+      "speaker": "A",
+      "eduidx": 30,
+      "turnidx": 2321
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 31,
+      "turnidx": 2322
+    },
+    {
+      "text": "(1.) after I [/] after I broke up with Ken .",
+      "speaker": "A",
+      "eduidx": 32,
+      "turnidx": 2323
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 33,
+      "turnidx": 2324
+    },
+    {
+      "text": "I got over that .",
+      "speaker": "A",
+      "eduidx": 34,
+      "turnidx": 2325
+    },
+    {
+      "text": "(2.) that would've probably gotten nowhere you know .",
+      "speaker": "A",
+      "eduidx": 35,
+      "turnidx": 2326
+    },
+    {
+      "text": "ah [/] he he .",
+      "speaker": "A",
+      "eduidx": 36,
+      "turnidx": 2327
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 37,
+      "turnidx": 2328
+    },
+    {
+      "text": "it was just time .",
+      "speaker": "A",
+      "eduidx": 38,
+      "turnidx": 2329
+    },
+    {
+      "text": "something like gone or what⌈ever⌉ .",
+      "speaker": "B",
+      "eduidx": 39,
+      "turnidx": 2330
+    },
+    {
+      "text": "⌊it was⌋ just gone .",
+      "speaker": "A",
+      "eduidx": 40,
+      "turnidx": 2331
+    },
+    {
+      "text": "I was done with it you know .",
+      "speaker": "A",
+      "eduidx": 41,
+      "turnidx": 2332
+    },
+    {
+      "text": "and then I had to go through the telling him which was not good .",
+      "speaker": "A",
+      "eduidx": 42,
+      "turnidx": 2333
+    },
+    {
+      "text": "mhm ⌈mhm⌉ .",
+      "speaker": "B",
+      "eduidx": 43,
+      "turnidx": 2334
+    },
+    {
+      "text": "⌊and⌋ I have not seen or heard from him or talked to him +/.",
+      "speaker": "A",
+      "eduidx": 44,
+      "turnidx": 2335
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 45,
+      "turnidx": 2336
+    },
+    {
+      "text": "+, or written to him .",
+      "speaker": "A",
+      "eduidx": 46,
+      "turnidx": 2337
+    },
+    {
+      "text": "I wr[/] I mean I wrote to him .",
+      "speaker": "A",
+      "eduidx": 47,
+      "turnidx": 2338
+    },
+    {
+      "text": "oh ⌈ye",
+      "speaker": "B",
+      "eduidx": 48,
+      "turnidx": 2339
+    },
+    {
+      "text": "⌊but he⌋ did never write to me .",
+      "speaker": "A",
+      "eduidx": 49,
+      "turnidx": 2340
+    },
+    {
+      "text": "(2.) so we've had no contact since +/.",
+      "speaker": "A",
+      "eduidx": 50,
+      "turnidx": 2341
+    },
+    {
+      "text": "mhm ⌈mhm⌉ .",
+      "speaker": "B",
+      "eduidx": 51,
+      "turnidx": 2342
+    },
+    {
+      "text": "⌊Sept⌋ember [/] end of September .",
+      "speaker": "A",
+      "eduidx": 52,
+      "turnidx": 2343
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 53,
+      "turnidx": 2344
+    },
+    {
+      "text": "and I guess that's the way he wants it +/.",
+      "speaker": "A",
+      "eduidx": 54,
+      "turnidx": 2345
+    },
+    {
+      "text": "⌈yes⌉ .",
+      "speaker": "B",
+      "eduidx": 55,
+      "turnidx": 2346
+    },
+    {
+      "text": "+, ⌊I⌋ guess that's the way he's dealing with it .",
+      "speaker": "A",
+      "eduidx": 56,
+      "turnidx": 2347
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 57,
+      "turnidx": 2348
+    },
+    {
+      "text": "which is fine .",
+      "speaker": "A",
+      "eduidx": 58,
+      "turnidx": 2349
+    },
+    {
+      "text": "you know I ⌈really⌉ .",
+      "speaker": "A",
+      "eduidx": 59,
+      "turnidx": 2350
+    },
+    {
+      "text": "⌊maybe⌋ some time +/.",
+      "speaker": "B",
+      "eduidx": 60,
+      "turnidx": 2351
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 61,
+      "turnidx": 2352
+    },
+    {
+      "text": "+, some day .",
+      "speaker": "B",
+      "eduidx": 62,
+      "turnidx": 2353
+    },
+    {
+      "text": "I think so .",
+      "speaker": "A",
+      "eduidx": 63,
+      "turnidx": 2354
+    },
+    {
+      "text": "I know he'll show up again but (1.) it's odd though .",
+      "speaker": "A",
+      "eduidx": 64,
+      "turnidx": 2355
+    },
+    {
+      "text": "(2.) I kind of miss him you ⌈know⌉ ?",
+      "speaker": "A",
+      "eduidx": 65,
+      "turnidx": 2356
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "B",
+      "eduidx": 66,
+      "turnidx": 2357
+    },
+    {
+      "text": "(1.5) but I just had to do it .",
+      "speaker": "A",
+      "eduidx": 67,
+      "turnidx": 2358
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 68,
+      "turnidx": 2359
+    },
+    {
+      "text": "(1.) not for any particular reason .",
+      "speaker": "A",
+      "eduidx": 69,
+      "turnidx": 2360
+    },
+    {
+      "text": "just [/] I had changed and I had moved on and I wanted to date other people and that's just the way it was +/.",
+      "speaker": "A",
+      "eduidx": 70,
+      "turnidx": 2361
+    },
+    {
+      "text": "++ yeah .",
+      "speaker": "B",
+      "eduidx": 71,
+      "turnidx": 2362
+    },
+    {
+      "text": "it was kind of sa",
+      "speaker": "A",
+      "eduidx": 72,
+      "turnidx": 2363
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 73,
+      "turnidx": 2364
+    },
+    {
+      "text": "(2.) you know .",
+      "speaker": "A",
+      "eduidx": 74,
+      "turnidx": 2365
+    },
+    {
+      "text": "I'm glad about the time we had .",
+      "speaker": "A",
+      "eduidx": 75,
+      "turnidx": 2366
+    },
+    {
+      "text": "I would't ⌈change it⌉ .",
+      "speaker": "A",
+      "eduidx": 76,
+      "turnidx": 2367
+    },
+    {
+      "text": "⌊oh yeah⌋ .",
+      "speaker": "B",
+      "eduidx": 77,
+      "turnidx": 2368
+    },
+    {
+      "text": "but it happens you know ?",
+      "speaker": "A",
+      "eduidx": 78,
+      "turnidx": 2369
+    },
+    {
+      "text": "(2.) you know [/] uhm [/] Linda Brown uhm [/] (1.) was going out with that guy from last year like you know the beginning of last year .",
+      "speaker": "B",
+      "eduidx": 79,
+      "turnidx": 2370
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 80,
+      "turnidx": 2371
+    },
+    {
+      "text": "and then you know he was [/] he [/] uhm [/] (1.) what was he in [/] (1.5) the army I guess .",
+      "speaker": "B",
+      "eduidx": 81,
+      "turnidx": 2372
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 82,
+      "turnidx": 2373
+    },
+    {
+      "text": "and uhm [/] (.) but he had been gone (.) from (.) like the spring all through the summer .",
+      "speaker": "B",
+      "eduidx": 83,
+      "turnidx": 2374
+    },
+    {
+      "text": "oh ⌈yeah⌉ .",
+      "speaker": "A",
+      "eduidx": 84,
+      "turnidx": 2375
+    },
+    {
+      "text": "⌊and⌋ he just got back a few weeks ago .",
+      "speaker": "B",
+      "eduidx": 85,
+      "turnidx": 2376
+    },
+    {
+      "text": "uh⌈huh⌉ .",
+      "speaker": "A",
+      "eduidx": 86,
+      "turnidx": 2377
+    },
+    {
+      "text": "⌊and then⌋ she broke up with him .",
+      "speaker": "B",
+      "eduidx": 87,
+      "turnidx": 2378
+    },
+    {
+      "text": "oh ha ha ⌈ha⌉ .",
+      "speaker": "A",
+      "eduidx": 88,
+      "turnidx": 2379
+    },
+    {
+      "text": "⌊they [/] ⌋ they had been going out this whole time that he was gone .",
+      "speaker": "B",
+      "eduidx": 89,
+      "turnidx": 2380
+    },
+    {
+      "text": "⌈you know⌉ +/.",
+      "speaker": "B",
+      "eduidx": 90,
+      "turnidx": 2381
+    },
+    {
+      "text": "⌊oh yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 91,
+      "turnidx": 2382
+    },
+    {
+      "text": "+, they were writing and calling +/.",
+      "speaker": "B",
+      "eduidx": 92,
+      "turnidx": 2383
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 93,
+      "turnidx": 2384
+    },
+    {
+      "text": "+, the whole time .",
+      "speaker": "B",
+      "eduidx": 94,
+      "turnidx": 2385
+    },
+    {
+      "text": "you know .",
+      "speaker": "B",
+      "eduidx": 95,
+      "turnidx": 2386
+    },
+    {
+      "text": "he was talking ⌈like⌉ .",
+      "speaker": "B",
+      "eduidx": 96,
+      "turnidx": 2387
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 97,
+      "turnidx": 2388
+    },
+    {
+      "text": "they were talking about engagement .",
+      "speaker": "B",
+      "eduidx": 98,
+      "turnidx": 2389
+    },
+    {
+      "text": "⌈it was⌉ .",
+      "speaker": "B",
+      "eduidx": 99,
+      "turnidx": 2390
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 100,
+      "turnidx": 2391
+    },
+    {
+      "text": "like a long term type of thing +/.",
+      "speaker": "B",
+      "eduidx": 101,
+      "turnidx": 2392
+    },
+    {
+      "text": "+, yeah .",
+      "speaker": "A",
+      "eduidx": 102,
+      "turnidx": 2393
+    },
+    {
+      "text": "<she was> [//] she .",
+      "speaker": "B",
+      "eduidx": 103,
+      "turnidx": 2394
+    },
+    {
+      "text": "and then sometimes when they do come back it's not the same .",
+      "speaker": "A",
+      "eduidx": 104,
+      "turnidx": 2395
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 105,
+      "turnidx": 2396
+    },
+    {
+      "text": "and they [/] it's [/] she knew it though .",
+      "speaker": "B",
+      "eduidx": 106,
+      "turnidx": 2397
+    },
+    {
+      "text": "she had a feeling like +...",
+      "speaker": "B",
+      "eduidx": 107,
+      "turnidx": 2398
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 108,
+      "turnidx": 2399
+    },
+    {
+      "text": "like ever since she got back to the city .",
+      "speaker": "B",
+      "eduidx": 109,
+      "turnidx": 2400
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 110,
+      "turnidx": 2401
+    },
+    {
+      "text": "you know ?",
+      "speaker": "B",
+      "eduidx": 111,
+      "turnidx": 2402
+    },
+    {
+      "text": "⌈yeah⌉ .",
+      "speaker": "A",
+      "eduidx": 112,
+      "turnidx": 2403
+    },
+    {
+      "text": "⌊and⌋ she had started kind of seeing a guy she was working with .",
+      "speaker": "B",
+      "eduidx": 113,
+      "turnidx": 2404
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 114,
+      "turnidx": 2405
+    },
+    {
+      "text": "kind of .",
+      "speaker": "B",
+      "eduidx": 115,
+      "turnidx": 2406
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 116,
+      "turnidx": 2407
+    },
+    {
+      "text": "and then +...",
+      "speaker": "B",
+      "eduidx": 117,
+      "turnidx": 2408
+    },
+    {
+      "text": "⌈uhhuh⌉ .",
+      "speaker": "A",
+      "eduidx": 118,
+      "turnidx": 2409
+    },
+    {
+      "text": "⌊it⌋ was kind of developing ⌈and⌉ +/.",
+      "speaker": "B",
+      "eduidx": 119,
+      "turnidx": 2410
+    },
+    {
+      "text": "⌊ <laugh>⌋ .",
+      "speaker": "A",
+      "eduidx": 120,
+      "turnidx": 2411
+    },
+    {
+      "text": "+, you know .",
+      "speaker": "B",
+      "eduidx": 121,
+      "turnidx": 2412
+    },
+    {
+      "text": "he got ⌈back⌉ +/.",
+      "speaker": "B",
+      "eduidx": 122,
+      "turnidx": 2413
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 123,
+      "turnidx": 2414
+    },
+    {
+      "text": "+, and you know .",
+      "speaker": "B",
+      "eduidx": 124,
+      "turnidx": 2415
+    },
+    {
+      "text": "she said it was kind of great .",
+      "speaker": "B",
+      "eduidx": 125,
+      "turnidx": 2416
+    },
+    {
+      "text": "it was beautiful .",
+      "speaker": "B",
+      "eduidx": 126,
+      "turnidx": 2417
+    },
+    {
+      "text": "you ⌈know⌉ +/.",
+      "speaker": "B",
+      "eduidx": 127,
+      "turnidx": 2418
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 128,
+      "turnidx": 2419
+    },
+    {
+      "text": "+, him coming home .",
+      "speaker": "B",
+      "eduidx": 129,
+      "turnidx": 2420
+    },
+    {
+      "text": "⌈it was⌉ +/.",
+      "speaker": "B",
+      "eduidx": 130,
+      "turnidx": 2421
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 131,
+      "turnidx": 2422
+    },
+    {
+      "text": "+, it was great .",
+      "speaker": "B",
+      "eduidx": 132,
+      "turnidx": 2423
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 133,
+      "turnidx": 2424
+    },
+    {
+      "text": "and then the next da",
+      "speaker": "B",
+      "eduidx": 134,
+      "turnidx": 2425
+    },
+    {
+      "text": "ah ha ⌈ha ha⌉ .",
+      "speaker": "A",
+      "eduidx": 135,
+      "turnidx": 2426
+    },
+    {
+      "text": "+,    ⌊you know⌋ .",
+      "speaker": "B",
+      "eduidx": 136,
+      "turnidx": 2427
+    },
+    {
+      "text": "I mean sh[/] she couldn't ignore her feelings .",
+      "speaker": "B",
+      "eduidx": 137,
+      "turnidx": 2428
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 138,
+      "turnidx": 2429
+    },
+    {
+      "text": "I mean she was right I mean for a while it was great to see him .",
+      "speaker": "B",
+      "eduidx": 139,
+      "turnidx": 2430
+    },
+    {
+      "text": "but she didn't want to +/.",
+      "speaker": "B",
+      "eduidx": 140,
+      "turnidx": 2431
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 141,
+      "turnidx": 2432
+    },
+    {
+      "text": "+, elope with him .",
+      "speaker": "B",
+      "eduidx": 142,
+      "turnidx": 2433
+    },
+    {
+      "text": "o",
+      "speaker": "A",
+      "eduidx": 143,
+      "turnidx": 2434
+    },
+    {
+      "text": "that was (.) nasty messy .",
+      "speaker": "B",
+      "eduidx": 144,
+      "turnidx": 2435
+    },
+    {
+      "text": "o",
+      "speaker": "A",
+      "eduidx": 145,
+      "turnidx": 2436
+    },
+    {
+      "text": "it was ⌈xxx⌉ .",
+      "speaker": "B",
+      "eduidx": 146,
+      "turnidx": 2437
+    },
+    {
+      "text": "⌊it's⌋ hard .",
+      "speaker": "A",
+      "eduidx": 147,
+      "turnidx": 2438
+    },
+    {
+      "text": "I mean he (.) you know was totally +...",
+      "speaker": "B",
+      "eduidx": 148,
+      "turnidx": 2439
+    },
+    {
+      "text": "⌈yeah⌉ .",
+      "speaker": "A",
+      "eduidx": 149,
+      "turnidx": 2440
+    },
+    {
+      "text": "⌊thought that⌋ they were going to get married and stuff like that .",
+      "speaker": "B",
+      "eduidx": 150,
+      "turnidx": 2441
+    },
+    {
+      "text": "hhhh .",
+      "speaker": "A",
+      "eduidx": 151,
+      "turnidx": 2442
+    },
+    {
+      "text": "and she was just not +...",
+      "speaker": "B",
+      "eduidx": 152,
+      "turnidx": 2443
+    },
+    {
+      "text": "(1.5) I know .",
+      "speaker": "A",
+      "eduidx": 153,
+      "turnidx": 2444
+    },
+    {
+      "text": "(2.) oh .",
+      "speaker": "A",
+      "eduidx": 154,
+      "turnidx": 2445
+    },
+    {
+      "text": "and she's happy you know she's happy now .",
+      "speaker": "B",
+      "eduidx": 155,
+      "turnidx": 2446
+    },
+    {
+      "text": "oh that's good xxx .",
+      "speaker": "A",
+      "eduidx": 156,
+      "turnidx": 2447
+    },
+    {
+      "text": "not that they're serious now or anything .",
+      "speaker": "B",
+      "eduidx": 157,
+      "turnidx": 2448
+    },
+    {
+      "text": "but I mean (.) she doesn't really want it that way .",
+      "speaker": "B",
+      "eduidx": 158,
+      "turnidx": 2449
+    },
+    {
+      "text": "⌈you know⌉ ?",
+      "speaker": "B",
+      "eduidx": 159,
+      "turnidx": 2450
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 160,
+      "turnidx": 2451
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 161,
+      "turnidx": 2452
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 162,
+      "turnidx": 2453
+    },
+    {
+      "text": "(3.) I already [/] I dated two different guys .",
+      "speaker": "A",
+      "eduidx": 163,
+      "turnidx": 2454
+    },
+    {
+      "text": "really ?",
+      "speaker": "B",
+      "eduidx": 164,
+      "turnidx": 2455
+    },
+    {
+      "text": "and one of them I really like .",
+      "speaker": "A",
+      "eduidx": 165,
+      "turnidx": 2456
+    },
+    {
+      "text": "(1.) but he's +...",
+      "speaker": "A",
+      "eduidx": 166,
+      "turnidx": 2457
+    },
+    {
+      "text": "that guy that hasn't been calling back ?",
+      "speaker": "B",
+      "eduidx": 167,
+      "turnidx": 2458
+    },
+    {
+      "text": "uhm [/] (2.) wait [/] no this is a different one .",
+      "speaker": "A",
+      "eduidx": 168,
+      "turnidx": 2459
+    },
+    {
+      "text": "u",
+      "speaker": "B",
+      "eduidx": 169,
+      "turnidx": 2460
+    },
+    {
+      "text": "he he he .",
+      "speaker": "B",
+      "eduidx": 170,
+      "turnidx": 2461
+    },
+    {
+      "text": "no .",
+      "speaker": "A",
+      "eduidx": 171,
+      "turnidx": 2462
+    },
+    {
+      "text": "this is Brian .",
+      "speaker": "A",
+      "eduidx": 172,
+      "turnidx": 2463
+    },
+    {
+      "text": "and uhm [/] (1.5) he's [/] uhm [/] (2.) he's transferring (.) next ⌈semester⌉ .",
+      "speaker": "A",
+      "eduidx": 173,
+      "turnidx": 2464
+    },
+    {
+      "text": "⌊o",
+      "speaker": "B",
+      "eduidx": 174,
+      "turnidx": 2465
+    },
+    {
+      "text": "(1.) yeah +/.",
+      "speaker": "A",
+      "eduidx": 175,
+      "turnidx": 2466
+    },
+    {
+      "text": "++ to where ?",
+      "speaker": "B",
+      "eduidx": 176,
+      "turnidx": 2467
+    },
+    {
+      "text": "Cornell College +/.",
+      "speaker": "A",
+      "eduidx": 177,
+      "turnidx": 2468
+    },
+    {
+      "text": "++ really ?",
+      "speaker": "B",
+      "eduidx": 178,
+      "turnidx": 2469
+    },
+    {
+      "text": "that's a long way .",
+      "speaker": "B",
+      "eduidx": 179,
+      "turnidx": 2470
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 180,
+      "turnidx": 2471
+    },
+    {
+      "text": "(2.) well (1.) he's like “well, I'm really sorry” +/.",
+      "speaker": "A",
+      "eduidx": 181,
+      "turnidx": 2472
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 182,
+      "turnidx": 2473
+    },
+    {
+      "text": "“but I l[/] this is been coming for a long time and I finally decided to do it” +/.",
+      "speaker": "A",
+      "eduidx": 183,
+      "turnidx": 2474
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 184,
+      "turnidx": 2475
+    },
+    {
+      "text": "+, “and I have to do it and see if I like it” .",
+      "speaker": "A",
+      "eduidx": 185,
+      "turnidx": 2476
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 186,
+      "turnidx": 2477
+    },
+    {
+      "text": "so (.) you know (.) I've decided (.) to live with it .",
+      "speaker": "A",
+      "eduidx": 187,
+      "turnidx": 2478
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 188,
+      "turnidx": 2479
+    },
+    {
+      "text": "and see how it's developing .",
+      "speaker": "A",
+      "eduidx": 189,
+      "turnidx": 2480
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 190,
+      "turnidx": 2481
+    },
+    {
+      "text": "(4.) but I'm trying to just kind of (.) take it easy +/.",
+      "speaker": "A",
+      "eduidx": 191,
+      "turnidx": 2482
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 192,
+      "turnidx": 2483
+    },
+    {
+      "text": "+, that's the one thing .",
+      "speaker": "A",
+      "eduidx": 193,
+      "turnidx": 2484
+    },
+    {
+      "text": "oh yeah +/.",
+      "speaker": "B",
+      "eduidx": 194,
+      "turnidx": 2485
+    },
+    {
+      "text": "++ and just (.) have a few (.) not so serious dates and stuff .",
+      "speaker": "A",
+      "eduidx": 195,
+      "turnidx": 2486
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 196,
+      "turnidx": 2487
+    },
+    {
+      "text": "you know .",
+      "speaker": "A",
+      "eduidx": 197,
+      "turnidx": 2488
+    },
+    {
+      "text": "(be)cause I think it's good for me .",
+      "speaker": "A",
+      "eduidx": 198,
+      "turnidx": 2489
+    },
+    {
+      "text": "(1.) everyone has to do it and then see .",
+      "speaker": "A",
+      "eduidx": 199,
+      "turnidx": 2490
+    },
+    {
+      "text": "it's [/] (2.) in the long run I'll be glad that I had a little more experience with a few different ⌈guys you know⌉ .",
+      "speaker": "A",
+      "eduidx": 200,
+      "turnidx": 2491
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "B",
+      "eduidx": 201,
+      "turnidx": 2492
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 202,
+      "turnidx": 2493
+    },
+    {
+      "text": "(1.) in the long run I'll be all right you know look back at [/] at all the friend [/] good friends I've made and [/] you know and say well (1.5) “I did it” +/.",
+      "speaker": "A",
+      "eduidx": 203,
+      "turnidx": 2494
+    },
+    {
+      "text": "⌈yeah⌉ .",
+      "speaker": "B",
+      "eduidx": 204,
+      "turnidx": 2495
+    },
+    {
+      "text": "+, ⌊you⌋ know ?",
+      "speaker": "A",
+      "eduidx": 205,
+      "turnidx": 2496
+    },
+    {
+      "text": "and not just say have dated this guy for so long ⌈you know⌉ .",
+      "speaker": "A",
+      "eduidx": 206,
+      "turnidx": 2497
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "B",
+      "eduidx": 207,
+      "turnidx": 2498
+    },
+    {
+      "text": "(2.) so (.) it's not always easy and you do get attached kind of ⌈fast sometimes⌉ .",
+      "speaker": "A",
+      "eduidx": 208,
+      "turnidx": 2499
+    },
+    {
+      "text": "⌊oh I know⌋ <laugh> .",
+      "speaker": "B",
+      "eduidx": 209,
+      "turnidx": 2500
+    },
+    {
+      "text": "you know ?",
+      "speaker": "A",
+      "eduidx": 210,
+      "turnidx": 2501
+    },
+    {
+      "text": "it's easy .",
+      "speaker": "B",
+      "eduidx": 211,
+      "turnidx": 2502
+    },
+    {
+      "text": "easy to get attached .",
+      "speaker": "A",
+      "eduidx": 212,
+      "turnidx": 2503
+    },
+    {
+      "text": "(2.) but [/] you know (.) you take a little hurt and I mean (2.) you learn from it .",
+      "speaker": "A",
+      "eduidx": 213,
+      "turnidx": 2504
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 214,
+      "turnidx": 2505
+    },
+    {
+      "text": "(2.) yeah (1.5) in a way .",
+      "speaker": "A",
+      "eduidx": 215,
+      "turnidx": 2506
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 216,
+      "turnidx": 2507
+    },
+    {
+      "text": "he he (1.) it can [/] it's [/] dating it can be [/] it can be fun though .",
+      "speaker": "A",
+      "eduidx": 217,
+      "turnidx": 2508
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 218,
+      "turnidx": 2509
+    },
+    {
+      "text": "(1.) mhm mhm .",
+      "speaker": "A",
+      "eduidx": 219,
+      "turnidx": 2510
+    },
+    {
+      "text": "(3.) well like I have not seen anybody at all the year .",
+      "speaker": "B",
+      "eduidx": 220,
+      "turnidx": 2511
+    },
+    {
+      "text": "no ?",
+      "speaker": "A",
+      "eduidx": 221,
+      "turnidx": 2512
+    },
+    {
+      "text": "no .",
+      "speaker": "B",
+      "eduidx": 222,
+      "turnidx": 2513
+    },
+    {
+      "text": "(1.) I don't know (1.) I think it's that I don't want to .",
+      "speaker": "B",
+      "eduidx": 223,
+      "turnidx": 2514
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 224,
+      "turnidx": 2515
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 225,
+      "turnidx": 2516
+    },
+    {
+      "text": "(1.) yeah .",
+      "speaker": "A",
+      "eduidx": 226,
+      "turnidx": 2517
+    },
+    {
+      "text": "(3.) yeah .",
+      "speaker": "A",
+      "eduidx": 227,
+      "turnidx": 2518
+    },
+    {
+      "text": "(1.) you know sometimes you'd just rather not .",
+      "speaker": "A",
+      "eduidx": 228,
+      "turnidx": 2519
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 229,
+      "turnidx": 2520
+    },
+    {
+      "text": "(1.) I mean (.) in a way I think I do .",
+      "speaker": "A",
+      "eduidx": 230,
+      "turnidx": 2521
+    },
+    {
+      "text": "but then again .",
+      "speaker": "A",
+      "eduidx": 231,
+      "turnidx": 2522
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 232,
+      "turnidx": 2523
+    },
+    {
+      "text": "I'm not making any effort .",
+      "speaker": "B",
+      "eduidx": 233,
+      "turnidx": 2524
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 234,
+      "turnidx": 2525
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 235,
+      "turnidx": 2526
+    },
+    {
+      "text": "at all .",
+      "speaker": "B",
+      "eduidx": 236,
+      "turnidx": 2527
+    },
+    {
+      "text": "⌈I mean⌉ +/.",
+      "speaker": "B",
+      "eduidx": 237,
+      "turnidx": 2528
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "A",
+      "eduidx": 238,
+      "turnidx": 2529
+    },
+    {
+      "text": "+, I have [/] I haven't got out of my way at all to even try to be friendly with people +/.",
+      "speaker": "B",
+      "eduidx": 239,
+      "turnidx": 2530
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 240,
+      "turnidx": 2531
+    },
+    {
+      "text": "+, or try to meet people .",
+      "speaker": "B",
+      "eduidx": 241,
+      "turnidx": 2532
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 242,
+      "turnidx": 2533
+    },
+    {
+      "text": "so .",
+      "speaker": "B",
+      "eduidx": 243,
+      "turnidx": 2534
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 244,
+      "turnidx": 2535
+    },
+    {
+      "text": "(1.) it's just something +...",
+      "speaker": "B",
+      "eduidx": 245,
+      "turnidx": 2536
+    },
+    {
+      "text": "(3.) yeah .",
+      "speaker": "A",
+      "eduidx": 246,
+      "turnidx": 2537
+    },
+    {
+      "text": "(3.) mhm mhm I know .",
+      "speaker": "A",
+      "eduidx": 247,
+      "turnidx": 2538
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 248,
+      "turnidx": 2539
+    },
+    {
+      "text": "(2.) I mean for a while there was like this thing [/] I don't know [/] well (.) he [/] he's like our mutual friend Peter ⌈ok⌉ ?",
+      "speaker": "B",
+      "eduidx": 249,
+      "turnidx": 2540
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "A",
+      "eduidx": 250,
+      "turnidx": 2541
+    },
+    {
+      "text": "and then [/] that was why .",
+      "speaker": "B",
+      "eduidx": 251,
+      "turnidx": 2542
+    },
+    {
+      "text": "mhm ⌈mhm⌉ .",
+      "speaker": "A",
+      "eduidx": 252,
+      "turnidx": 2543
+    },
+    {
+      "text": "⌊he's⌋ our mutual friend of all of our friends ⌈you know⌉ ?",
+      "speaker": "B",
+      "eduidx": 253,
+      "turnidx": 2544
+    },
+    {
+      "text": "⌊aha⌋ .",
+      "speaker": "A",
+      "eduidx": 254,
+      "turnidx": 2545
+    },
+    {
+      "text": "I just didn't [/] (1.) I don't know (.) for a while [/] uhm [/] (1.) I kind of was starting to [/] you know +/.",
+      "speaker": "B",
+      "eduidx": 255,
+      "turnidx": 2546
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 256,
+      "turnidx": 2547
+    },
+    {
+      "text": "+, maybe think that something was gonna happen or that [/] you know I kind of liked him .",
+      "speaker": "B",
+      "eduidx": 257,
+      "turnidx": 2548
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 258,
+      "turnidx": 2549
+    },
+    {
+      "text": "(be)cause you know .",
+      "speaker": "B",
+      "eduidx": 259,
+      "turnidx": 2550
+    },
+    {
+      "text": "we're just [/] we're always together we're always with him and stuff like that and +...",
+      "speaker": "B",
+      "eduidx": 260,
+      "turnidx": 2551
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 261,
+      "turnidx": 2552
+    },
+    {
+      "text": "he's a nice gu",
+      "speaker": "B",
+      "eduidx": 262,
+      "turnidx": 2553
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 263,
+      "turnidx": 2554
+    },
+    {
+      "text": "+, you know ?",
+      "speaker": "B",
+      "eduidx": 264,
+      "turnidx": 2555
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 265,
+      "turnidx": 2556
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 266,
+      "turnidx": 2557
+    },
+    {
+      "text": "but (.) then I [/] I just had to stop myself because I [/] I just didn't even want to deal with it because (.) things [/] it was so stupid in a way .",
+      "speaker": "B",
+      "eduidx": 267,
+      "turnidx": 2558
+    },
+    {
+      "text": "because [/] I don't know if it was more like (be)cause just well he was there .",
+      "speaker": "B",
+      "eduidx": 268,
+      "turnidx": 2559
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 269,
+      "turnidx": 2560
+    },
+    {
+      "text": "or if I really would have picked him out ⌈necessarily⌉ .",
+      "speaker": "B",
+      "eduidx": 270,
+      "turnidx": 2561
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "A",
+      "eduidx": 271,
+      "turnidx": 2562
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 272,
+      "turnidx": 2563
+    },
+    {
+      "text": "but uhm [/] (be)cause there had been something going on .",
+      "speaker": "B",
+      "eduidx": 273,
+      "turnidx": 2564
+    },
+    {
+      "text": "nothing like [/] they weren't going out or anything ⌈but I mean⌉ +...",
+      "speaker": "B",
+      "eduidx": 274,
+      "turnidx": 2565
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "A",
+      "eduidx": 275,
+      "turnidx": 2566
+    },
+    {
+      "text": "you know (.) some sparks between him and Christina .",
+      "speaker": "B",
+      "eduidx": 276,
+      "turnidx": 2567
+    },
+    {
+      "text": "o",
+      "speaker": "A",
+      "eduidx": 277,
+      "turnidx": 2568
+    },
+    {
+      "text": "like a few months ago .",
+      "speaker": "B",
+      "eduidx": 278,
+      "turnidx": 2569
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 279,
+      "turnidx": 2570
+    },
+    {
+      "text": "and then I'm like no, I don't want to deal with that ⌈either⌉ .",
+      "speaker": "B",
+      "eduidx": 280,
+      "turnidx": 2571
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "A",
+      "eduidx": 281,
+      "turnidx": 2572
+    },
+    {
+      "text": "you know I mean Christina has a boyfriend of course .",
+      "speaker": "B",
+      "eduidx": 282,
+      "turnidx": 2573
+    },
+    {
+      "text": "you ⌈know⌉ .",
+      "speaker": "B",
+      "eduidx": 283,
+      "turnidx": 2574
+    },
+    {
+      "text": "⌊o",
+      "speaker": "A",
+      "eduidx": 284,
+      "turnidx": 2575
+    },
+    {
+      "text": "but uhm [/] (2.5) she kind of had a crush on Peter .",
+      "speaker": "B",
+      "eduidx": 285,
+      "turnidx": 2576
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 286,
+      "turnidx": 2577
+    },
+    {
+      "text": "and I [/] I [/] I  didn't want to get into it .",
+      "speaker": "B",
+      "eduidx": 287,
+      "turnidx": 2578
+    },
+    {
+      "text": "so I just kind of like (.) told myself to shut up .",
+      "speaker": "B",
+      "eduidx": 288,
+      "turnidx": 2579
+    },
+    {
+      "text": "a",
+      "speaker": "A",
+      "eduidx": 289,
+      "turnidx": 2580
+    },
+    {
+      "text": "like “don't even think about it (.) don't even” .",
+      "speaker": "B",
+      "eduidx": 290,
+      "turnidx": 2581
+    },
+    {
+      "text": "oh ⌈yeah⌉ .",
+      "speaker": "A",
+      "eduidx": 291,
+      "turnidx": 2582
+    },
+    {
+      "text": "⌊because⌋ you know I just (2.) I ⌈don't⌉ +/.",
+      "speaker": "B",
+      "eduidx": 292,
+      "turnidx": 2583
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 293,
+      "turnidx": 2584
+    },
+    {
+      "text": "+, think it would work anyway .",
+      "speaker": "B",
+      "eduidx": 294,
+      "turnidx": 2585
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 295,
+      "turnidx": 2586
+    },
+    {
+      "text": "in that situation .",
+      "speaker": "B",
+      "eduidx": 296,
+      "turnidx": 2587
+    },
+    {
+      "text": "you know ?",
+      "speaker": "B",
+      "eduidx": 297,
+      "turnidx": 2588
+    },
+    {
+      "text": "that's fairly prob [/] (2.) yeah .",
+      "speaker": "A",
+      "eduidx": 298,
+      "turnidx": 2589
+    },
+    {
+      "text": "so it didn't work out either .",
+      "speaker": "B",
+      "eduidx": 299,
+      "turnidx": 2590
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 300,
+      "turnidx": 2591
+    },
+    {
+      "text": "like you know .",
+      "speaker": "B",
+      "eduidx": 301,
+      "turnidx": 2592
+    },
+    {
+      "text": "we still hang out sometimes .",
+      "speaker": "B",
+      "eduidx": 302,
+      "turnidx": 2593
+    },
+    {
+      "text": "that's good .",
+      "speaker": "A",
+      "eduidx": 303,
+      "turnidx": 2594
+    },
+    {
+      "text": "(2.) yeah .",
+      "speaker": "A",
+      "eduidx": 304,
+      "turnidx": 2595
+    },
+    {
+      "text": "see this is one of those things .",
+      "speaker": "B",
+      "eduidx": 305,
+      "turnidx": 2596
+    },
+    {
+      "text": "you just get [/] it (.) comes over you and then it <laugh> goes back [!] ⌈and⌉ +/.",
+      "speaker": "B",
+      "eduidx": 306,
+      "turnidx": 2597
+    },
+    {
+      "text": "⌊oh⌋ .",
+      "speaker": "A",
+      "eduidx": 307,
+      "turnidx": 2598
+    },
+    {
+      "text": "+, you just forget that it ever ⌈happened, you know⌉ ?",
+      "speaker": "B",
+      "eduidx": 308,
+      "turnidx": 2599
+    },
+    {
+      "text": "⌊ <laugh> I know⌋ .",
+      "speaker": "A",
+      "eduidx": 309,
+      "turnidx": 2600
+    },
+    {
+      "text": "I know .",
+      "speaker": "A",
+      "eduidx": 310,
+      "turnidx": 2601
+    },
+    {
+      "text": "it happens .",
+      "speaker": "A",
+      "eduidx": 311,
+      "turnidx": 2602
+    },
+    {
+      "text": "yeah, it happened to me .",
+      "speaker": "A",
+      "eduidx": 312,
+      "turnidx": 2603
+    },
+    {
+      "text": "this year with [/] uhm [/] (1.) a different guy .",
+      "speaker": "A",
+      "eduidx": 313,
+      "turnidx": 2604
+    },
+    {
+      "text": "uhm [/] (1.) my friend Tom has a [/] and I [/] uhm [/] (1.) well Tom's friend Chris +/.",
+      "speaker": "A",
+      "eduidx": 314,
+      "turnidx": 2605
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 315,
+      "turnidx": 2606
+    },
+    {
+      "text": "+, is uhm [/] a pretty cool guy .",
+      "speaker": "A",
+      "eduidx": 316,
+      "turnidx": 2607
+    },
+    {
+      "text": "and (.) I sort of fell for him .",
+      "speaker": "A",
+      "eduidx": 317,
+      "turnidx": 2608
+    },
+    {
+      "text": "aha .",
+      "speaker": "B",
+      "eduidx": 318,
+      "turnidx": 2609
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 319,
+      "turnidx": 2610
+    },
+    {
+      "text": "ear [/] earlier .",
+      "speaker": "A",
+      "eduidx": 320,
+      "turnidx": 2611
+    },
+    {
+      "text": "(1.) and uhm [/] (1.) you know we had a little something started .",
+      "speaker": "A",
+      "eduidx": 321,
+      "turnidx": 2612
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 322,
+      "turnidx": 2613
+    },
+    {
+      "text": "and then after that +...",
+      "speaker": "A",
+      "eduidx": 323,
+      "turnidx": 2614
+    },
+    {
+      "text": "<laugh> I know .",
+      "speaker": "B",
+      "eduidx": 324,
+      "turnidx": 2615
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 325,
+      "turnidx": 2616
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "A",
+      "eduidx": 326,
+      "turnidx": 2617
+    },
+    {
+      "text": "hi hi it's so funny .",
+      "speaker": "B",
+      "eduidx": 327,
+      "turnidx": 2618
+    },
+    {
+      "text": "and then that (.) he just [/] it was like he didn't want to and I was like “well” (.) you know .",
+      "speaker": "A",
+      "eduidx": 328,
+      "turnidx": 2619
+    },
+    {
+      "text": "I [/] I still wanted to go out with him +/.",
+      "speaker": "A",
+      "eduidx": 329,
+      "turnidx": 2620
+    },
+    {
+      "text": "⌈ye",
+      "speaker": "B",
+      "eduidx": 330,
+      "turnidx": 2621
+    },
+    {
+      "text": "+, ⌊but⌋ he did [/] he didn't seem to show any indication +/.",
+      "speaker": "A",
+      "eduidx": 331,
+      "turnidx": 2622
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 332,
+      "turnidx": 2623
+    },
+    {
+      "text": "+, that he wanted too .",
+      "speaker": "A",
+      "eduidx": 333,
+      "turnidx": 2624
+    },
+    {
+      "text": "so then I got [/] then I just gave up .",
+      "speaker": "A",
+      "eduidx": 334,
+      "turnidx": 2625
+    },
+    {
+      "text": "right .",
+      "speaker": "B",
+      "eduidx": 335,
+      "turnidx": 2626
+    },
+    {
+      "text": "huh huh I don't know if it's over yet .",
+      "speaker": "A",
+      "eduidx": 336,
+      "turnidx": 2627
+    },
+    {
+      "text": "oh huh huh .",
+      "speaker": "B",
+      "eduidx": 337,
+      "turnidx": 2628
+    },
+    {
+      "text": "but I [/] I guess it is .",
+      "speaker": "A",
+      "eduidx": 338,
+      "turnidx": 2629
+    },
+    {
+      "text": "I mean [/] I [/] I could probably be persuaded .",
+      "speaker": "A",
+      "eduidx": 339,
+      "turnidx": 2630
+    },
+    {
+      "text": "right .",
+      "speaker": "B",
+      "eduidx": 340,
+      "turnidx": 2631
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 341,
+      "turnidx": 2632
+    },
+    {
+      "text": "you know .",
+      "speaker": "A",
+      "eduidx": 342,
+      "turnidx": 2633
+    },
+    {
+      "text": "if he wanted to go out with me I would figure [/] you know [/] I would be happy .",
+      "speaker": "A",
+      "eduidx": 343,
+      "turnidx": 2634
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 344,
+      "turnidx": 2635
+    },
+    {
+      "text": "I'd probably go out with him .",
+      "speaker": "A",
+      "eduidx": 345,
+      "turnidx": 2636
+    },
+    {
+      "text": "but (.) ⌈if⌉ +/.",
+      "speaker": "A",
+      "eduidx": 346,
+      "turnidx": 2637
+    },
+    {
+      "text": "⌊sure⌋ .",
+      "speaker": "B",
+      "eduidx": 347,
+      "turnidx": 2638
+    },
+    {
+      "text": "+, he doesn't then I don't think that's the way to go .",
+      "speaker": "A",
+      "eduidx": 348,
+      "turnidx": 2639
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 349,
+      "turnidx": 2640
+    },
+    {
+      "text": "(be)cause you know I mean I can't force it .",
+      "speaker": "A",
+      "eduidx": 350,
+      "turnidx": 2641
+    },
+    {
+      "text": "(2.) uhm [/] the thing that makes me mad is that [/] you know I mean [/] I [/] (.) if we went out it wouldn't be like as serious .",
+      "speaker": "B",
+      "eduidx": 351,
+      "turnidx": 2642
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 352,
+      "turnidx": 2643
+    },
+    {
+      "text": "it would be [/] I think (.) we would be like really good friends .",
+      "speaker": "B",
+      "eduidx": 353,
+      "turnidx": 2644
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 354,
+      "turnidx": 2645
+    },
+    {
+      "text": "but you know (.) not like [/] “well (.) we're gonna get engaged” +/.",
+      "speaker": "B",
+      "eduidx": 355,
+      "turnidx": 2646
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 356,
+      "turnidx": 2647
+    },
+    {
+      "text": "+, or something like that ⌈you know⌉ ?",
+      "speaker": "B",
+      "eduidx": 357,
+      "turnidx": 2648
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "A",
+      "eduidx": 358,
+      "turnidx": 2649
+    },
+    {
+      "text": "just sort of seeing each other you know ?",
+      "speaker": "B",
+      "eduidx": 359,
+      "turnidx": 2650
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 360,
+      "turnidx": 2651
+    },
+    {
+      "text": "but uhm +...",
+      "speaker": "B",
+      "eduidx": 361,
+      "turnidx": 2652
+    },
+    {
+      "text": "that's ok .",
+      "speaker": "A",
+      "eduidx": 362,
+      "turnidx": 2653
+    },
+    {
+      "text": "it kind of makes me mad .",
+      "speaker": "B",
+      "eduidx": 363,
+      "turnidx": 2654
+    },
+    {
+      "text": "<laugh> because he's all of our friends and ⌈things⌉ .",
+      "speaker": "B",
+      "eduidx": 364,
+      "turnidx": 2655
+    },
+    {
+      "text": "⌊oh⌋ yeah .",
+      "speaker": "A",
+      "eduidx": 365,
+      "turnidx": 2656
+    },
+    {
+      "text": "because I know that if he wasn't like if he was just my ⌈friend⌉ +/.",
+      "speaker": "B",
+      "eduidx": 366,
+      "turnidx": 2657
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 367,
+      "turnidx": 2658
+    },
+    {
+      "text": "+, say .",
+      "speaker": "B",
+      "eduidx": 368,
+      "turnidx": 2659
+    },
+    {
+      "text": "I no I would go [/] <laugh> I'd be going out with him .",
+      "speaker": "B",
+      "eduidx": 369,
+      "turnidx": 2660
+    },
+    {
+      "text": "yeah, that's kind of bad .",
+      "speaker": "A",
+      "eduidx": 370,
+      "turnidx": 2661
+    },
+    {
+      "text": "aggravating .",
+      "speaker": "A",
+      "eduidx": 371,
+      "turnidx": 2662
+    },
+    {
+      "text": "but because it's nothing that [/] that's so intense +/.",
+      "speaker": "B",
+      "eduidx": 372,
+      "turnidx": 2663
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 373,
+      "turnidx": 2664
+    },
+    {
+      "text": "+, or deep .",
+      "speaker": "B",
+      "eduidx": 374,
+      "turnidx": 2665
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 375,
+      "turnidx": 2666
+    },
+    {
+      "text": "it's not worth (.) messing with .",
+      "speaker": "B",
+      "eduidx": 376,
+      "turnidx": 2667
+    },
+    {
+      "text": "oh yeah .",
+      "speaker": "A",
+      "eduidx": 377,
+      "turnidx": 2668
+    },
+    {
+      "text": "do you know what I mean ?",
+      "speaker": "B",
+      "eduidx": 378,
+      "turnidx": 2669
+    },
+    {
+      "text": "yeah, kind of .",
+      "speaker": "A",
+      "eduidx": 379,
+      "turnidx": 2670
+    },
+    {
+      "text": "if it was just me .",
+      "speaker": "B",
+      "eduidx": 380,
+      "turnidx": 2671
+    }
+  ],
+  "relations": [
+    {
+      "x": 1,
+      "y": 2,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "joint"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "joint"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "joint"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "joint"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "joint"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "joint"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "joint"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "joint"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "joint"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "joint"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "joint"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "joint"
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "type": "joint"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 21,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "joint"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "type": "joint"
+    },
+    {
+      "x": 24,
+      "y": 25,
+      "type": "joint"
+    },
+    {
+      "x": 25,
+      "y": 26,
+      "type": "joint"
+    },
+    {
+      "x": 26,
+      "y": 27,
+      "type": "joint"
+    },
+    {
+      "x": 27,
+      "y": 28,
+      "type": "joint"
+    },
+    {
+      "x": 28,
+      "y": 29,
+      "type": "joint"
+    },
+    {
+      "x": 29,
+      "y": 30,
+      "type": "joint"
+    },
+    {
+      "x": 31,
+      "y": 32,
+      "type": "joint"
+    },
+    {
+      "x": 32,
+      "y": 33,
+      "type": "joint"
+    },
+    {
+      "x": 33,
+      "y": 34,
+      "type": "joint"
+    },
+    {
+      "x": 34,
+      "y": 35,
+      "type": "joint"
+    },
+    {
+      "x": 35,
+      "y": 36,
+      "type": "joint"
+    },
+    {
+      "x": 36,
+      "y": 37,
+      "type": "joint"
+    },
+    {
+      "x": 37,
+      "y": 38,
+      "type": "joint"
+    },
+    {
+      "x": 38,
+      "y": 39,
+      "type": "joint"
+    },
+    {
+      "x": 39,
+      "y": 40,
+      "type": "joint"
+    },
+    {
+      "x": 40,
+      "y": 41,
+      "type": "joint"
+    },
+    {
+      "x": 41,
+      "y": 42,
+      "type": "joint"
+    },
+    {
+      "x": 42,
+      "y": 43,
+      "type": "joint"
+    },
+    {
+      "x": 43,
+      "y": 44,
+      "type": "joint"
+    },
+    {
+      "x": 44,
+      "y": 45,
+      "type": "joint"
+    },
+    {
+      "x": 45,
+      "y": 46,
+      "type": "joint"
+    },
+    {
+      "x": 46,
+      "y": 47,
+      "type": "joint"
+    },
+    {
+      "x": 47,
+      "y": 48,
+      "type": "joint"
+    },
+    {
+      "x": 48,
+      "y": 49,
+      "type": "joint"
+    },
+    {
+      "x": 49,
+      "y": 50,
+      "type": "joint"
+    },
+    {
+      "x": 50,
+      "y": 51,
+      "type": "joint"
+    },
+    {
+      "x": 51,
+      "y": 52,
+      "type": "joint"
+    },
+    {
+      "x": 52,
+      "y": 53,
+      "type": "joint"
+    },
+    {
+      "x": 53,
+      "y": 54,
+      "type": "joint"
+    },
+    {
+      "x": 54,
+      "y": 55,
+      "type": "joint"
+    },
+    {
+      "x": 55,
+      "y": 56,
+      "type": "joint"
+    },
+    {
+      "x": 56,
+      "y": 57,
+      "type": "joint"
+    },
+    {
+      "x": 57,
+      "y": 58,
+      "type": "joint"
+    },
+    {
+      "x": 58,
+      "y": 59,
+      "type": "joint"
+    },
+    {
+      "x": 59,
+      "y": 60,
+      "type": "joint"
+    },
+    {
+      "x": 60,
+      "y": 61,
+      "type": "joint"
+    },
+    {
+      "x": 61,
+      "y": 62,
+      "type": "joint"
+    },
+    {
+      "x": 62,
+      "y": 63,
+      "type": "joint"
+    },
+    {
+      "x": 63,
+      "y": 64,
+      "type": "joint"
+    },
+    {
+      "x": 64,
+      "y": 65,
+      "type": "joint"
+    },
+    {
+      "x": 65,
+      "y": 66,
+      "type": "joint"
+    },
+    {
+      "x": 66,
+      "y": 67,
+      "type": "joint"
+    },
+    {
+      "x": 67,
+      "y": 68,
+      "type": "joint"
+    },
+    {
+      "x": 68,
+      "y": 69,
+      "type": "joint"
+    },
+    {
+      "x": 69,
+      "y": 70,
+      "type": "joint"
+    },
+    {
+      "x": 70,
+      "y": 71,
+      "type": "joint"
+    },
+    {
+      "x": 71,
+      "y": 72,
+      "type": "joint"
+    },
+    {
+      "x": 72,
+      "y": 73,
+      "type": "joint"
+    },
+    {
+      "x": 73,
+      "y": 74,
+      "type": "joint"
+    },
+    {
+      "x": 74,
+      "y": 75,
+      "type": "joint"
+    },
+    {
+      "x": 75,
+      "y": 76,
+      "type": "joint"
+    },
+    {
+      "x": 76,
+      "y": 77,
+      "type": "joint"
+    },
+    {
+      "x": 77,
+      "y": 78,
+      "type": "joint"
+    },
+    {
+      "x": 78,
+      "y": 79,
+      "type": "joint"
+    },
+    {
+      "x": 80,
+      "y": 81,
+      "type": "joint"
+    },
+    {
+      "x": 81,
+      "y": 82,
+      "type": "joint"
+    },
+    {
+      "x": 82,
+      "y": 83,
+      "type": "joint"
+    },
+    {
+      "x": 83,
+      "y": 84,
+      "type": "joint"
+    },
+    {
+      "x": 84,
+      "y": 85,
+      "type": "joint"
+    },
+    {
+      "x": 85,
+      "y": 86,
+      "type": "joint"
+    },
+    {
+      "x": 86,
+      "y": 87,
+      "type": "joint"
+    },
+    {
+      "x": 87,
+      "y": 88,
+      "type": "joint"
+    },
+    {
+      "x": 88,
+      "y": 89,
+      "type": "joint"
+    },
+    {
+      "x": 89,
+      "y": 90,
+      "type": "joint"
+    },
+    {
+      "x": 90,
+      "y": 91,
+      "type": "joint"
+    },
+    {
+      "x": 91,
+      "y": 92,
+      "type": "joint"
+    },
+    {
+      "x": 92,
+      "y": 93,
+      "type": "joint"
+    },
+    {
+      "x": 93,
+      "y": 94,
+      "type": "joint"
+    },
+    {
+      "x": 94,
+      "y": 95,
+      "type": "joint"
+    },
+    {
+      "x": 95,
+      "y": 96,
+      "type": "joint"
+    },
+    {
+      "x": 96,
+      "y": 97,
+      "type": "joint"
+    },
+    {
+      "x": 97,
+      "y": 98,
+      "type": "joint"
+    },
+    {
+      "x": 98,
+      "y": 99,
+      "type": "joint"
+    },
+    {
+      "x": 99,
+      "y": 100,
+      "type": "joint"
+    },
+    {
+      "x": 100,
+      "y": 101,
+      "type": "joint"
+    },
+    {
+      "x": 101,
+      "y": 102,
+      "type": "joint"
+    },
+    {
+      "x": 102,
+      "y": 103,
+      "type": "joint"
+    },
+    {
+      "x": 103,
+      "y": 104,
+      "type": "joint"
+    },
+    {
+      "x": 104,
+      "y": 105,
+      "type": "joint"
+    },
+    {
+      "x": 105,
+      "y": 106,
+      "type": "joint"
+    },
+    {
+      "x": 106,
+      "y": 107,
+      "type": "joint"
+    },
+    {
+      "x": 107,
+      "y": 108,
+      "type": "joint"
+    },
+    {
+      "x": 108,
+      "y": 109,
+      "type": "joint"
+    },
+    {
+      "x": 109,
+      "y": 110,
+      "type": "joint"
+    },
+    {
+      "x": 110,
+      "y": 111,
+      "type": "joint"
+    },
+    {
+      "x": 111,
+      "y": 112,
+      "type": "joint"
+    },
+    {
+      "x": 112,
+      "y": 113,
+      "type": "joint"
+    },
+    {
+      "x": 113,
+      "y": 114,
+      "type": "joint"
+    },
+    {
+      "x": 114,
+      "y": 115,
+      "type": "joint"
+    },
+    {
+      "x": 115,
+      "y": 116,
+      "type": "joint"
+    },
+    {
+      "x": 116,
+      "y": 117,
+      "type": "joint"
+    },
+    {
+      "x": 117,
+      "y": 118,
+      "type": "joint"
+    },
+    {
+      "x": 118,
+      "y": 119,
+      "type": "joint"
+    },
+    {
+      "x": 119,
+      "y": 120,
+      "type": "joint"
+    },
+    {
+      "x": 120,
+      "y": 121,
+      "type": "joint"
+    },
+    {
+      "x": 121,
+      "y": 122,
+      "type": "joint"
+    },
+    {
+      "x": 122,
+      "y": 123,
+      "type": "joint"
+    },
+    {
+      "x": 123,
+      "y": 124,
+      "type": "joint"
+    },
+    {
+      "x": 124,
+      "y": 125,
+      "type": "joint"
+    },
+    {
+      "x": 125,
+      "y": 126,
+      "type": "joint"
+    },
+    {
+      "x": 126,
+      "y": 127,
+      "type": "joint"
+    },
+    {
+      "x": 127,
+      "y": 128,
+      "type": "joint"
+    },
+    {
+      "x": 128,
+      "y": 129,
+      "type": "joint"
+    },
+    {
+      "x": 129,
+      "y": 130,
+      "type": "joint"
+    },
+    {
+      "x": 130,
+      "y": 131,
+      "type": "joint"
+    },
+    {
+      "x": 131,
+      "y": 132,
+      "type": "joint"
+    },
+    {
+      "x": 132,
+      "y": 133,
+      "type": "joint"
+    },
+    {
+      "x": 133,
+      "y": 134,
+      "type": "joint"
+    },
+    {
+      "x": 134,
+      "y": 135,
+      "type": "joint"
+    },
+    {
+      "x": 135,
+      "y": 136,
+      "type": "joint"
+    },
+    {
+      "x": 136,
+      "y": 137,
+      "type": "joint"
+    },
+    {
+      "x": 137,
+      "y": 138,
+      "type": "joint"
+    },
+    {
+      "x": 138,
+      "y": 139,
+      "type": "joint"
+    },
+    {
+      "x": 139,
+      "y": 140,
+      "type": "joint"
+    },
+    {
+      "x": 140,
+      "y": 141,
+      "type": "joint"
+    },
+    {
+      "x": 141,
+      "y": 142,
+      "type": "joint"
+    },
+    {
+      "x": 142,
+      "y": 143,
+      "type": "joint"
+    },
+    {
+      "x": 143,
+      "y": 144,
+      "type": "joint"
+    },
+    {
+      "x": 144,
+      "y": 145,
+      "type": "joint"
+    },
+    {
+      "x": 145,
+      "y": 146,
+      "type": "joint"
+    },
+    {
+      "x": 146,
+      "y": 147,
+      "type": "joint"
+    },
+    {
+      "x": 147,
+      "y": 148,
+      "type": "joint"
+    },
+    {
+      "x": 148,
+      "y": 149,
+      "type": "joint"
+    },
+    {
+      "x": 149,
+      "y": 150,
+      "type": "joint"
+    },
+    {
+      "x": 150,
+      "y": 151,
+      "type": "joint"
+    },
+    {
+      "x": 151,
+      "y": 152,
+      "type": "joint"
+    },
+    {
+      "x": 152,
+      "y": 153,
+      "type": "joint"
+    },
+    {
+      "x": 153,
+      "y": 154,
+      "type": "joint"
+    },
+    {
+      "x": 154,
+      "y": 155,
+      "type": "joint"
+    },
+    {
+      "x": 155,
+      "y": 156,
+      "type": "joint"
+    },
+    {
+      "x": 156,
+      "y": 157,
+      "type": "joint"
+    },
+    {
+      "x": 157,
+      "y": 158,
+      "type": "joint"
+    },
+    {
+      "x": 158,
+      "y": 159,
+      "type": "joint"
+    },
+    {
+      "x": 160,
+      "y": 161,
+      "type": "joint"
+    },
+    {
+      "x": 161,
+      "y": 162,
+      "type": "joint"
+    },
+    {
+      "x": 162,
+      "y": 163,
+      "type": "joint"
+    },
+    {
+      "x": 164,
+      "y": 165,
+      "type": "joint"
+    },
+    {
+      "x": 165,
+      "y": 166,
+      "type": "joint"
+    },
+    {
+      "x": 166,
+      "y": 167,
+      "type": "joint"
+    },
+    {
+      "x": 167,
+      "y": 168,
+      "type": "joint"
+    },
+    {
+      "x": 168,
+      "y": 169,
+      "type": "joint"
+    },
+    {
+      "x": 169,
+      "y": 170,
+      "type": "joint"
+    },
+    {
+      "x": 170,
+      "y": 171,
+      "type": "joint"
+    },
+    {
+      "x": 171,
+      "y": 172,
+      "type": "joint"
+    },
+    {
+      "x": 172,
+      "y": 173,
+      "type": "joint"
+    },
+    {
+      "x": 173,
+      "y": 174,
+      "type": "joint"
+    },
+    {
+      "x": 174,
+      "y": 175,
+      "type": "joint"
+    },
+    {
+      "x": 175,
+      "y": 176,
+      "type": "joint"
+    },
+    {
+      "x": 176,
+      "y": 177,
+      "type": "joint"
+    },
+    {
+      "x": 177,
+      "y": 178,
+      "type": "joint"
+    },
+    {
+      "x": 178,
+      "y": 179,
+      "type": "joint"
+    },
+    {
+      "x": 179,
+      "y": 180,
+      "type": "joint"
+    },
+    {
+      "x": 180,
+      "y": 181,
+      "type": "joint"
+    },
+    {
+      "x": 181,
+      "y": 182,
+      "type": "joint"
+    },
+    {
+      "x": 182,
+      "y": 183,
+      "type": "joint"
+    },
+    {
+      "x": 183,
+      "y": 184,
+      "type": "joint"
+    },
+    {
+      "x": 184,
+      "y": 185,
+      "type": "joint"
+    },
+    {
+      "x": 185,
+      "y": 186,
+      "type": "joint"
+    },
+    {
+      "x": 186,
+      "y": 187,
+      "type": "joint"
+    },
+    {
+      "x": 187,
+      "y": 188,
+      "type": "joint"
+    },
+    {
+      "x": 188,
+      "y": 189,
+      "type": "joint"
+    },
+    {
+      "x": 189,
+      "y": 190,
+      "type": "joint"
+    },
+    {
+      "x": 190,
+      "y": 191,
+      "type": "joint"
+    },
+    {
+      "x": 191,
+      "y": 192,
+      "type": "joint"
+    },
+    {
+      "x": 192,
+      "y": 193,
+      "type": "joint"
+    },
+    {
+      "x": 193,
+      "y": 194,
+      "type": "joint"
+    },
+    {
+      "x": 194,
+      "y": 195,
+      "type": "joint"
+    },
+    {
+      "x": 195,
+      "y": 196,
+      "type": "joint"
+    },
+    {
+      "x": 196,
+      "y": 197,
+      "type": "joint"
+    },
+    {
+      "x": 197,
+      "y": 198,
+      "type": "joint"
+    },
+    {
+      "x": 198,
+      "y": 199,
+      "type": "joint"
+    },
+    {
+      "x": 199,
+      "y": 200,
+      "type": "joint"
+    },
+    {
+      "x": 200,
+      "y": 201,
+      "type": "joint"
+    },
+    {
+      "x": 201,
+      "y": 202,
+      "type": "joint"
+    },
+    {
+      "x": 202,
+      "y": 203,
+      "type": "joint"
+    },
+    {
+      "x": 203,
+      "y": 204,
+      "type": "joint"
+    },
+    {
+      "x": 204,
+      "y": 205,
+      "type": "joint"
+    },
+    {
+      "x": 205,
+      "y": 206,
+      "type": "joint"
+    },
+    {
+      "x": 206,
+      "y": 207,
+      "type": "joint"
+    },
+    {
+      "x": 207,
+      "y": 208,
+      "type": "joint"
+    },
+    {
+      "x": 208,
+      "y": 209,
+      "type": "joint"
+    },
+    {
+      "x": 209,
+      "y": 210,
+      "type": "joint"
+    },
+    {
+      "x": 210,
+      "y": 211,
+      "type": "joint"
+    },
+    {
+      "x": 211,
+      "y": 212,
+      "type": "joint"
+    },
+    {
+      "x": 212,
+      "y": 213,
+      "type": "joint"
+    },
+    {
+      "x": 213,
+      "y": 214,
+      "type": "joint"
+    },
+    {
+      "x": 214,
+      "y": 215,
+      "type": "joint"
+    },
+    {
+      "x": 215,
+      "y": 216,
+      "type": "joint"
+    },
+    {
+      "x": 216,
+      "y": 217,
+      "type": "joint"
+    },
+    {
+      "x": 217,
+      "y": 218,
+      "type": "joint"
+    },
+    {
+      "x": 218,
+      "y": 219,
+      "type": "joint"
+    },
+    {
+      "x": 219,
+      "y": 220,
+      "type": "joint"
+    },
+    {
+      "x": 221,
+      "y": 222,
+      "type": "joint"
+    },
+    {
+      "x": 222,
+      "y": 223,
+      "type": "joint"
+    },
+    {
+      "x": 223,
+      "y": 224,
+      "type": "joint"
+    },
+    {
+      "x": 224,
+      "y": 225,
+      "type": "joint"
+    },
+    {
+      "x": 225,
+      "y": 226,
+      "type": "joint"
+    },
+    {
+      "x": 226,
+      "y": 227,
+      "type": "joint"
+    },
+    {
+      "x": 227,
+      "y": 228,
+      "type": "joint"
+    },
+    {
+      "x": 228,
+      "y": 229,
+      "type": "joint"
+    },
+    {
+      "x": 229,
+      "y": 230,
+      "type": "joint"
+    },
+    {
+      "x": 230,
+      "y": 231,
+      "type": "joint"
+    },
+    {
+      "x": 231,
+      "y": 232,
+      "type": "joint"
+    },
+    {
+      "x": 232,
+      "y": 233,
+      "type": "joint"
+    },
+    {
+      "x": 233,
+      "y": 234,
+      "type": "joint"
+    },
+    {
+      "x": 234,
+      "y": 235,
+      "type": "joint"
+    },
+    {
+      "x": 235,
+      "y": 236,
+      "type": "joint"
+    },
+    {
+      "x": 236,
+      "y": 237,
+      "type": "joint"
+    },
+    {
+      "x": 237,
+      "y": 238,
+      "type": "joint"
+    },
+    {
+      "x": 238,
+      "y": 239,
+      "type": "joint"
+    },
+    {
+      "x": 239,
+      "y": 240,
+      "type": "joint"
+    },
+    {
+      "x": 240,
+      "y": 241,
+      "type": "joint"
+    },
+    {
+      "x": 241,
+      "y": 242,
+      "type": "joint"
+    },
+    {
+      "x": 242,
+      "y": 243,
+      "type": "joint"
+    },
+    {
+      "x": 243,
+      "y": 244,
+      "type": "joint"
+    },
+    {
+      "x": 244,
+      "y": 245,
+      "type": "joint"
+    },
+    {
+      "x": 245,
+      "y": 246,
+      "type": "joint"
+    },
+    {
+      "x": 246,
+      "y": 247,
+      "type": "joint"
+    },
+    {
+      "x": 247,
+      "y": 248,
+      "type": "joint"
+    },
+    {
+      "x": 248,
+      "y": 249,
+      "type": "joint"
+    },
+    {
+      "x": 249,
+      "y": 250,
+      "type": "joint"
+    },
+    {
+      "x": 250,
+      "y": 251,
+      "type": "joint"
+    },
+    {
+      "x": 251,
+      "y": 252,
+      "type": "joint"
+    },
+    {
+      "x": 252,
+      "y": 253,
+      "type": "joint"
+    },
+    {
+      "x": 253,
+      "y": 254,
+      "type": "joint"
+    },
+    {
+      "x": 254,
+      "y": 255,
+      "type": "joint"
+    },
+    {
+      "x": 255,
+      "y": 256,
+      "type": "joint"
+    },
+    {
+      "x": 256,
+      "y": 257,
+      "type": "joint"
+    },
+    {
+      "x": 257,
+      "y": 258,
+      "type": "joint"
+    },
+    {
+      "x": 258,
+      "y": 259,
+      "type": "joint"
+    },
+    {
+      "x": 259,
+      "y": 260,
+      "type": "joint"
+    },
+    {
+      "x": 260,
+      "y": 261,
+      "type": "joint"
+    },
+    {
+      "x": 261,
+      "y": 262,
+      "type": "joint"
+    },
+    {
+      "x": 262,
+      "y": 263,
+      "type": "joint"
+    },
+    {
+      "x": 263,
+      "y": 264,
+      "type": "joint"
+    },
+    {
+      "x": 264,
+      "y": 265,
+      "type": "joint"
+    },
+    {
+      "x": 265,
+      "y": 266,
+      "type": "joint"
+    },
+    {
+      "x": 266,
+      "y": 267,
+      "type": "joint"
+    },
+    {
+      "x": 267,
+      "y": 268,
+      "type": "joint"
+    },
+    {
+      "x": 268,
+      "y": 269,
+      "type": "joint"
+    },
+    {
+      "x": 269,
+      "y": 270,
+      "type": "joint"
+    },
+    {
+      "x": 270,
+      "y": 271,
+      "type": "joint"
+    },
+    {
+      "x": 271,
+      "y": 272,
+      "type": "joint"
+    },
+    {
+      "x": 272,
+      "y": 273,
+      "type": "joint"
+    },
+    {
+      "x": 273,
+      "y": 274,
+      "type": "joint"
+    },
+    {
+      "x": 274,
+      "y": 275,
+      "type": "joint"
+    },
+    {
+      "x": 275,
+      "y": 276,
+      "type": "joint"
+    },
+    {
+      "x": 276,
+      "y": 277,
+      "type": "joint"
+    },
+    {
+      "x": 277,
+      "y": 278,
+      "type": "joint"
+    },
+    {
+      "x": 278,
+      "y": 279,
+      "type": "joint"
+    },
+    {
+      "x": 279,
+      "y": 280,
+      "type": "joint"
+    },
+    {
+      "x": 280,
+      "y": 281,
+      "type": "joint"
+    },
+    {
+      "x": 281,
+      "y": 282,
+      "type": "joint"
+    },
+    {
+      "x": 282,
+      "y": 283,
+      "type": "joint"
+    },
+    {
+      "x": 283,
+      "y": 284,
+      "type": "joint"
+    },
+    {
+      "x": 284,
+      "y": 285,
+      "type": "joint"
+    },
+    {
+      "x": 285,
+      "y": 286,
+      "type": "joint"
+    },
+    {
+      "x": 286,
+      "y": 287,
+      "type": "joint"
+    },
+    {
+      "x": 287,
+      "y": 288,
+      "type": "joint"
+    },
+    {
+      "x": 288,
+      "y": 289,
+      "type": "joint"
+    },
+    {
+      "x": 289,
+      "y": 290,
+      "type": "joint"
+    },
+    {
+      "x": 290,
+      "y": 291,
+      "type": "joint"
+    },
+    {
+      "x": 291,
+      "y": 292,
+      "type": "joint"
+    },
+    {
+      "x": 292,
+      "y": 293,
+      "type": "joint"
+    },
+    {
+      "x": 293,
+      "y": 294,
+      "type": "joint"
+    },
+    {
+      "x": 294,
+      "y": 295,
+      "type": "joint"
+    },
+    {
+      "x": 295,
+      "y": 296,
+      "type": "joint"
+    },
+    {
+      "x": 296,
+      "y": 297,
+      "type": "joint"
+    },
+    {
+      "x": 297,
+      "y": 298,
+      "type": "joint"
+    },
+    {
+      "x": 298,
+      "y": 299,
+      "type": "joint"
+    },
+    {
+      "x": 299,
+      "y": 300,
+      "type": "joint"
+    },
+    {
+      "x": 300,
+      "y": 301,
+      "type": "joint"
+    },
+    {
+      "x": 301,
+      "y": 302,
+      "type": "joint"
+    },
+    {
+      "x": 302,
+      "y": 303,
+      "type": "joint"
+    },
+    {
+      "x": 303,
+      "y": 304,
+      "type": "joint"
+    },
+    {
+      "x": 304,
+      "y": 305,
+      "type": "joint"
+    },
+    {
+      "x": 305,
+      "y": 306,
+      "type": "joint"
+    },
+    {
+      "x": 306,
+      "y": 307,
+      "type": "joint"
+    },
+    {
+      "x": 307,
+      "y": 308,
+      "type": "joint"
+    },
+    {
+      "x": 308,
+      "y": 309,
+      "type": "joint"
+    },
+    {
+      "x": 309,
+      "y": 310,
+      "type": "joint"
+    },
+    {
+      "x": 310,
+      "y": 311,
+      "type": "joint"
+    },
+    {
+      "x": 311,
+      "y": 312,
+      "type": "joint"
+    },
+    {
+      "x": 312,
+      "y": 313,
+      "type": "joint"
+    },
+    {
+      "x": 313,
+      "y": 314,
+      "type": "joint"
+    },
+    {
+      "x": 314,
+      "y": 315,
+      "type": "joint"
+    },
+    {
+      "x": 315,
+      "y": 316,
+      "type": "joint"
+    },
+    {
+      "x": 316,
+      "y": 317,
+      "type": "joint"
+    },
+    {
+      "x": 317,
+      "y": 318,
+      "type": "joint"
+    },
+    {
+      "x": 318,
+      "y": 319,
+      "type": "joint"
+    },
+    {
+      "x": 319,
+      "y": 320,
+      "type": "joint"
+    },
+    {
+      "x": 320,
+      "y": 321,
+      "type": "joint"
+    },
+    {
+      "x": 321,
+      "y": 322,
+      "type": "joint"
+    },
+    {
+      "x": 322,
+      "y": 323,
+      "type": "joint"
+    },
+    {
+      "x": 323,
+      "y": 324,
+      "type": "joint"
+    },
+    {
+      "x": 324,
+      "y": 325,
+      "type": "joint"
+    },
+    {
+      "x": 325,
+      "y": 326,
+      "type": "joint"
+    },
+    {
+      "x": 326,
+      "y": 327,
+      "type": "joint"
+    },
+    {
+      "x": 327,
+      "y": 328,
+      "type": "joint"
+    },
+    {
+      "x": 328,
+      "y": 329,
+      "type": "joint"
+    },
+    {
+      "x": 329,
+      "y": 330,
+      "type": "joint"
+    },
+    {
+      "x": 330,
+      "y": 331,
+      "type": "joint"
+    },
+    {
+      "x": 331,
+      "y": 332,
+      "type": "joint"
+    },
+    {
+      "x": 332,
+      "y": 333,
+      "type": "joint"
+    },
+    {
+      "x": 333,
+      "y": 334,
+      "type": "joint"
+    },
+    {
+      "x": 334,
+      "y": 335,
+      "type": "joint"
+    },
+    {
+      "x": 335,
+      "y": 336,
+      "type": "joint"
+    },
+    {
+      "x": 336,
+      "y": 337,
+      "type": "joint"
+    },
+    {
+      "x": 337,
+      "y": 338,
+      "type": "joint"
+    },
+    {
+      "x": 338,
+      "y": 339,
+      "type": "joint"
+    },
+    {
+      "x": 339,
+      "y": 340,
+      "type": "joint"
+    },
+    {
+      "x": 340,
+      "y": 341,
+      "type": "joint"
+    },
+    {
+      "x": 341,
+      "y": 342,
+      "type": "joint"
+    },
+    {
+      "x": 342,
+      "y": 343,
+      "type": "joint"
+    },
+    {
+      "x": 343,
+      "y": 344,
+      "type": "joint"
+    },
+    {
+      "x": 344,
+      "y": 345,
+      "type": "joint"
+    },
+    {
+      "x": 345,
+      "y": 346,
+      "type": "joint"
+    },
+    {
+      "x": 346,
+      "y": 347,
+      "type": "joint"
+    },
+    {
+      "x": 347,
+      "y": 348,
+      "type": "joint"
+    },
+    {
+      "x": 348,
+      "y": 349,
+      "type": "joint"
+    },
+    {
+      "x": 349,
+      "y": 350,
+      "type": "joint"
+    },
+    {
+      "x": 350,
+      "y": 351,
+      "type": "joint"
+    },
+    {
+      "x": 351,
+      "y": 352,
+      "type": "joint"
+    },
+    {
+      "x": 352,
+      "y": 353,
+      "type": "joint"
+    },
+    {
+      "x": 353,
+      "y": 354,
+      "type": "joint"
+    },
+    {
+      "x": 354,
+      "y": 355,
+      "type": "joint"
+    },
+    {
+      "x": 355,
+      "y": 356,
+      "type": "joint"
+    },
+    {
+      "x": 356,
+      "y": 357,
+      "type": "joint"
+    },
+    {
+      "x": 357,
+      "y": 358,
+      "type": "joint"
+    },
+    {
+      "x": 358,
+      "y": 359,
+      "type": "joint"
+    },
+    {
+      "x": 359,
+      "y": 360,
+      "type": "joint"
+    },
+    {
+      "x": 360,
+      "y": 361,
+      "type": "joint"
+    },
+    {
+      "x": 361,
+      "y": 362,
+      "type": "joint"
+    },
+    {
+      "x": 362,
+      "y": 363,
+      "type": "joint"
+    },
+    {
+      "x": 363,
+      "y": 364,
+      "type": "joint"
+    },
+    {
+      "x": 364,
+      "y": 365,
+      "type": "joint"
+    },
+    {
+      "x": 365,
+      "y": 366,
+      "type": "joint"
+    },
+    {
+      "x": 366,
+      "y": 367,
+      "type": "joint"
+    },
+    {
+      "x": 367,
+      "y": 368,
+      "type": "joint"
+    },
+    {
+      "x": 368,
+      "y": 369,
+      "type": "joint"
+    },
+    {
+      "x": 369,
+      "y": 370,
+      "type": "joint"
+    },
+    {
+      "x": 370,
+      "y": 371,
+      "type": "joint"
+    },
+    {
+      "x": 371,
+      "y": 372,
+      "type": "joint"
+    },
+    {
+      "x": 372,
+      "y": 373,
+      "type": "joint"
+    },
+    {
+      "x": 373,
+      "y": 374,
+      "type": "joint"
+    },
+    {
+      "x": 374,
+      "y": 375,
+      "type": "joint"
+    },
+    {
+      "x": 375,
+      "y": 376,
+      "type": "joint"
+    },
+    {
+      "x": 376,
+      "y": 377,
+      "type": "joint"
+    },
+    {
+      "x": 377,
+      "y": 378,
+      "type": "joint"
+    },
+    {
+      "x": 378,
+      "y": 379,
+      "type": "joint"
+    },
+    {
+      "x": 379,
+      "y": 380,
+      "type": "joint"
+    },
+    {
+      "x": 380,
+      "y": 381,
+      "type": "joint"
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "type": "Continuation"
+    },
+    {
+      "x": 22,
+      "y": 23,
+      "type": "Explanation"
+    },
+    {
+      "x": 30,
+      "y": 31,
+      "type": "Digression"
+    },
+    {
+      "x": 79,
+      "y": 80,
+      "type": "Illustration"
+    },
+    {
+      "x": 159,
+      "y": 160,
+      "type": "joint"
+    },
+    {
+      "x": 163,
+      "y": 164,
+      "type": "Explanation"
+    }
+  ]
+}

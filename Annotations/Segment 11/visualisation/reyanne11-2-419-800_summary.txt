@@ -1,0 +1,99 @@
+Not subsequent joint (ignored when building topics):
+	60 --- joint --- 62
+
+
+Topics:
+	409_0 > 410_1
+	414_5 > 416_7
+	417_8 > 421_12
+	423_14 > 424_15
+	426_17 > 427_18
+	428_19 > 450_41
+	451_42 > 464_55
+	466_57 > 468_59
+	470_61 > 471_62
+	472_63 > 473_64
+	474_65 > 486_77
+	489_80 > 491_82
+	492_83 > 495_86
+	496_87 > 515_106
+	516_107 > 521_112
+	525_116 > 527_118
+	529_120 > 544_135
+	547_138 > 561_152
+	562_153 > 566_157
+	567_158 > 576_167
+	577_168 > 579_170
+	580_171 > 584_175
+	590_181 > 600_191
+	601_192 > 604_195
+	605_196 > 606_198
+	608_200 > 609_201
+	611_203 > 625_218
+	626_219 > 630_223
+	631_224 > 635_228
+	636_229 > 650_243
+	652_245 > 653_246
+	654_247 > 659_252
+	660_253 > 664_257
+	665_258 > 670_263
+	671_264 > 676_269
+	677_270 > 678_271
+	679_272 > 721_314
+	722_315 > 1085_681
+
+
+Relations:
+	M_410 --- Subordinating 1 --- A_411
+	A_411 --- Digression --- A_412
+	A_412 --- Continuation --- M_413
+	M_413 --- Subordinating 1 --- A_414
+	R_416 --- Explanation --- A_417
+	R_422 --- Continuation --- R_423
+	R_424 --- Recording issue --- A_425
+	A_425 --- Continuation --- A_426
+	A_427 --- Illustration --- A_428
+	R_450 --- Phonological link --- M_451
+	A_464 --- Unrelated --- P_465
+	P_465 --- Meta --- A_466
+	A_471 --- Subordinating 2 --- P_472
+	P_473 --- Subordinating 2 --- P_474
+	P_486 --- Explanation --- P_487
+	P_487 --- Continuation --- P_488
+	P_488 --- Continuation --- A_489
+	A_515 --- Subordinating 2 --- M_516
+	P_522 --- Continuation --- M_523
+	M_523 --- Continuation --- P_524
+	P_524 --- Continuation --- M_525
+	M_527 --- Continuation --- M_528
+	M_528 --- Continuation --- P_529
+	P_544 --- Recording issue --- M_545
+	M_545 --- Illustration --- M_546
+	M_546 --- Continuation --- M_547
+	M_561 --- Digression --- A_562
+	A_566 --- Meta --- P_567
+	M_576 --- Digression --- P_577
+	P_579 --- Unrelated --- P_580
+	A_584 --- Explanation --- P_585
+	P_585 --- Coordinating 1 --- M_586
+	M_586 --- Continuation --- P_587
+	P_587 --- Continuation --- M_588
+	M_588 --- Continuation --- P_589
+	P_589 --- Continuation --- P_590
+	M_600 --- Unrelated --- P_601
+	P_604 --- Unrelated --- R_605
+	P_606 --- Event in the physical context --- R_607
+	R_607 --- Continuation --- M_608
+	M_609 --- Event in the physical context --- R_610
+	R_610 --- Continuation --- R_611
+	R_630 --- Event in the physical context --- P_631
+	P_635 --- Continuation --- R_636
+	P_650 --- Unrelated --- M_651
+	M_651 --- Recording issue --- M_652
+	A_653 --- Recording issue --- P_654
+	F_659 --- Event in the physical context --- R_660
+	M_664 --- Event in the physical context --- M_665
+	F_670 --- Event in the physical context --- F_671
+	R_676 --- Event in the physical context --- R_677
+	F_678 --- Event in the physical context --- M_679
+	M_721 --- Event in the physical context --- P_722

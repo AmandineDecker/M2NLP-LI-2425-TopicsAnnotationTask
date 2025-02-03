@@ -1,0 +1,563 @@
+{
+  "id": "ADD-852:\tthat's good .",
+  "edus": [
+    {
+      "text": "(3.) yeah .",
+      "speaker": "A",
+      "eduidx": 0,
+      "turnidx": 853
+    },
+    {
+      "text": "(3.) so in my spare time I go to the library and research colleges .",
+      "speaker": "B",
+      "eduidx": 1,
+      "turnidx": 854
+    },
+    {
+      "text": "⌈ <laugh>⌉ .",
+      "speaker": "B",
+      "eduidx": 2,
+      "turnidx": 855
+    },
+    {
+      "text": "⌊oh yeah⌋ !",
+      "speaker": "A",
+      "eduidx": 3,
+      "turnidx": 856
+    },
+    {
+      "text": "to keep me happy .",
+      "speaker": "B",
+      "eduidx": 4,
+      "turnidx": 857
+    },
+    {
+      "text": "⌈ <laugh>⌉ .",
+      "speaker": "B",
+      "eduidx": 5,
+      "turnidx": 858
+    },
+    {
+      "text": "⌊yeah⌋ <laugh> oh jeez .",
+      "speaker": "A",
+      "eduidx": 6,
+      "turnidx": 859
+    },
+    {
+      "text": "(1.) what else [/] what else are you thinking of doing ?",
+      "speaker": "A",
+      "eduidx": 7,
+      "turnidx": 860
+    },
+    {
+      "text": "I [/] I (2.) .",
+      "speaker": "B",
+      "eduidx": 8,
+      "turnidx": 861
+    },
+    {
+      "text": "you don't know .",
+      "speaker": "A",
+      "eduidx": 9,
+      "turnidx": 862
+    },
+    {
+      "text": "I don't ⌈know⌉ .",
+      "speaker": "B",
+      "eduidx": 10,
+      "turnidx": 863
+    },
+    {
+      "text": "⌊you⌋ don't have to talk about it if you don't want ⌈to⌉ .",
+      "speaker": "A",
+      "eduidx": 11,
+      "turnidx": 864
+    },
+    {
+      "text": "⌊my⌋ [/] my [/] my big thing right now is (.) uhm (.) University of Colorado .",
+      "speaker": "B",
+      "eduidx": 12,
+      "turnidx": 865
+    },
+    {
+      "text": "oh wow .",
+      "speaker": "A",
+      "eduidx": 13,
+      "turnidx": 866
+    },
+    {
+      "text": "because (.) in a way I kind of decided that [/] you know for a while my big debate like should I go to art school +/.",
+      "speaker": "B",
+      "eduidx": 14,
+      "turnidx": 867
+    },
+    {
+      "text": "oh ⌈yeah⌉ .",
+      "speaker": "A",
+      "eduidx": 15,
+      "turnidx": 868
+    },
+    {
+      "text": "+, ⌊or⌋ should I stay in a university ?",
+      "speaker": "B",
+      "eduidx": 16,
+      "turnidx": 869
+    },
+    {
+      "text": "right .",
+      "speaker": "A",
+      "eduidx": 17,
+      "turnidx": 870
+    },
+    {
+      "text": "and in a way I kind of decided that it would be a bad option for me to go to art school .",
+      "speaker": "B",
+      "eduidx": 18,
+      "turnidx": 871
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 19,
+      "turnidx": 872
+    },
+    {
+      "text": "after this year .",
+      "speaker": "B",
+      "eduidx": 20,
+      "turnidx": 873
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 21,
+      "turnidx": 874
+    },
+    {
+      "text": "(be)cause I think I [/] I need that university type of +/.",
+      "speaker": "B",
+      "eduidx": 22,
+      "turnidx": 875
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 23,
+      "turnidx": 876
+    },
+    {
+      "text": "+, setting .",
+      "speaker": "B",
+      "eduidx": 24,
+      "turnidx": 877
+    },
+    {
+      "text": "I need tho[/] those liberal arts ⌈courses (.) you know⌉ ?",
+      "speaker": "B",
+      "eduidx": 25,
+      "turnidx": 878
+    },
+    {
+      "text": "⌊uhhuh uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 26,
+      "turnidx": 879
+    },
+    {
+      "text": "I just think it's good .",
+      "speaker": "B",
+      "eduidx": 27,
+      "turnidx": 880
+    },
+    {
+      "text": "it's a good background .",
+      "speaker": "B",
+      "eduidx": 28,
+      "turnidx": 881
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 29,
+      "turnidx": 882
+    },
+    {
+      "text": "and (.) in a way I ⌈feel⌉ +/.",
+      "speaker": "B",
+      "eduidx": 30,
+      "turnidx": 883
+    },
+    {
+      "text": "⌊that's true⌋ .",
+      "speaker": "A",
+      "eduidx": 31,
+      "turnidx": 884
+    },
+    {
+      "text": "+, like I'm (.) cheating myself .",
+      "speaker": "B",
+      "eduidx": 32,
+      "turnidx": 885
+    },
+    {
+      "text": "not that but like (1.) that I'm not getting the best educa[/] I haven't fi +...",
+      "speaker": "B",
+      "eduidx": 33,
+      "turnidx": 886
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 34,
+      "turnidx": 887
+    },
+    {
+      "text": "I want a quality edu⌈cation⌉ +/.",
+      "speaker": "B",
+      "eduidx": 35,
+      "turnidx": 888
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 36,
+      "turnidx": 889
+    },
+    {
+      "text": "+, you know ?",
+      "speaker": "B",
+      "eduidx": 37,
+      "turnidx": 890
+    },
+    {
+      "text": "oh yeah .",
+      "speaker": "A",
+      "eduidx": 38,
+      "turnidx": 891
+    },
+    {
+      "text": "and uhm +...",
+      "speaker": "B",
+      "eduidx": 39,
+      "turnidx": 892
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 40,
+      "turnidx": 893
+    },
+    {
+      "text": "I just don't think that would [/] that an art school would be +...",
+      "speaker": "B",
+      "eduidx": 41,
+      "turnidx": 894
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 42,
+      "turnidx": 895
+    },
+    {
+      "text": "(1.) the greatest for ⌈that⌉ .",
+      "speaker": "B",
+      "eduidx": 43,
+      "turnidx": 896
+    },
+    {
+      "text": "⌊yeah⌋ so what are your options for that ?",
+      "speaker": "A",
+      "eduidx": 44,
+      "turnidx": 897
+    },
+    {
+      "text": "you go through four years of regular school and then to art school or ⌈what⌉ ?",
+      "speaker": "A",
+      "eduidx": 45,
+      "turnidx": 898
+    },
+    {
+      "text": "⌊that⌋ or else I transfer to a university that has a stronger art department .",
+      "speaker": "B",
+      "eduidx": 46,
+      "turnidx": 899
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 47,
+      "turnidx": 900
+    },
+    {
+      "text": "where I can like +...",
+      "speaker": "B",
+      "eduidx": 48,
+      "turnidx": 901
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 49,
+      "turnidx": 902
+    },
+    {
+      "text": "(1.) you know that even ⌈offers a masters⌉ +/.",
+      "speaker": "B",
+      "eduidx": 50,
+      "turnidx": 903
+    }
+  ],
+  "relations": [
+    {
+      "x": 1,
+      "y": 2,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "joint"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "joint"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "joint"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "joint"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "joint"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "joint"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "joint"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "joint"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "joint"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "joint"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "joint"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "joint"
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "type": "joint"
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "type": "joint"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 21,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "joint"
+    },
+    {
+      "x": 22,
+      "y": 23,
+      "type": "joint"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "type": "joint"
+    },
+    {
+      "x": 24,
+      "y": 25,
+      "type": "joint"
+    },
+    {
+      "x": 25,
+      "y": 26,
+      "type": "joint"
+    },
+    {
+      "x": 26,
+      "y": 27,
+      "type": "joint"
+    },
+    {
+      "x": 27,
+      "y": 28,
+      "type": "joint"
+    },
+    {
+      "x": 28,
+      "y": 29,
+      "type": "joint"
+    },
+    {
+      "x": 29,
+      "y": 30,
+      "type": "joint"
+    },
+    {
+      "x": 30,
+      "y": 31,
+      "type": "joint"
+    },
+    {
+      "x": 31,
+      "y": 32,
+      "type": "joint"
+    },
+    {
+      "x": 32,
+      "y": 33,
+      "type": "joint"
+    },
+    {
+      "x": 33,
+      "y": 34,
+      "type": "joint"
+    },
+    {
+      "x": 34,
+      "y": 35,
+      "type": "joint"
+    },
+    {
+      "x": 35,
+      "y": 36,
+      "type": "joint"
+    },
+    {
+      "x": 36,
+      "y": 37,
+      "type": "joint"
+    },
+    {
+      "x": 37,
+      "y": 38,
+      "type": "joint"
+    },
+    {
+      "x": 38,
+      "y": 39,
+      "type": "joint"
+    },
+    {
+      "x": 39,
+      "y": 40,
+      "type": "joint"
+    },
+    {
+      "x": 40,
+      "y": 41,
+      "type": "joint"
+    },
+    {
+      "x": 41,
+      "y": 42,
+      "type": "joint"
+    },
+    {
+      "x": 42,
+      "y": 43,
+      "type": "joint"
+    },
+    {
+      "x": 43,
+      "y": 44,
+      "type": "joint"
+    },
+    {
+      "x": 44,
+      "y": 45,
+      "type": "joint"
+    },
+    {
+      "x": 45,
+      "y": 46,
+      "type": "joint"
+    },
+    {
+      "x": 46,
+      "y": 47,
+      "type": "joint"
+    },
+    {
+      "x": 47,
+      "y": 48,
+      "type": "joint"
+    },
+    {
+      "x": 48,
+      "y": 49,
+      "type": "joint"
+    },
+    {
+      "x": 49,
+      "y": 50,
+      "type": "joint"
+    },
+    {
+      "x": 50,
+      "y": 51,
+      "type": "joint"
+    }
+  ]
+}

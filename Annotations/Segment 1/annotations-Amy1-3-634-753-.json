@@ -1,0 +1,1413 @@
+{
+  "id": "Amy1",
+  "edus": [
+    {
+      "text": "Previous",
+      "speaker": "S",
+      "eduidx": 0,
+      "turnidx": null
+    },
+    {
+      "text": "no .",
+      "speaker": "A",
+      "eduidx": 1,
+      "turnidx": 634
+    },
+    {
+      "text": "going looking for apartments ?",
+      "speaker": "B",
+      "eduidx": 2,
+      "turnidx": 635
+    },
+    {
+      "text": "no !",
+      "speaker": "A",
+      "eduidx": 3,
+      "turnidx": 636
+    },
+    {
+      "text": "we did .",
+      "speaker": "B",
+      "eduidx": 4,
+      "turnidx": 637
+    },
+    {
+      "text": "(be)cause you know (.) we were really into it and we knew we weren't getting get one till for a while a long while ⌈anyway⌉ .",
+      "speaker": "B",
+      "eduidx": 5,
+      "turnidx": 638
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 6,
+      "turnidx": 639
+    },
+    {
+      "text": "but it took something to keep us .",
+      "speaker": "B",
+      "eduidx": 7,
+      "turnidx": 640
+    },
+    {
+      "text": "so [/] ⌈you know⌉ ?",
+      "speaker": "B",
+      "eduidx": 8,
+      "turnidx": 641
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 9,
+      "turnidx": 642
+    },
+    {
+      "text": "oh that's ⌈cool⌉ .",
+      "speaker": "A",
+      "eduidx": 10,
+      "turnidx": 643
+    },
+    {
+      "text": "⌊a⌋ friend of mine (.) Anne uhm [/] she lives at home (.) ⌈now⌉ +/.",
+      "speaker": "B",
+      "eduidx": 11,
+      "turnidx": 644
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 12,
+      "turnidx": 645
+    },
+    {
+      "text": "+, and she is really aggravated ⌈you know⌉ +/.",
+      "speaker": "B",
+      "eduidx": 13,
+      "turnidx": 646
+    },
+    {
+      "text": "⌊ha ha⌋ .",
+      "speaker": "A",
+      "eduidx": 14,
+      "turnidx": 647
+    },
+    {
+      "text": "+, cause (.) you can imagine .",
+      "speaker": "B",
+      "eduidx": 15,
+      "turnidx": 648
+    },
+    {
+      "text": "she +...",
+      "speaker": "B",
+      "eduidx": 16,
+      "turnidx": 649
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 17,
+      "turnidx": 650
+    },
+    {
+      "text": "she's lived in Chicago all her live .",
+      "speaker": "B",
+      "eduidx": 18,
+      "turnidx": 651
+    },
+    {
+      "text": "and she wants an apartment .",
+      "speaker": "B",
+      "eduidx": 19,
+      "turnidx": 652
+    },
+    {
+      "text": "and uhm +...",
+      "speaker": "B",
+      "eduidx": 20,
+      "turnidx": 653
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 21,
+      "turnidx": 654
+    },
+    {
+      "text": "so [/] ha [/] like one week (.) there was one day .",
+      "speaker": "B",
+      "eduidx": 22,
+      "turnidx": 655
+    },
+    {
+      "text": "it was really weird .",
+      "speaker": "B",
+      "eduidx": 23,
+      "turnidx": 656
+    },
+    {
+      "text": "we were in the weirdest mood .",
+      "speaker": "B",
+      "eduidx": 24,
+      "turnidx": 657
+    },
+    {
+      "text": "it was raining all day .",
+      "speaker": "B",
+      "eduidx": 25,
+      "turnidx": 658
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 26,
+      "turnidx": 659
+    },
+    {
+      "text": "and we were just looking through (.) the newspaper at apartments .",
+      "speaker": "B",
+      "eduidx": 27,
+      "turnidx": 660
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 28,
+      "turnidx": 661
+    },
+    {
+      "text": "and we were like “let's go and look at some” .",
+      "speaker": "B",
+      "eduidx": 29,
+      "turnidx": 662
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "A",
+      "eduidx": 30,
+      "turnidx": 663
+    },
+    {
+      "text": "and we made these appointments .",
+      "speaker": "B",
+      "eduidx": 31,
+      "turnidx": 664
+    },
+    {
+      "text": "⌈and⌉ +/.",
+      "speaker": "B",
+      "eduidx": 32,
+      "turnidx": 665
+    },
+    {
+      "text": "⌊uhhuh⌋ +/.",
+      "speaker": "A",
+      "eduidx": 33,
+      "turnidx": 666
+    },
+    {
+      "text": "++ we went [/] went all over the place and looked at several places +/.",
+      "speaker": "B",
+      "eduidx": 34,
+      "turnidx": 667
+    },
+    {
+      "text": "++ ⌈uhhuh⌉ .",
+      "speaker": "A",
+      "eduidx": 35,
+      "turnidx": 668
+    },
+    {
+      "text": "⌊we had⌋ appointments for .",
+      "speaker": "B",
+      "eduidx": 36,
+      "turnidx": 669
+    },
+    {
+      "text": "⌈uhhuh⌉ .",
+      "speaker": "A",
+      "eduidx": 37,
+      "turnidx": 670
+    },
+    {
+      "text": "⌊it⌋ was fun .",
+      "speaker": "B",
+      "eduidx": 38,
+      "turnidx": 671
+    },
+    {
+      "text": "oh that's cool .",
+      "speaker": "A",
+      "eduidx": 39,
+      "turnidx": 672
+    },
+    {
+      "text": "you know .",
+      "speaker": "B",
+      "eduidx": 40,
+      "turnidx": 673
+    },
+    {
+      "text": "just to get some ideas of what the prices were .",
+      "speaker": "B",
+      "eduidx": 41,
+      "turnidx": 674
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 42,
+      "turnidx": 675
+    },
+    {
+      "text": "what we were looking at .",
+      "speaker": "B",
+      "eduidx": 43,
+      "turnidx": 676
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 44,
+      "turnidx": 677
+    },
+    {
+      "text": "and that kind of thing .",
+      "speaker": "B",
+      "eduidx": 45,
+      "turnidx": 678
+    },
+    {
+      "text": "oh that's really neat .",
+      "speaker": "A",
+      "eduidx": 46,
+      "turnidx": 679
+    },
+    {
+      "text": "so we figure that the only way we can afford it is like (.) if we rent a studio together .",
+      "speaker": "B",
+      "eduidx": 47,
+      "turnidx": 680
+    },
+    {
+      "text": "oh ⌈we",
+      "speaker": "A",
+      "eduidx": 48,
+      "turnidx": 681
+    },
+    {
+      "text": "⌊which⌋ is pretty small but still bigger than a dorm room you know ?",
+      "speaker": "B",
+      "eduidx": 49,
+      "turnidx": 682
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 50,
+      "turnidx": 683
+    },
+    {
+      "text": "and you have your own bathroom .",
+      "speaker": "A",
+      "eduidx": 51,
+      "turnidx": 684
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 52,
+      "turnidx": 685
+    },
+    {
+      "text": "and kitchen you know .",
+      "speaker": "B",
+      "eduidx": 53,
+      "turnidx": 686
+    },
+    {
+      "text": "and kitchen and stuff .",
+      "speaker": "A",
+      "eduidx": 54,
+      "turnidx": 687
+    },
+    {
+      "text": "(1.) oh wow .",
+      "speaker": "A",
+      "eduidx": 55,
+      "turnidx": 688
+    },
+    {
+      "text": "so +...",
+      "speaker": "B",
+      "eduidx": 56,
+      "turnidx": 689
+    },
+    {
+      "text": "it's a lot isn't it ?",
+      "speaker": "A",
+      "eduidx": 57,
+      "turnidx": 690
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 58,
+      "turnidx": 691
+    },
+    {
+      "text": "I know .",
+      "speaker": "A",
+      "eduidx": 59,
+      "turnidx": 692
+    },
+    {
+      "text": "(1.) especially in Chicago it's gotta be bad .",
+      "speaker": "A",
+      "eduidx": 60,
+      "turnidx": 693
+    },
+    {
+      "text": "apartments are awful .",
+      "speaker": "B",
+      "eduidx": 61,
+      "turnidx": 694
+    },
+    {
+      "text": "I mean they +/.",
+      "speaker": "B",
+      "eduidx": 62,
+      "turnidx": 695
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 63,
+      "turnidx": 696
+    },
+    {
+      "text": "studios are [/] I mean (1.) a good deal in a studio is like four seventy five a month .",
+      "speaker": "B",
+      "eduidx": 64,
+      "turnidx": 697
+    },
+    {
+      "text": "oh wow .",
+      "speaker": "A",
+      "eduidx": 65,
+      "turnidx": 698
+    },
+    {
+      "text": "that [/] that's cheap .",
+      "speaker": "B",
+      "eduidx": 66,
+      "turnidx": 699
+    },
+    {
+      "text": "that's a cheap place .",
+      "speaker": "B",
+      "eduidx": 67,
+      "turnidx": 700
+    },
+    {
+      "text": "oh ma",
+      "speaker": "A",
+      "eduidx": 68,
+      "turnidx": 701
+    },
+    {
+      "text": "you know .",
+      "speaker": "B",
+      "eduidx": 69,
+      "turnidx": 702
+    },
+    {
+      "text": "and upwards from there [/] I mean a [/] around our area uhm an apartment like a one bedroom or something ⌈like that⌉ +/.",
+      "speaker": "B",
+      "eduidx": 70,
+      "turnidx": 703
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 71,
+      "turnidx": 704
+    },
+    {
+      "text": "+, goes for seven or eight hundred .",
+      "speaker": "B",
+      "eduidx": 72,
+      "turnidx": 705
+    },
+    {
+      "text": "oh my God .",
+      "speaker": "A",
+      "eduidx": 73,
+      "turnidx": 706
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 74,
+      "turnidx": 707
+    },
+    {
+      "text": "oh wow .",
+      "speaker": "A",
+      "eduidx": 75,
+      "turnidx": 708
+    },
+    {
+      "text": "I know .",
+      "speaker": "B",
+      "eduidx": 76,
+      "turnidx": 709
+    },
+    {
+      "text": "it's crazy .",
+      "speaker": "B",
+      "eduidx": 77,
+      "turnidx": 710
+    },
+    {
+      "text": "oh .",
+      "speaker": "A",
+      "eduidx": 78,
+      "turnidx": 711
+    },
+    {
+      "text": "we found this place though .",
+      "speaker": "B",
+      "eduidx": 79,
+      "turnidx": 712
+    },
+    {
+      "text": "uhm we just found this about a week ago .",
+      "speaker": "B",
+      "eduidx": 80,
+      "turnidx": 713
+    },
+    {
+      "text": "and (.) it's really close by .",
+      "speaker": "B",
+      "eduidx": 81,
+      "turnidx": 714
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 82,
+      "turnidx": 715
+    },
+    {
+      "text": "practically on campus .",
+      "speaker": "B",
+      "eduidx": 83,
+      "turnidx": 716
+    },
+    {
+      "text": "oh yeah .",
+      "speaker": "A",
+      "eduidx": 84,
+      "turnidx": 717
+    },
+    {
+      "text": "and it's (.) five twenty five +/.",
+      "speaker": "B",
+      "eduidx": 85,
+      "turnidx": 718
+    },
+    {
+      "text": "uh [/] ⌈huh⌉ .",
+      "speaker": "A",
+      "eduidx": 86,
+      "turnidx": 719
+    },
+    {
+      "text": "+,     ⌊in⌋cluding heat .",
+      "speaker": "B",
+      "eduidx": 87,
+      "turnidx": 720
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 88,
+      "turnidx": 721
+    },
+    {
+      "text": "it's [/] we haven't seen it but it's supposed to be a large studio .",
+      "speaker": "B",
+      "eduidx": 89,
+      "turnidx": 722
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "A",
+      "eduidx": 90,
+      "turnidx": 723
+    },
+    {
+      "text": "with uhm hard wood floors ⌈and⌉ +/.",
+      "speaker": "B",
+      "eduidx": 91,
+      "turnidx": 724
+    },
+    {
+      "text": "⌊oh⌋ .",
+      "speaker": "A",
+      "eduidx": 92,
+      "turnidx": 725
+    },
+    {
+      "text": "+, high ceilings and a fire place .",
+      "speaker": "B",
+      "eduidx": 93,
+      "turnidx": 726
+    },
+    {
+      "text": "oh ⌈wow⌉ .",
+      "speaker": "A",
+      "eduidx": 94,
+      "turnidx": 727
+    },
+    {
+      "text": "⌊and⌋ we went",
+      "speaker": "B",
+      "eduidx": 95,
+      "turnidx": 728
+    },
+    {
+      "text": "cool .",
+      "speaker": "A",
+      "eduidx": 96,
+      "turnidx": 729
+    },
+    {
+      "text": "so it would still be like two something a month .",
+      "speaker": "B",
+      "eduidx": 97,
+      "turnidx": 730
+    },
+    {
+      "text": "uh ⌈huh⌉ .",
+      "speaker": "A",
+      "eduidx": 98,
+      "turnidx": 731
+    },
+    {
+      "text": "⌊for⌋ each of us .",
+      "speaker": "B",
+      "eduidx": 99,
+      "turnidx": 732
+    },
+    {
+      "text": "which is ok .",
+      "speaker": "B",
+      "eduidx": 100,
+      "turnidx": 733
+    },
+    {
+      "text": "⌈that's ok⌉ .",
+      "speaker": "B",
+      "eduidx": 101,
+      "turnidx": 734
+    },
+    {
+      "text": "⌊does that⌋ include everything ?",
+      "speaker": "A",
+      "eduidx": 102,
+      "turnidx": 735
+    },
+    {
+      "text": "it includes heat and uhm [/] (2.) I think +...",
+      "speaker": "B",
+      "eduidx": 103,
+      "turnidx": 736
+    },
+    {
+      "text": "water ?",
+      "speaker": "A",
+      "eduidx": 104,
+      "turnidx": 737
+    },
+    {
+      "text": "water .",
+      "speaker": "B",
+      "eduidx": 105,
+      "turnidx": 738
+    },
+    {
+      "text": "but not electricity .",
+      "speaker": "B",
+      "eduidx": 106,
+      "turnidx": 739
+    },
+    {
+      "text": "oh jeez .",
+      "speaker": "A",
+      "eduidx": 107,
+      "turnidx": 740
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 108,
+      "turnidx": 741
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 109,
+      "turnidx": 742
+    },
+    {
+      "text": "(2.) yeah .",
+      "speaker": "A",
+      "eduidx": 110,
+      "turnidx": 743
+    },
+    {
+      "text": "(2.) heat's a lot though ⌈so that's good⌉ .",
+      "speaker": "A",
+      "eduidx": 111,
+      "turnidx": 744
+    },
+    {
+      "text": "⌊oh yeah⌋ .",
+      "speaker": "B",
+      "eduidx": 112,
+      "turnidx": 745
+    },
+    {
+      "text": "so that's a biggie when that's included .",
+      "speaker": "B",
+      "eduidx": 113,
+      "turnidx": 746
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 114,
+      "turnidx": 747
+    },
+    {
+      "text": "you know that's good .",
+      "speaker": "B",
+      "eduidx": 115,
+      "turnidx": 748
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 116,
+      "turnidx": 749
+    },
+    {
+      "text": "so .",
+      "speaker": "B",
+      "eduidx": 117,
+      "turnidx": 750
+    },
+    {
+      "text": "wow .",
+      "speaker": "A",
+      "eduidx": 118,
+      "turnidx": 751
+    },
+    {
+      "text": "I don't know .",
+      "speaker": "B",
+      "eduidx": 119,
+      "turnidx": 752
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 120,
+      "turnidx": 753
+    }
+  ],
+  "relations": [
+    {
+      "x": 1,
+      "y": 2,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "joint"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "joint"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "joint"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "joint"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "joint"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "joint"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "joint"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "joint"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "joint"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "joint"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "joint"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "joint"
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "type": "joint"
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "type": "joint"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 21,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "joint"
+    },
+    {
+      "x": 22,
+      "y": 23,
+      "type": "joint"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "type": "joint"
+    },
+    {
+      "x": 24,
+      "y": 25,
+      "type": "joint"
+    },
+    {
+      "x": 25,
+      "y": 26,
+      "type": "joint"
+    },
+    {
+      "x": 26,
+      "y": 27,
+      "type": "joint"
+    },
+    {
+      "x": 27,
+      "y": 28,
+      "type": "joint"
+    },
+    {
+      "x": 28,
+      "y": 29,
+      "type": "joint"
+    },
+    {
+      "x": 29,
+      "y": 30,
+      "type": "joint"
+    },
+    {
+      "x": 30,
+      "y": 31,
+      "type": "joint"
+    },
+    {
+      "x": 31,
+      "y": 32,
+      "type": "joint"
+    },
+    {
+      "x": 32,
+      "y": 33,
+      "type": "joint"
+    },
+    {
+      "x": 33,
+      "y": 34,
+      "type": "joint"
+    },
+    {
+      "x": 34,
+      "y": 35,
+      "type": "joint"
+    },
+    {
+      "x": 35,
+      "y": 36,
+      "type": "joint"
+    },
+    {
+      "x": 36,
+      "y": 37,
+      "type": "joint"
+    },
+    {
+      "x": 37,
+      "y": 38,
+      "type": "joint"
+    },
+    {
+      "x": 38,
+      "y": 39,
+      "type": "joint"
+    },
+    {
+      "x": 39,
+      "y": 40,
+      "type": "joint"
+    },
+    {
+      "x": 40,
+      "y": 41,
+      "type": "joint"
+    },
+    {
+      "x": 41,
+      "y": 42,
+      "type": "joint"
+    },
+    {
+      "x": 42,
+      "y": 43,
+      "type": "joint"
+    },
+    {
+      "x": 43,
+      "y": 44,
+      "type": "joint"
+    },
+    {
+      "x": 44,
+      "y": 45,
+      "type": "joint"
+    },
+    {
+      "x": 45,
+      "y": 46,
+      "type": "joint"
+    },
+    {
+      "x": 46,
+      "y": 47,
+      "type": "joint"
+    },
+    {
+      "x": 47,
+      "y": 48,
+      "type": "joint"
+    },
+    {
+      "x": 48,
+      "y": 49,
+      "type": "joint"
+    },
+    {
+      "x": 49,
+      "y": 50,
+      "type": "joint"
+    },
+    {
+      "x": 50,
+      "y": 51,
+      "type": "joint"
+    },
+    {
+      "x": 51,
+      "y": 52,
+      "type": "joint"
+    },
+    {
+      "x": 52,
+      "y": 53,
+      "type": "joint"
+    },
+    {
+      "x": 53,
+      "y": 54,
+      "type": "joint"
+    },
+    {
+      "x": 54,
+      "y": 55,
+      "type": "joint"
+    },
+    {
+      "x": 55,
+      "y": 56,
+      "type": "joint"
+    },
+    {
+      "x": 56,
+      "y": 57,
+      "type": "joint"
+    },
+    {
+      "x": 57,
+      "y": 58,
+      "type": "joint"
+    },
+    {
+      "x": 58,
+      "y": 59,
+      "type": "joint"
+    },
+    {
+      "x": 59,
+      "y": 60,
+      "type": "joint"
+    },
+    {
+      "x": 60,
+      "y": 61,
+      "type": "joint"
+    },
+    {
+      "x": 61,
+      "y": 62,
+      "type": "joint"
+    },
+    {
+      "x": 62,
+      "y": 63,
+      "type": "joint"
+    },
+    {
+      "x": 63,
+      "y": 64,
+      "type": "joint"
+    },
+    {
+      "x": 64,
+      "y": 65,
+      "type": "joint"
+    },
+    {
+      "x": 65,
+      "y": 66,
+      "type": "joint"
+    },
+    {
+      "x": 66,
+      "y": 67,
+      "type": "joint"
+    },
+    {
+      "x": 67,
+      "y": 68,
+      "type": "joint"
+    },
+    {
+      "x": 68,
+      "y": 69,
+      "type": "joint"
+    },
+    {
+      "x": 69,
+      "y": 70,
+      "type": "joint"
+    },
+    {
+      "x": 70,
+      "y": 71,
+      "type": "joint"
+    },
+    {
+      "x": 71,
+      "y": 72,
+      "type": "joint"
+    },
+    {
+      "x": 72,
+      "y": 73,
+      "type": "joint"
+    },
+    {
+      "x": 73,
+      "y": 74,
+      "type": "joint"
+    },
+    {
+      "x": 74,
+      "y": 75,
+      "type": "joint"
+    },
+    {
+      "x": 75,
+      "y": 76,
+      "type": "joint"
+    },
+    {
+      "x": 76,
+      "y": 77,
+      "type": "joint"
+    },
+    {
+      "x": 77,
+      "y": 78,
+      "type": "joint"
+    },
+    {
+      "x": 78,
+      "y": 79,
+      "type": "joint"
+    },
+    {
+      "x": 79,
+      "y": 80,
+      "type": "joint"
+    },
+    {
+      "x": 80,
+      "y": 81,
+      "type": "joint"
+    },
+    {
+      "x": 81,
+      "y": 82,
+      "type": "joint"
+    },
+    {
+      "x": 82,
+      "y": 83,
+      "type": "joint"
+    },
+    {
+      "x": 83,
+      "y": 84,
+      "type": "joint"
+    },
+    {
+      "x": 84,
+      "y": 85,
+      "type": "joint"
+    },
+    {
+      "x": 85,
+      "y": 86,
+      "type": "joint"
+    },
+    {
+      "x": 86,
+      "y": 87,
+      "type": "joint"
+    },
+    {
+      "x": 87,
+      "y": 88,
+      "type": "joint"
+    },
+    {
+      "x": 88,
+      "y": 89,
+      "type": "joint"
+    },
+    {
+      "x": 89,
+      "y": 90,
+      "type": "joint"
+    },
+    {
+      "x": 90,
+      "y": 91,
+      "type": "joint"
+    },
+    {
+      "x": 91,
+      "y": 92,
+      "type": "joint"
+    },
+    {
+      "x": 92,
+      "y": 93,
+      "type": "joint"
+    },
+    {
+      "x": 93,
+      "y": 94,
+      "type": "joint"
+    },
+    {
+      "x": 94,
+      "y": 95,
+      "type": "joint"
+    },
+    {
+      "x": 95,
+      "y": 96,
+      "type": "joint"
+    },
+    {
+      "x": 96,
+      "y": 97,
+      "type": "joint"
+    },
+    {
+      "x": 97,
+      "y": 98,
+      "type": "joint"
+    },
+    {
+      "x": 98,
+      "y": 99,
+      "type": "joint"
+    },
+    {
+      "x": 99,
+      "y": 100,
+      "type": "joint"
+    },
+    {
+      "x": 100,
+      "y": 101,
+      "type": "joint"
+    },
+    {
+      "x": 101,
+      "y": 102,
+      "type": "joint"
+    },
+    {
+      "x": 102,
+      "y": 103,
+      "type": "joint"
+    },
+    {
+      "x": 103,
+      "y": 104,
+      "type": "joint"
+    },
+    {
+      "x": 104,
+      "y": 105,
+      "type": "joint"
+    },
+    {
+      "x": 105,
+      "y": 106,
+      "type": "joint"
+    },
+    {
+      "x": 106,
+      "y": 107,
+      "type": "joint"
+    },
+    {
+      "x": 107,
+      "y": 108,
+      "type": "joint"
+    },
+    {
+      "x": 108,
+      "y": 109,
+      "type": "joint"
+    },
+    {
+      "x": 109,
+      "y": 110,
+      "type": "joint"
+    },
+    {
+      "x": 110,
+      "y": 111,
+      "type": "joint"
+    },
+    {
+      "x": 111,
+      "y": 112,
+      "type": "joint"
+    },
+    {
+      "x": 112,
+      "y": 113,
+      "type": "joint"
+    },
+    {
+      "x": 113,
+      "y": 114,
+      "type": "joint"
+    },
+    {
+      "x": 114,
+      "y": 115,
+      "type": "joint"
+    },
+    {
+      "x": 115,
+      "y": 116,
+      "type": "joint"
+    },
+    {
+      "x": 116,
+      "y": 117,
+      "type": "joint"
+    },
+    {
+      "x": 117,
+      "y": 118,
+      "type": "joint"
+    },
+    {
+      "x": 118,
+      "y": 119,
+      "type": "joint"
+    },
+    {
+      "x": 119,
+      "y": 120,
+      "type": "joint"
+    },
+    {
+      "x": 120,
+      "y": 121,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 1,
+      "type": "Continuation"
+    },
+    {
+      "x": 6,
+      "y": 5,
+      "type": "Explanation"
+    },
+    {
+      "x": 12,
+      "y": 11,
+      "type": "Subordinating 1"
+    },
+    {
+      "x": 26,
+      "y": 25,
+      "type": "Event in the physical context"
+    },
+    {
+      "x": 28,
+      "y": 27,
+      "type": "Continuation"
+    },
+    {
+      "x": 48,
+      "y": 47,
+      "type": "Subordinating 1"
+    },
+    {
+      "x": 54,
+      "y": 53,
+      "type": "Enumeration"
+    },
+    {
+      "x": 56,
+      "y": 55,
+      "type": "Continuation"
+    },
+    {
+      "x": 62,
+      "y": 61,
+      "type": "Subordinating 1"
+    },
+    {
+      "x": 65,
+      "y": 64,
+      "type": "Explanation"
+    },
+    {
+      "x": 71,
+      "y": 70,
+      "type": "Continuation"
+    },
+    {
+      "x": 80,
+      "y": 79,
+      "type": "Subordinating 1"
+    },
+    {
+      "x": 92,
+      "y": 91,
+      "type": "Illustration"
+    },
+    {
+      "x": 98,
+      "y": 97,
+      "type": "Continuation"
+    },
+    {
+      "x": 103,
+      "y": 102,
+      "type": "Subordinating 1"
+    },
+    {
+      "x": 112,
+      "y": 111,
+      "type": "Subordinating 1"
+    }
+  ]
+}

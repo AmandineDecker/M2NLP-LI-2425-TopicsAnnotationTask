@@ -1,0 +1,33 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	1442_0 > 1447_5
+	1448_6 > 1480_38
+	1481_39 > 1518_76
+	1519_77 > 1551_109
+	1552_110 > 1587_145
+	1588_146 > 1612_170
+	1613_171 > 1644_202
+	1645_203 > 1674_232
+	1675_233 > 1686_244
+	1687_245 > 1694_252
+	1695_253 > 1705_263
+	1706_264 > 2179_739
+
+
+Relations:
+	B_1447 --- Continuation --- B_1448
+	A_1480 --- Illustration --- B_1481
+	A_1518 --- Continuation --- B_1519
+	B_1551 --- Continuation --- B_1552
+	B_1551 --- Illustration --- B_1552
+	B_1587 --- Continuation --- B_1588
+	A_1612 --- Continuation --- A_1613
+	B_1644 --- Draw on background context --- A_1645
+	B_1644 --- Continuation --- A_1645
+	B_1644 --- Continuation --- A_1675
+	B_1686 --- Unrelated --- A_1687
+	A_1694 --- Consequence --- A_1695
+	A_1705 --- Explanation --- A_1706

@@ -1,0 +1,39 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	1030_0 > 1041_11
+	1042_12 > 1046_16
+	1047_17 > 1050_20
+	1051_21 > 1065_35
+	1066_36 > 1069_39
+	1070_40 > 1098_68
+	1099_69 > 1131_101
+	1132_102 > 1148_118
+	1149_119 > 1155_125
+	1156_126 > 1163_133
+	1164_134 > 1183_153
+	1184_154 > 1193_163
+	1194_164 > 1206_176
+	1207_177 > 1225_195
+	1226_196 > 1227_197
+
+
+Relations:
+	B_1041 --- Continuation --- A_1042
+	B_1046 --- Explanation --- A_1047
+	B_1050 --- Continuation --- A_1051
+	A_1065 --- Unrelated --- A_1066
+	A_1065 --- Illustration --- B_1070
+	A_1069 --- Unrelated --- B_1070
+	B_1098 --- Continuation --- A_1099
+	A_1131 --- Continuation --- A_1132
+	A_1148 --- Consequence --- B_1149
+	B_1155 --- Digression --- A_1156
+	A_1163 --- Continuation --- B_1164
+	A_1183 --- Continuation --- B_1184
+	A_1193 --- Explanation --- B_1194
+	B_1206 --- Illustration --- B_1207
+	A_1225 --- Digression --- A_1226
+	B_1227 --- Event in the physical context --- %_None

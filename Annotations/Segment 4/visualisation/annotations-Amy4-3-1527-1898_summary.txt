@@ -1,0 +1,68 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	None_0 > None_0
+	1527_1 > 1542_16
+	1543_17 > 1551_25
+	1552_26 > 1581_55
+	1582_56 > 1590_64
+	1591_65 > 1597_71
+	1598_72 > 1601_75
+	1602_76 > 1612_86
+	1613_87 > 1633_107
+	1634_108 > 1645_119
+	1646_120 > 1647_121
+	1648_122 > 1674_148
+	1675_149 > 1686_160
+	1687_161 > 1701_175
+	1702_176 > 1705_179
+	1706_180 > 1709_183
+	1710_184 > 1713_187
+	1714_188 > 1731_205
+	1732_206 > 1750_224
+	1751_225 > 1760_234
+	1761_235 > 1788_262
+	1789_263 > 1810_284
+	1811_285 > 1833_307
+	None_308 > 1834_309
+	None_310 > 1844_320
+	1845_321 > 1861_337
+	1862_338 > 1864_340
+	1865_341 > 1892_368
+	1893_369 > 1898_374
+
+
+Relations:
+	s_None --- Meta --- A_1527
+	B_1542 --- Explanation --- A_1543
+	B_1551 --- Continuation --- B_1552
+	A_1581 --- Explanation --- B_1582
+	B_1590 --- Explanation --- A_1591
+	A_1597 --- Continuation --- B_1598
+	A_1601 --- Explanation --- B_1602
+	A_1612 --- Continuation --- A_1613
+	A_1633 --- Continuation --- B_1634
+	A_1645 --- Unrelated --- B_1646
+	A_1647 --- Explanation --- B_1648
+	A_1674 --- Unrelated --- A_1675
+	B_1686 --- Continuation --- A_1687
+	A_1695 --- Explanation --- A_1697
+	B_1701 --- Digression --- B_1702
+	A_1705 --- Digression --- A_1706
+	B_1709 --- Explanation --- B_1710
+	A_1713 --- Explanation --- A_1714
+	A_1731 --- Illustration --- B_1732
+	A_1750 --- Continuation --- B_1751
+	A_1760 --- Explanation --- B_1761
+	A_1788 --- Continuation --- A_1789
+	A_1810 --- Explanation --- B_1811
+	B_1833 --- Recording issue --- %_None
+	B_1834 --- Recording issue --- %_None
+	B_1844 --- Explanation --- B_1845
+	B_1851 --- Continuation --- B_1853
+	A_1861 --- Explanation --- B_1862
+	B_1864 --- Continuation --- B_1865
+	B_1877 --- Continuation --- B_1879
+	A_1892 --- Explanation --- B_1893

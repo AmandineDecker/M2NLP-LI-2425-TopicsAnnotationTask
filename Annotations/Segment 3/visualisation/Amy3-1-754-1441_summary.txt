@@ -1,0 +1,54 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	754_0 > 759_5
+	760_6 > 769_15
+	770_16 > 778_24
+	779_25 > 853_99
+	854_100 > 864_110
+	865_111 > 874_120
+	875_121 > 909_155
+	910_156 > 953_199
+	954_200 > 980_226
+	981_227 > 986_232
+	987_233 > 1006_252
+	1007_253 > 1048_294
+	1049_295 > 1098_344
+	1099_345 > 1130_376
+	1131_377 > 1155_401
+	1156_402 > 1198_444
+	1199_445 > 1225_471
+	1226_472 > 1241_488
+	1242_489 > 1267_514
+	1268_515 > 1441_689
+
+
+Relations:
+	A_759 --- Continuation --- B_760
+	A_759 --- Coordinating 1 --- A_808
+	B_769 --- Subordinating 1 --- A_770
+	B_769 --- Subordinating 1 --- B_786
+	A_778 --- Illustration --- B_779
+	A_853 --- Consequence --- B_854
+	A_864 --- Illustration --- B_865
+	A_874 --- Explanation --- B_875
+	B_909 --- Illustration --- A_910
+	A_953 --- Continuation --- B_954
+	A_980 --- Coordinating 2 --- B_981
+	A_986 --- Consequence --- B_987
+	B_1006 --- Enumeration --- A_1007
+	B_1048 --- Illustration --- A_1049
+	B_1098 --- Continuation --- A_1099
+	A_1130 --- Digression --- A_1131
+	A_1130 --- Coordinating 1 --- B_1149
+	B_1155 --- Subordinating 1 --- A_1156
+	B_1198 --- Consequence --- A_1199
+	B_1198 --- Coordinating 1 --- A_1228
+	B_1198 --- Coordinating 2 --- B_1285
+	B_1198 --- Coordinating 1 --- B_1316
+	B_1198 --- Coordinating 2 --- B_1347
+	A_1225 --- Event in the physical context --- A_1226
+	A_1241 --- Continuation --- B_1242
+	A_1267 --- Explanation --- A_1268

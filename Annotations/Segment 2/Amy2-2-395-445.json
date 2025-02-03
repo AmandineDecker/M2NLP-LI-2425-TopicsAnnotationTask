@@ -1,0 +1,563 @@
+{
+  "id": "ADD-394:\t⌈o:h⌉ .",
+  "edus": [
+    {
+      "text": "⌊we [/] ⌋ we were an hour late .",
+      "speaker": "B",
+      "eduidx": 0,
+      "turnidx": 395
+    },
+    {
+      "text": "so that the bus took three hours .",
+      "speaker": "B",
+      "eduidx": 1,
+      "turnidx": 396
+    },
+    {
+      "text": "that's four .",
+      "speaker": "B",
+      "eduidx": 2,
+      "turnidx": 397
+    },
+    {
+      "text": "o",
+      "speaker": "A",
+      "eduidx": 3,
+      "turnidx": 398
+    },
+    {
+      "text": "and it took like an hour and a half to get back to ⌈Freeport⌉ .",
+      "speaker": "B",
+      "eduidx": 4,
+      "turnidx": 399
+    },
+    {
+      "text": "⌊Freeport⌋ .",
+      "speaker": "A",
+      "eduidx": 5,
+      "turnidx": 400
+    },
+    {
+      "text": "so it was just like the same time .",
+      "speaker": "A",
+      "eduidx": 6,
+      "turnidx": 401
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 7,
+      "turnidx": 402
+    },
+    {
+      "text": "oh jeez .",
+      "speaker": "A",
+      "eduidx": 8,
+      "turnidx": 403
+    },
+    {
+      "text": "(1.) that's not too good .",
+      "speaker": "A",
+      "eduidx": 9,
+      "turnidx": 404
+    },
+    {
+      "text": "no .",
+      "speaker": "B",
+      "eduidx": 10,
+      "turnidx": 405
+    },
+    {
+      "text": "that's why [/] that's the rea [/] only reason why I hate coming home is taking the bus .",
+      "speaker": "B",
+      "eduidx": 11,
+      "turnidx": 406
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 12,
+      "turnidx": 407
+    },
+    {
+      "text": "it's the biggest ⌈drag⌉ .",
+      "speaker": "B",
+      "eduidx": 13,
+      "turnidx": 408
+    },
+    {
+      "text": "⌊I know⌋ .",
+      "speaker": "A",
+      "eduidx": 14,
+      "turnidx": 409
+    },
+    {
+      "text": "if you could just be home .",
+      "speaker": "A",
+      "eduidx": 15,
+      "turnidx": 410
+    },
+    {
+      "text": "⌈you know⌉ ?",
+      "speaker": "A",
+      "eduidx": 16,
+      "turnidx": 411
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "B",
+      "eduidx": 17,
+      "turnidx": 412
+    },
+    {
+      "text": "(2.) if I had a car +...",
+      "speaker": "B",
+      "eduidx": 18,
+      "turnidx": 413
+    },
+    {
+      "text": "++ if you had a car .",
+      "speaker": "A",
+      "eduidx": 19,
+      "turnidx": 414
+    },
+    {
+      "text": "I mean when in ⌈the city⌉ +/.",
+      "speaker": "B",
+      "eduidx": 20,
+      "turnidx": 415
+    },
+    {
+      "text": "⌊I know⌋ .",
+      "speaker": "A",
+      "eduidx": 21,
+      "turnidx": 416
+    },
+    {
+      "text": "+, I don't want a car because it's a hassle ⌈I don't⌉ +/.",
+      "speaker": "B",
+      "eduidx": 22,
+      "turnidx": 417
+    },
+    {
+      "text": "+,                                          ⌊oh yeah⌋ +/.",
+      "speaker": "A",
+      "eduidx": 23,
+      "turnidx": 418
+    },
+    {
+      "text": "+, want to put up with .",
+      "speaker": "B",
+      "eduidx": 24,
+      "turnidx": 419
+    },
+    {
+      "text": "but for coming ⌈home⌉ .",
+      "speaker": "B",
+      "eduidx": 25,
+      "turnidx": 420
+    },
+    {
+      "text": "⌊whenever you⌋ want to come home .",
+      "speaker": "A",
+      "eduidx": 26,
+      "turnidx": 421
+    },
+    {
+      "text": "I would love it .",
+      "speaker": "B",
+      "eduidx": 27,
+      "turnidx": 422
+    },
+    {
+      "text": "I know .",
+      "speaker": "A",
+      "eduidx": 28,
+      "turnidx": 423
+    },
+    {
+      "text": "that's like me .",
+      "speaker": "A",
+      "eduidx": 29,
+      "turnidx": 424
+    },
+    {
+      "text": "next year I want to get an apartment .",
+      "speaker": "A",
+      "eduidx": 30,
+      "turnidx": 425
+    },
+    {
+      "text": "so +/.",
+      "speaker": "A",
+      "eduidx": 31,
+      "turnidx": 426
+    },
+    {
+      "text": "+, ah ha .",
+      "speaker": "B",
+      "eduidx": 32,
+      "turnidx": 427
+    },
+    {
+      "text": "and uhm [/] that [/] (be)cause then one of the big things will be I wont have to spend all the time here only because it's ⌈break⌉ .",
+      "speaker": "A",
+      "eduidx": 33,
+      "turnidx": 428
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "B",
+      "eduidx": 34,
+      "turnidx": 429
+    },
+    {
+      "text": "you know I can come +/.",
+      "speaker": "A",
+      "eduidx": 35,
+      "turnidx": 430
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 36,
+      "turnidx": 431
+    },
+    {
+      "text": "+, whenever I want to .",
+      "speaker": "A",
+      "eduidx": 37,
+      "turnidx": 432
+    },
+    {
+      "text": "but still I'll have to go by whoever is coming and going or +/.",
+      "speaker": "A",
+      "eduidx": 38,
+      "turnidx": 433
+    },
+    {
+      "text": "right .",
+      "speaker": "B",
+      "eduidx": 39,
+      "turnidx": 434
+    },
+    {
+      "text": "+, have my friends come and get me .",
+      "speaker": "A",
+      "eduidx": 40,
+      "turnidx": 435
+    },
+    {
+      "text": "(1.) you know .",
+      "speaker": "A",
+      "eduidx": 41,
+      "turnidx": 436
+    },
+    {
+      "text": "that's bad .",
+      "speaker": "A",
+      "eduidx": 42,
+      "turnidx": 437
+    },
+    {
+      "text": "(1.) yeah .",
+      "speaker": "B",
+      "eduidx": 43,
+      "turnidx": 438
+    },
+    {
+      "text": "it would be nice [/] I mean [/] it would be +...",
+      "speaker": "B",
+      "eduidx": 44,
+      "turnidx": 439
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 45,
+      "turnidx": 440
+    },
+    {
+      "text": "you would have (.) more use of it .",
+      "speaker": "B",
+      "eduidx": 46,
+      "turnidx": 441
+    },
+    {
+      "text": "(1.) ⌈yeah⌉ .",
+      "speaker": "A",
+      "eduidx": 47,
+      "turnidx": 442
+    },
+    {
+      "text": "⌊the⌋ apartment ⌈and all⌉ .",
+      "speaker": "B",
+      "eduidx": 48,
+      "turnidx": 443
+    },
+    {
+      "text": "⌊the⌋ apartment .",
+      "speaker": "A",
+      "eduidx": 49,
+      "turnidx": 444
+    },
+    {
+      "text": "especially then I could go (.) grocery shopping and stuff .",
+      "speaker": "A",
+      "eduidx": 50,
+      "turnidx": 445
+    }
+  ],
+  "relations": [
+    {
+      "x": 1,
+      "y": 2,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "joint"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "joint"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "joint"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "joint"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "joint"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "joint"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "joint"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "joint"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "joint"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "joint"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "joint"
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "type": "joint"
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "type": "joint"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 21,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "joint"
+    },
+    {
+      "x": 22,
+      "y": 23,
+      "type": "joint"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "type": "joint"
+    },
+    {
+      "x": 24,
+      "y": 25,
+      "type": "joint"
+    },
+    {
+      "x": 25,
+      "y": 26,
+      "type": "joint"
+    },
+    {
+      "x": 26,
+      "y": 27,
+      "type": "joint"
+    },
+    {
+      "x": 27,
+      "y": 28,
+      "type": "joint"
+    },
+    {
+      "x": 28,
+      "y": 29,
+      "type": "joint"
+    },
+    {
+      "x": 29,
+      "y": 30,
+      "type": "joint"
+    },
+    {
+      "x": 31,
+      "y": 32,
+      "type": "joint"
+    },
+    {
+      "x": 32,
+      "y": 33,
+      "type": "joint"
+    },
+    {
+      "x": 33,
+      "y": 34,
+      "type": "joint"
+    },
+    {
+      "x": 34,
+      "y": 35,
+      "type": "joint"
+    },
+    {
+      "x": 35,
+      "y": 36,
+      "type": "joint"
+    },
+    {
+      "x": 36,
+      "y": 37,
+      "type": "joint"
+    },
+    {
+      "x": 37,
+      "y": 38,
+      "type": "joint"
+    },
+    {
+      "x": 38,
+      "y": 39,
+      "type": "joint"
+    },
+    {
+      "x": 39,
+      "y": 40,
+      "type": "joint"
+    },
+    {
+      "x": 40,
+      "y": 41,
+      "type": "joint"
+    },
+    {
+      "x": 41,
+      "y": 42,
+      "type": "joint"
+    },
+    {
+      "x": 42,
+      "y": 43,
+      "type": "joint"
+    },
+    {
+      "x": 43,
+      "y": 44,
+      "type": "joint"
+    },
+    {
+      "x": 44,
+      "y": 45,
+      "type": "joint"
+    },
+    {
+      "x": 45,
+      "y": 46,
+      "type": "joint"
+    },
+    {
+      "x": 46,
+      "y": 47,
+      "type": "joint"
+    },
+    {
+      "x": 47,
+      "y": 48,
+      "type": "joint"
+    },
+    {
+      "x": 48,
+      "y": 49,
+      "type": "joint"
+    },
+    {
+      "x": 49,
+      "y": 50,
+      "type": "joint"
+    },
+    {
+      "x": 50,
+      "y": 51,
+      "type": "joint"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "Consequence"
+    },
+    {
+      "x": 30,
+      "y": 31,
+      "type": "Continuation"
+    }
+  ]
+}

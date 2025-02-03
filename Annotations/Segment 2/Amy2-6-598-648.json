@@ -1,0 +1,563 @@
+{
+  "id": "ADD-597:\t++ you know I know food preparation's gonna be kind of (.) ⌈aggravating⌉ .",
+  "edus": [
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "B",
+      "eduidx": 0,
+      "turnidx": 598
+    },
+    {
+      "text": "that ⌈you know ⌋ .",
+      "speaker": "A",
+      "eduidx": 1,
+      "turnidx": 599
+    },
+    {
+      "text": "⌊I⌋ think you get used to it ⌈though⌉ .",
+      "speaker": "B",
+      "eduidx": 2,
+      "turnidx": 600
+    },
+    {
+      "text": "⌊I think⌋ so .",
+      "speaker": "A",
+      "eduidx": 3,
+      "turnidx": 601
+    },
+    {
+      "text": "you know .",
+      "speaker": "B",
+      "eduidx": 4,
+      "turnidx": 602
+    },
+    {
+      "text": "I think so .",
+      "speaker": "A",
+      "eduidx": 5,
+      "turnidx": 603
+    },
+    {
+      "text": "Mum's like",
+      "speaker": "A",
+      "eduidx": 6,
+      "turnidx": 604
+    },
+    {
+      "text": "yeah",
+      "speaker": "B",
+      "eduidx": 7,
+      "turnidx": 605
+    },
+    {
+      "text": "⌊but that's⌋ Mum for you ⌈you know⌉ .",
+      "speaker": "A",
+      "eduidx": 8,
+      "turnidx": 606
+    },
+    {
+      "text": "⌊that's Mum⌋ .",
+      "speaker": "B",
+      "eduidx": 9,
+      "turnidx": 607
+    },
+    {
+      "text": "she only thinks things like that .",
+      "speaker": "A",
+      "eduidx": 10,
+      "turnidx": 608
+    },
+    {
+      "text": "oh yeah .",
+      "speaker": "B",
+      "eduidx": 11,
+      "turnidx": 609
+    },
+    {
+      "text": "of ⌈course⌉ .",
+      "speaker": "B",
+      "eduidx": 12,
+      "turnidx": 610
+    },
+    {
+      "text": "⌊she⌋ doesn't think of the other things .",
+      "speaker": "A",
+      "eduidx": 13,
+      "turnidx": 611
+    },
+    {
+      "text": "you know ?",
+      "speaker": "A",
+      "eduidx": 14,
+      "turnidx": 612
+    },
+    {
+      "text": "of course .",
+      "speaker": "B",
+      "eduidx": 15,
+      "turnidx": 613
+    },
+    {
+      "text": "but it's not gonna be up to her .",
+      "speaker": "A",
+      "eduidx": 16,
+      "turnidx": 614
+    },
+    {
+      "text": "(1.) they're still gonna pay for my tuition .",
+      "speaker": "A",
+      "eduidx": 17,
+      "turnidx": 615
+    },
+    {
+      "text": "plus [/] (.) you know .",
+      "speaker": "A",
+      "eduidx": 18,
+      "turnidx": 616
+    },
+    {
+      "text": "so [/] wh [/] where can you move to ?",
+      "speaker": "A",
+      "eduidx": 19,
+      "turnidx": 617
+    },
+    {
+      "text": "well (.) you see (.) I don't even know where I'm living ⌈next year⌉ .",
+      "speaker": "B",
+      "eduidx": 20,
+      "turnidx": 618
+    },
+    {
+      "text": "⌊yeah (.) that's⌋ the thing .",
+      "speaker": "A",
+      "eduidx": 21,
+      "turnidx": 619
+    },
+    {
+      "text": "so you're not ⌈worrying about that⌉ .",
+      "speaker": "A",
+      "eduidx": 22,
+      "turnidx": 620
+    },
+    {
+      "text": "⌊I'm still deciding⌋ .",
+      "speaker": "B",
+      "eduidx": 23,
+      "turnidx": 621
+    },
+    {
+      "text": "but I mean if I am in Chicago I'm definitely (.) not staying in a dorm .",
+      "speaker": "B",
+      "eduidx": 24,
+      "turnidx": 622
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 25,
+      "turnidx": 623
+    },
+    {
+      "text": "if I [/] if I go to DeKalb actually .",
+      "speaker": "B",
+      "eduidx": 26,
+      "turnidx": 624
+    },
+    {
+      "text": "they [/] I have several people +/.",
+      "speaker": "B",
+      "eduidx": 27,
+      "turnidx": 625
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 28,
+      "turnidx": 626
+    },
+    {
+      "text": "+, whom I could get [/] who (.) will be looking or are looking for an apartment .",
+      "speaker": "B",
+      "eduidx": 29,
+      "turnidx": 627
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 30,
+      "turnidx": 628
+    },
+    {
+      "text": "that I could get [/] easily get one with .",
+      "speaker": "B",
+      "eduidx": 31,
+      "turnidx": 629
+    },
+    {
+      "text": "in fact we've kind of looked just +...",
+      "speaker": "B",
+      "eduidx": 32,
+      "turnidx": 630
+    },
+    {
+      "text": "just for the hell of it ?",
+      "speaker": "A",
+      "eduidx": 33,
+      "turnidx": 631
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 34,
+      "turnidx": 632
+    },
+    {
+      "text": "just for the [/] did I tell you about that ?",
+      "speaker": "B",
+      "eduidx": 35,
+      "turnidx": 633
+    },
+    {
+      "text": "no .",
+      "speaker": "A",
+      "eduidx": 36,
+      "turnidx": 634
+    },
+    {
+      "text": "going looking for apartments ?",
+      "speaker": "B",
+      "eduidx": 37,
+      "turnidx": 635
+    },
+    {
+      "text": "no !",
+      "speaker": "A",
+      "eduidx": 38,
+      "turnidx": 636
+    },
+    {
+      "text": "we did .",
+      "speaker": "B",
+      "eduidx": 39,
+      "turnidx": 637
+    },
+    {
+      "text": "(be)cause you know (.) we were really into it and we knew we weren't getting get one till for a while a long while ⌈anyway⌉ .",
+      "speaker": "B",
+      "eduidx": 40,
+      "turnidx": 638
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 41,
+      "turnidx": 639
+    },
+    {
+      "text": "but it took something to keep us .",
+      "speaker": "B",
+      "eduidx": 42,
+      "turnidx": 640
+    },
+    {
+      "text": "so [/] ⌈you know⌉ ?",
+      "speaker": "B",
+      "eduidx": 43,
+      "turnidx": 641
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 44,
+      "turnidx": 642
+    },
+    {
+      "text": "oh that's ⌈cool⌉ .",
+      "speaker": "A",
+      "eduidx": 45,
+      "turnidx": 643
+    },
+    {
+      "text": "⌊a⌋ friend of mine (.) Anne uhm [/] she lives at home (.) ⌈now⌉ +/.",
+      "speaker": "B",
+      "eduidx": 46,
+      "turnidx": 644
+    },
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "A",
+      "eduidx": 47,
+      "turnidx": 645
+    },
+    {
+      "text": "+, and she is really aggravated ⌈you know⌉ +/.",
+      "speaker": "B",
+      "eduidx": 48,
+      "turnidx": 646
+    },
+    {
+      "text": "⌊ha ha⌋ .",
+      "speaker": "A",
+      "eduidx": 49,
+      "turnidx": 647
+    },
+    {
+      "text": "+, cause (.) you can imagine .",
+      "speaker": "B",
+      "eduidx": 50,
+      "turnidx": 648
+    }
+  ],
+  "relations": [
+    {
+      "x": 1,
+      "y": 2,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "joint"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "joint"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "joint"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "joint"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "joint"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "joint"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "joint"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "joint"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "joint"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "joint"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "joint"
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "type": "joint"
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "type": "joint"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 21,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "joint"
+    },
+    {
+      "x": 22,
+      "y": 23,
+      "type": "joint"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "type": "joint"
+    },
+    {
+      "x": 24,
+      "y": 25,
+      "type": "joint"
+    },
+    {
+      "x": 25,
+      "y": 26,
+      "type": "joint"
+    },
+    {
+      "x": 26,
+      "y": 27,
+      "type": "joint"
+    },
+    {
+      "x": 27,
+      "y": 28,
+      "type": "joint"
+    },
+    {
+      "x": 28,
+      "y": 29,
+      "type": "joint"
+    },
+    {
+      "x": 29,
+      "y": 30,
+      "type": "joint"
+    },
+    {
+      "x": 30,
+      "y": 31,
+      "type": "joint"
+    },
+    {
+      "x": 31,
+      "y": 32,
+      "type": "joint"
+    },
+    {
+      "x": 32,
+      "y": 33,
+      "type": "joint"
+    },
+    {
+      "x": 33,
+      "y": 34,
+      "type": "joint"
+    },
+    {
+      "x": 34,
+      "y": 35,
+      "type": "joint"
+    },
+    {
+      "x": 35,
+      "y": 36,
+      "type": "joint"
+    },
+    {
+      "x": 36,
+      "y": 37,
+      "type": "joint"
+    },
+    {
+      "x": 37,
+      "y": 38,
+      "type": "joint"
+    },
+    {
+      "x": 38,
+      "y": 39,
+      "type": "joint"
+    },
+    {
+      "x": 39,
+      "y": 40,
+      "type": "joint"
+    },
+    {
+      "x": 40,
+      "y": 41,
+      "type": "joint"
+    },
+    {
+      "x": 41,
+      "y": 42,
+      "type": "joint"
+    },
+    {
+      "x": 42,
+      "y": 43,
+      "type": "joint"
+    },
+    {
+      "x": 43,
+      "y": 44,
+      "type": "joint"
+    },
+    {
+      "x": 44,
+      "y": 45,
+      "type": "joint"
+    },
+    {
+      "x": 45,
+      "y": 46,
+      "type": "joint"
+    },
+    {
+      "x": 46,
+      "y": 47,
+      "type": "joint"
+    },
+    {
+      "x": 47,
+      "y": 48,
+      "type": "joint"
+    },
+    {
+      "x": 48,
+      "y": 49,
+      "type": "joint"
+    },
+    {
+      "x": 49,
+      "y": 50,
+      "type": "joint"
+    },
+    {
+      "x": 50,
+      "y": 51,
+      "type": "joint"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "Coordinating 1"
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "type": "Fuzzy"
+    }
+  ]
+}

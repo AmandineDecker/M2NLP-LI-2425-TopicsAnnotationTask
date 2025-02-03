@@ -1,0 +1,1861 @@
+{
+  "id": "ADD-2850:\t yeah, (2.) ha ha (4.) Amanda didn't come up .",
+  "edus": [
+    {
+      "text": "not sure when they'll be home .",
+      "speaker": "A",
+      "eduidx": 0,
+      "turnidx": 2851
+    },
+    {
+      "text": "I [/] I dont' think I told her her mom and dad went shopping .",
+      "speaker": "A",
+      "eduidx": 1,
+      "turnidx": 2852
+    },
+    {
+      "text": "o",
+      "speaker": "B",
+      "eduidx": 2,
+      "turnidx": 2853
+    },
+    {
+      "text": "oops .",
+      "speaker": "A",
+      "eduidx": 3,
+      "turnidx": 2854
+    },
+    {
+      "text": "(2.) I don't know what happened to him (2.) mhm (3.) trim my fingernails down .",
+      "speaker": "A",
+      "eduidx": 4,
+      "turnidx": 2855
+    },
+    {
+      "text": "probably Addie is biting her fingernails",
+      "speaker": "%",
+      "eduidx": 5,
+      "turnidx": null
+    },
+    {
+      "text": "I do this .",
+      "speaker": "A",
+      "eduidx": 6,
+      "turnidx": 2856
+    },
+    {
+      "text": "(2.) do you bite them ?",
+      "speaker": "B",
+      "eduidx": 7,
+      "turnidx": 2857
+    },
+    {
+      "text": "no I don't really .",
+      "speaker": "A",
+      "eduidx": 8,
+      "turnidx": 2858
+    },
+    {
+      "text": "(1.) but every now and then one gets kind of ripped and then you instead of doing anything about it I just chew it off .",
+      "speaker": "A",
+      "eduidx": 9,
+      "turnidx": 2859
+    },
+    {
+      "text": "<laugh> yum .",
+      "speaker": "B",
+      "eduidx": 10,
+      "turnidx": 2860
+    },
+    {
+      "text": "<laugh> one of those things .",
+      "speaker": "A",
+      "eduidx": 11,
+      "turnidx": 2861
+    },
+    {
+      "text": "one of them .",
+      "speaker": "B",
+      "eduidx": 12,
+      "turnidx": 2862
+    },
+    {
+      "text": "yeah, (3.) ha ha (3.) yeah Mum and Dad came and got me on Tuesday .",
+      "speaker": "A",
+      "eduidx": 13,
+      "turnidx": 2863
+    },
+    {
+      "text": "o",
+      "speaker": "B",
+      "eduidx": 14,
+      "turnidx": 2864
+    },
+    {
+      "text": "and it worked out well .",
+      "speaker": "A",
+      "eduidx": 15,
+      "turnidx": 2865
+    },
+    {
+      "text": "uhm [/] they came up and vacuumed my rug for me .",
+      "speaker": "A",
+      "eduidx": 16,
+      "turnidx": 2866
+    },
+    {
+      "text": "oh hey .",
+      "speaker": "B",
+      "eduidx": 17,
+      "turnidx": 2867
+    },
+    {
+      "text": "very nice .",
+      "speaker": "B",
+      "eduidx": 18,
+      "turnidx": 2868
+    },
+    {
+      "text": "because see (.) it hasn't been vacuumed the whole year .",
+      "speaker": "A",
+      "eduidx": 19,
+      "turnidx": 2869
+    },
+    {
+      "text": "oh, <laugh> because see <laugh> .",
+      "speaker": "B",
+      "eduidx": 20,
+      "turnidx": 2870
+    },
+    {
+      "text": "see you know it's uhm (2.) .",
+      "speaker": "A",
+      "eduidx": 21,
+      "turnidx": 2871
+    },
+    {
+      "text": "pretty ⌈bad⌉ .",
+      "speaker": "B",
+      "eduidx": 22,
+      "turnidx": 2872
+    },
+    {
+      "text": "⌊hadn't⌋ been touched .",
+      "speaker": "A",
+      "eduidx": 23,
+      "turnidx": 2873
+    },
+    {
+      "text": "you guys ⌈don't have⌉ +/.",
+      "speaker": "B",
+      "eduidx": 24,
+      "turnidx": 2874
+    },
+    {
+      "text": "++       ⌊more or less⌋ .",
+      "speaker": "A",
+      "eduidx": 25,
+      "turnidx": 2875
+    },
+    {
+      "text": "a vacuum cleaner somewhere ?",
+      "speaker": "B",
+      "eduidx": 26,
+      "turnidx": 2876
+    },
+    {
+      "text": "well (.) I think there's one somewhere .",
+      "speaker": "A",
+      "eduidx": 27,
+      "turnidx": 2877
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 28,
+      "turnidx": 2878
+    },
+    {
+      "text": "but that requires planning like +/.",
+      "speaker": "A",
+      "eduidx": 29,
+      "turnidx": 2879
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 30,
+      "turnidx": 2880
+    },
+    {
+      "text": "+, you know, you gotta let somebody know that you want it ⌈and stuff⌉ .",
+      "speaker": "A",
+      "eduidx": 31,
+      "turnidx": 2881
+    },
+    {
+      "text": "⌊mhm mhm⌋ .",
+      "speaker": "B",
+      "eduidx": 32,
+      "turnidx": 2882
+    },
+    {
+      "text": "and I'm too lazy to do that .",
+      "speaker": "A",
+      "eduidx": 33,
+      "turnidx": 2883
+    },
+    {
+      "text": "(be)cause I mean +/.",
+      "speaker": "A",
+      "eduidx": 34,
+      "turnidx": 2884
+    },
+    {
+      "text": "oh yeah .",
+      "speaker": "B",
+      "eduidx": 35,
+      "turnidx": 2885
+    },
+    {
+      "text": "+, it's not exactly at the top of my priority list .",
+      "speaker": "A",
+      "eduidx": 36,
+      "turnidx": 2886
+    },
+    {
+      "text": "of course not .",
+      "speaker": "B",
+      "eduidx": 37,
+      "turnidx": 2887
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 38,
+      "turnidx": 2888
+    },
+    {
+      "text": "◉so◉ I was just like “Mum as long as you're coming up why don't you bring a vacuum along and we'll do the rug” ?",
+      "speaker": "A",
+      "eduidx": 39,
+      "turnidx": 2889
+    },
+    {
+      "text": "so she said like [/] and then after that we took Tom out to lunch (be)cause I wanted them to meet him .",
+      "speaker": "A",
+      "eduidx": 40,
+      "turnidx": 2890
+    },
+    {
+      "text": "he's a friend of mine .",
+      "speaker": "A",
+      "eduidx": 41,
+      "turnidx": 2891
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 42,
+      "turnidx": 2892
+    },
+    {
+      "text": "he's the chairman of the Young Democrats .",
+      "speaker": "A",
+      "eduidx": 43,
+      "turnidx": 2893
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 44,
+      "turnidx": 2894
+    },
+    {
+      "text": "and some other stuff .",
+      "speaker": "A",
+      "eduidx": 45,
+      "turnidx": 2895
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "A",
+      "eduidx": 46,
+      "turnidx": 2896
+    },
+    {
+      "text": "some other stuff ⌈like what⌉ ?",
+      "speaker": "B",
+      "eduidx": 47,
+      "turnidx": 2897
+    },
+    {
+      "text": "⌊he does⌋ a lot of stuff .",
+      "speaker": "A",
+      "eduidx": 48,
+      "turnidx": 2898
+    },
+    {
+      "text": "he's a history major .",
+      "speaker": "A",
+      "eduidx": 49,
+      "turnidx": 2899
+    },
+    {
+      "text": "u",
+      "speaker": "B",
+      "eduidx": 50,
+      "turnidx": 2900
+    },
+    {
+      "text": "xxx we've become closer friends .",
+      "speaker": "A",
+      "eduidx": 51,
+      "turnidx": 2901
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 52,
+      "turnidx": 2902
+    },
+    {
+      "text": "you know .",
+      "speaker": "A",
+      "eduidx": 53,
+      "turnidx": 2903
+    },
+    {
+      "text": "so we did that for lunch .",
+      "speaker": "A",
+      "eduidx": 54,
+      "turnidx": 2904
+    },
+    {
+      "text": "at the Dill Pickle .",
+      "speaker": "A",
+      "eduidx": 55,
+      "turnidx": 2905
+    },
+    {
+      "text": "the Dill Pickle .",
+      "speaker": "B",
+      "eduidx": 56,
+      "turnidx": 2906
+    },
+    {
+      "text": "it's a sub and sandwich place .",
+      "speaker": "A",
+      "eduidx": 57,
+      "turnidx": 2907
+    },
+    {
+      "text": "and then we dropped him off at home .",
+      "speaker": "A",
+      "eduidx": 58,
+      "turnidx": 2908
+    },
+    {
+      "text": "and they met my roommate Christie (be)cause they hadn't met her yet .",
+      "speaker": "A",
+      "eduidx": 59,
+      "turnidx": 2909
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 60,
+      "turnidx": 2910
+    },
+    {
+      "text": "and then we went Christmas shopping .",
+      "speaker": "A",
+      "eduidx": 61,
+      "turnidx": 2911
+    },
+    {
+      "text": "(2.) we went to (.) Downtown Shoes in Sycamore .",
+      "speaker": "A",
+      "eduidx": 62,
+      "turnidx": 2912
+    },
+    {
+      "text": "⌈uhhuh⌉ .",
+      "speaker": "B",
+      "eduidx": 63,
+      "turnidx": 2913
+    },
+    {
+      "text": "⌊I got⌋ a pair of boots for Chistmas, from Mum and Dad .",
+      "speaker": "A",
+      "eduidx": 64,
+      "turnidx": 2914
+    },
+    {
+      "text": "cool .",
+      "speaker": "B",
+      "eduidx": 65,
+      "turnidx": 2915
+    },
+    {
+      "text": "and then we went out to Cherry Vale Mall +/.",
+      "speaker": "A",
+      "eduidx": 66,
+      "turnidx": 2916
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 67,
+      "turnidx": 2917
+    },
+    {
+      "text": "+, on the way home .",
+      "speaker": "A",
+      "eduidx": 68,
+      "turnidx": 2918
+    },
+    {
+      "text": "I don't know if we got anything there though .",
+      "speaker": "A",
+      "eduidx": 69,
+      "turnidx": 2919
+    },
+    {
+      "text": "(5.) mhm oh I know I got a new book .",
+      "speaker": "A",
+      "eduidx": 70,
+      "turnidx": 2920
+    },
+    {
+      "text": "I'm reading Tolkin now .",
+      "speaker": "A",
+      "eduidx": 71,
+      "turnidx": 2921
+    },
+    {
+      "text": "o",
+      "speaker": "B",
+      "eduidx": 72,
+      "turnidx": 2922
+    },
+    {
+      "text": "I'm starting The Lord of the Rings so I got that .",
+      "speaker": "A",
+      "eduidx": 73,
+      "turnidx": 2923
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 74,
+      "turnidx": 2924
+    },
+    {
+      "text": "well it just [/] everything went fast .",
+      "speaker": "A",
+      "eduidx": 75,
+      "turnidx": 2925
+    },
+    {
+      "text": "and then I came home a picked up Amanda .",
+      "speaker": "A",
+      "eduidx": 76,
+      "turnidx": 2926
+    },
+    {
+      "text": "it's cold .",
+      "speaker": "B",
+      "eduidx": 77,
+      "turnidx": 2927
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 78,
+      "turnidx": 2928
+    },
+    {
+      "text": "it was pretty good this afternoon .",
+      "speaker": "A",
+      "eduidx": 79,
+      "turnidx": 2929
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 80,
+      "turnidx": 2930
+    },
+    {
+      "text": "(3.) we went to Grandma Reeds for supper last night .",
+      "speaker": "A",
+      "eduidx": 81,
+      "turnidx": 2931
+    },
+    {
+      "text": "you did .",
+      "speaker": "B",
+      "eduidx": 82,
+      "turnidx": 2932
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 83,
+      "turnidx": 2933
+    },
+    {
+      "text": "<laugh> and that was a thrill .",
+      "speaker": "A",
+      "eduidx": 84,
+      "turnidx": 2934
+    },
+    {
+      "text": "David [/] Bidget hu hu thri",
+      "speaker": "A",
+      "eduidx": 85,
+      "turnidx": 2935
+    },
+    {
+      "text": "it was a thrill .",
+      "speaker": "A",
+      "eduidx": 86,
+      "turnidx": 2936
+    },
+    {
+      "text": "David's going to go to (2.) NICC which is what used to be NITI .",
+      "speaker": "A",
+      "eduidx": 87,
+      "turnidx": 2937
+    },
+    {
+      "text": "o",
+      "speaker": "B",
+      "eduidx": 88,
+      "turnidx": 2938
+    },
+    {
+      "text": "where my Dad teaches .",
+      "speaker": "A",
+      "eduidx": 89,
+      "turnidx": 2939
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 90,
+      "turnidx": 2940
+    },
+    {
+      "text": "North East Iowa Community College .",
+      "speaker": "A",
+      "eduidx": 91,
+      "turnidx": 2941
+    },
+    {
+      "text": "o",
+      "speaker": "B",
+      "eduidx": 92,
+      "turnidx": 2942
+    },
+    {
+      "text": "in Piazza .",
+      "speaker": "A",
+      "eduidx": 93,
+      "turnidx": 2943
+    },
+    {
+      "text": "it's a technical institute .",
+      "speaker": "B",
+      "eduidx": 94,
+      "turnidx": 2944
+    },
+    {
+      "text": "right .",
+      "speaker": "A",
+      "eduidx": 95,
+      "turnidx": 2945
+    },
+    {
+      "text": "⌈now it's⌉ +/.",
+      "speaker": "A",
+      "eduidx": 96,
+      "turnidx": 2946
+    },
+    {
+      "text": "⌊oh, ok⌋ .",
+      "speaker": "B",
+      "eduidx": 97,
+      "turnidx": 2947
+    },
+    {
+      "text": "+, Community College .",
+      "speaker": "A",
+      "eduidx": 98,
+      "turnidx": 2948
+    },
+    {
+      "text": "it has evolved .",
+      "speaker": "A",
+      "eduidx": 99,
+      "turnidx": 2949
+    },
+    {
+      "text": "I got it .",
+      "speaker": "B",
+      "eduidx": 100,
+      "turnidx": 2950
+    },
+    {
+      "text": "and he's gonna go through this machine shop (.) program .",
+      "speaker": "A",
+      "eduidx": 101,
+      "turnidx": 2951
+    },
+    {
+      "text": "it's a whole year .",
+      "speaker": "A",
+      "eduidx": 102,
+      "turnidx": 2952
+    },
+    {
+      "text": "four quarters .",
+      "speaker": "A",
+      "eduidx": 103,
+      "turnidx": 2953
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 104,
+      "turnidx": 2954
+    },
+    {
+      "text": "and uhm (1.5) so we'll see ⌈if⌉ +/.",
+      "speaker": "A",
+      "eduidx": 105,
+      "turnidx": 2955
+    },
+    {
+      "text": "⌊ <laugh>⌋ .",
+      "speaker": "B",
+      "eduidx": 106,
+      "turnidx": 2956
+    },
+    {
+      "text": "+, that works out .",
+      "speaker": "A",
+      "eduidx": 107,
+      "turnidx": 2957
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "A",
+      "eduidx": 108,
+      "turnidx": 2958
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 109,
+      "turnidx": 2959
+    },
+    {
+      "text": "he still kind of works on his xxx .",
+      "speaker": "A",
+      "eduidx": 110,
+      "turnidx": 2960
+    },
+    {
+      "text": "⌈mhm mhm⌉ .",
+      "speaker": "B",
+      "eduidx": 111,
+      "turnidx": 2961
+    },
+    {
+      "text": "⌊and⌋ [/] you know [/] well [/] (2.) we'll see .",
+      "speaker": "A",
+      "eduidx": 112,
+      "turnidx": 2962
+    },
+    {
+      "text": "I don't know .",
+      "speaker": "A",
+      "eduidx": 113,
+      "turnidx": 2963
+    },
+    {
+      "text": "I mean David's never been to serious of a student .",
+      "speaker": "A",
+      "eduidx": 114,
+      "turnidx": 2964
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 115,
+      "turnidx": 2965
+    },
+    {
+      "text": "you know .",
+      "speaker": "A",
+      "eduidx": 116,
+      "turnidx": 2966
+    },
+    {
+      "text": "(2.) he's as spacy as ever .",
+      "speaker": "A",
+      "eduidx": 117,
+      "turnidx": 2967
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 118,
+      "turnidx": 2968
+    },
+    {
+      "text": "so's Mark .",
+      "speaker": "A",
+      "eduidx": 119,
+      "turnidx": 2969
+    },
+    {
+      "text": "Mark's gotten really tall .",
+      "speaker": "A",
+      "eduidx": 120,
+      "turnidx": 2970
+    },
+    {
+      "text": "really ?",
+      "speaker": "B",
+      "eduidx": 121,
+      "turnidx": 2971
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 122,
+      "turnidx": 2972
+    },
+    {
+      "text": "(4.) xxx like that .",
+      "speaker": "B",
+      "eduidx": 123,
+      "turnidx": 2973
+    },
+    {
+      "text": "I don't know .",
+      "speaker": "B",
+      "eduidx": 124,
+      "turnidx": 2974
+    },
+    {
+      "text": "(2.) xxx .",
+      "speaker": "A",
+      "eduidx": 125,
+      "turnidx": 2975
+    },
+    {
+      "text": "mhm mhm xxx .",
+      "speaker": "B",
+      "eduidx": 126,
+      "turnidx": 2976
+    },
+    {
+      "text": "(4.) what a bunch .",
+      "speaker": "A",
+      "eduidx": 127,
+      "turnidx": 2977
+    },
+    {
+      "text": "mhm ⌈mhm⌉ .",
+      "speaker": "B",
+      "eduidx": 128,
+      "turnidx": 2978
+    },
+    {
+      "text": "⌊oh⌋ they're weird .",
+      "speaker": "A",
+      "eduidx": 129,
+      "turnidx": 2979
+    },
+    {
+      "text": "all of them .",
+      "speaker": "A",
+      "eduidx": 130,
+      "turnidx": 2980
+    },
+    {
+      "text": "(3.) well uhm [/] (2.) <laugh> how's Gran Mary ?",
+      "speaker": "B",
+      "eduidx": 131,
+      "turnidx": 2981
+    },
+    {
+      "text": "she's fine .",
+      "speaker": "A",
+      "eduidx": 132,
+      "turnidx": 2982
+    },
+    {
+      "text": "Gran Mary .",
+      "speaker": "B",
+      "eduidx": 133,
+      "turnidx": 2983
+    },
+    {
+      "text": "weird as ever .",
+      "speaker": "A",
+      "eduidx": 134,
+      "turnidx": 2984
+    },
+    {
+      "text": "<laugh> weird ?",
+      "speaker": "B",
+      "eduidx": 135,
+      "turnidx": 2985
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 136,
+      "turnidx": 2986
+    },
+    {
+      "text": "(3.) &=cough .",
+      "speaker": "B",
+      "eduidx": 137,
+      "turnidx": 2987
+    },
+    {
+      "text": "well .",
+      "speaker": "A",
+      "eduidx": 138,
+      "turnidx": 2988
+    },
+    {
+      "text": "they're quite a bunch but (.) she's fine .",
+      "speaker": "A",
+      "eduidx": 139,
+      "turnidx": 2989
+    },
+    {
+      "text": "you know Gran Helen was saying now “yes they're coming over to my house for Christmas” .",
+      "speaker": "B",
+      "eduidx": 140,
+      "turnidx": 2990
+    },
+    {
+      "text": "oh gooddy .",
+      "speaker": "A",
+      "eduidx": 141,
+      "turnidx": 2991
+    },
+    {
+      "text": "hi hi hi .",
+      "speaker": "A",
+      "eduidx": 142,
+      "turnidx": 2992
+    },
+    {
+      "text": "yes .",
+      "speaker": "B",
+      "eduidx": 143,
+      "turnidx": 2993
+    },
+    {
+      "text": "she was “she likes to come home for Christmas” .",
+      "speaker": "B",
+      "eduidx": 144,
+      "turnidx": 2994
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 145,
+      "turnidx": 2995
+    },
+    {
+      "text": "uh ye",
+      "speaker": "A",
+      "eduidx": 146,
+      "turnidx": 2996
+    },
+    {
+      "text": "right .",
+      "speaker": "A",
+      "eduidx": 147,
+      "turnidx": 2997
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 148,
+      "turnidx": 2998
+    },
+    {
+      "text": "<laugh> o",
+      "speaker": "A",
+      "eduidx": 149,
+      "turnidx": 2999
+    },
+    {
+      "text": "<laugh> .",
+      "speaker": "B",
+      "eduidx": 150,
+      "turnidx": 3000
+    },
+    {
+      "text": "o",
+      "speaker": "A",
+      "eduidx": 151,
+      "turnidx": 3001
+    },
+    {
+      "text": "(1.) I haven't seen Lucas since last Chistmas .",
+      "speaker": "A",
+      "eduidx": 152,
+      "turnidx": 3002
+    },
+    {
+      "text": "(3.) jeez .",
+      "speaker": "B",
+      "eduidx": 153,
+      "turnidx": 3003
+    },
+    {
+      "text": "(3.) odd .",
+      "speaker": "A",
+      "eduidx": 154,
+      "turnidx": 3004
+    },
+    {
+      "text": "ha ha ha ha .",
+      "speaker": "A",
+      "eduidx": 155,
+      "turnidx": 3005
+    },
+    {
+      "text": "odd .",
+      "speaker": "B",
+      "eduidx": 156,
+      "turnidx": 3006
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "A",
+      "eduidx": 157,
+      "turnidx": 3007
+    },
+    {
+      "text": "(3.) last Christmas was cool (be)cause he came up .",
+      "speaker": "A",
+      "eduidx": 158,
+      "turnidx": 3008
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 159,
+      "turnidx": 3009
+    },
+    {
+      "text": "(4.) mhm mhm .",
+      "speaker": "A",
+      "eduidx": 160,
+      "turnidx": 3010
+    },
+    {
+      "text": "(1.5) I should call him one of these days .",
+      "speaker": "A",
+      "eduidx": 161,
+      "turnidx": 3011
+    },
+    {
+      "text": "(1.5) I need to .",
+      "speaker": "A",
+      "eduidx": 162,
+      "turnidx": 3012
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 163,
+      "turnidx": 3013
+    }
+  ],
+  "relations": [
+    {
+      "x": 1,
+      "y": 2,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "joint"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "joint"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "joint"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "Unrelated"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "joint"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "joint"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "joint"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "joint"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "joint"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "joint"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "Fuzzy"
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "type": "joint"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "Digression"
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "type": "joint"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "Unrelated"
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 17,
+      "type": "Explanation"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "Event in the physical context"
+    },
+    {
+      "x": 20,
+      "y": 21,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "joint"
+    },
+    {
+      "x": 22,
+      "y": 23,
+      "type": "joint"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "Fuzzy"
+    },
+    {
+      "x": 24,
+      "y": 25,
+      "type": "joint"
+    },
+    {
+      "x": 25,
+      "y": 26,
+      "type": "joint"
+    },
+    {
+      "x": 26,
+      "y": 27,
+      "type": "joint"
+    },
+    {
+      "x": 27,
+      "y": 28,
+      "type": "joint"
+    },
+    {
+      "x": 28,
+      "y": 29,
+      "type": "joint"
+    },
+    {
+      "x": 29,
+      "y": 30,
+      "type": "joint"
+    },
+    {
+      "x": 30,
+      "y": 31,
+      "type": "joint"
+    },
+    {
+      "x": 31,
+      "y": 32,
+      "type": "joint"
+    },
+    {
+      "x": 32,
+      "y": 33,
+      "type": "joint"
+    },
+    {
+      "x": 33,
+      "y": 34,
+      "type": "joint"
+    },
+    {
+      "x": 34,
+      "y": 35,
+      "type": "joint"
+    },
+    {
+      "x": 35,
+      "y": 36,
+      "type": "joint"
+    },
+    {
+      "x": 36,
+      "y": 37,
+      "type": "joint"
+    },
+    {
+      "x": 37,
+      "y": 38,
+      "type": "joint"
+    },
+    {
+      "x": 38,
+      "y": 39,
+      "type": "joint"
+    },
+    {
+      "x": 39,
+      "y": 40,
+      "type": "joint"
+    },
+    {
+      "x": 40,
+      "y": 41,
+      "type": "joint"
+    },
+    {
+      "x": 41,
+      "y": 42,
+      "type": "joint"
+    },
+    {
+      "x": 42,
+      "y": 43,
+      "type": "joint"
+    },
+    {
+      "x": 43,
+      "y": 44,
+      "type": "joint"
+    },
+    {
+      "x": 44,
+      "y": 45,
+      "type": "joint"
+    },
+    {
+      "x": 45,
+      "y": 46,
+      "type": "joint"
+    },
+    {
+      "x": 46,
+      "y": 47,
+      "type": "joint"
+    },
+    {
+      "x": 47,
+      "y": 48,
+      "type": "joint"
+    },
+    {
+      "x": 48,
+      "y": 49,
+      "type": "joint"
+    },
+    {
+      "x": 49,
+      "y": 50,
+      "type": "joint"
+    },
+    {
+      "x": 50,
+      "y": 52,
+      "type": "joint"
+    },
+    {
+      "x": 51,
+      "y": 50,
+      "type": "Fuzzy"
+    },
+    {
+      "x": 51,
+      "y": 52,
+      "type": "joint"
+    },
+    {
+      "x": 52,
+      "y": 53,
+      "type": "joint"
+    },
+    {
+      "x": 53,
+      "y": 54,
+      "type": "joint"
+    },
+    {
+      "x": 54,
+      "y": 55,
+      "type": "joint"
+    },
+    {
+      "x": 55,
+      "y": 56,
+      "type": "joint"
+    },
+    {
+      "x": 56,
+      "y": 57,
+      "type": "joint"
+    },
+    {
+      "x": 57,
+      "y": 58,
+      "type": "joint"
+    },
+    {
+      "x": 58,
+      "y": 59,
+      "type": "joint"
+    },
+    {
+      "x": 59,
+      "y": 60,
+      "type": "joint"
+    },
+    {
+      "x": 60,
+      "y": 62,
+      "type": "Continuation"
+    },
+    {
+      "x": 60,
+      "y": 61,
+      "type": "joint"
+    },
+    {
+      "x": 61,
+      "y": 62,
+      "type": "joint"
+    },
+    {
+      "x": 62,
+      "y": 63,
+      "type": "joint"
+    },
+    {
+      "x": 63,
+      "y": 64,
+      "type": "joint"
+    },
+    {
+      "x": 64,
+      "y": 65,
+      "type": "joint"
+    },
+    {
+      "x": 65,
+      "y": 66,
+      "type": "joint"
+    },
+    {
+      "x": 66,
+      "y": 67,
+      "type": "joint"
+    },
+    {
+      "x": 67,
+      "y": 68,
+      "type": "joint"
+    },
+    {
+      "x": 68,
+      "y": 69,
+      "type": "joint"
+    },
+    {
+      "x": 69,
+      "y": 70,
+      "type": "joint"
+    },
+    {
+      "x": 70,
+      "y": 71,
+      "type": "joint"
+    },
+    {
+      "x": 71,
+      "y": 72,
+      "type": "joint"
+    },
+    {
+      "x": 72,
+      "y": 73,
+      "type": "joint"
+    },
+    {
+      "x": 73,
+      "y": 74,
+      "type": "joint"
+    },
+    {
+      "x": 74,
+      "y": 75,
+      "type": "joint"
+    },
+    {
+      "x": 75,
+      "y": 76,
+      "type": "joint"
+    },
+    {
+      "x": 67,
+      "y": 77,
+      "type": "Continuation"
+    },
+    {
+      "x": 76,
+      "y": 77,
+      "type": "joint"
+    },
+    {
+      "x": 77,
+      "y": 78,
+      "type": "Unrelated"
+    },
+    {
+      "x": 78,
+      "y": 79,
+      "type": "joint"
+    },
+    {
+      "x": 79,
+      "y": 80,
+      "type": "joint"
+    },
+    {
+      "x": 81,
+      "y": 82,
+      "type": "Coordinating 1"
+    },
+    {
+      "x": 82,
+      "y": 83,
+      "type": "joint"
+    },
+    {
+      "x": 83,
+      "y": 84,
+      "type": "joint"
+    },
+    {
+      "x": 84,
+      "y": 85,
+      "type": "joint"
+    },
+    {
+      "x": 85,
+      "y": 86,
+      "type": "Event in the physical context"
+    },
+    {
+      "x": 86,
+      "y": 82,
+      "type": "Digression"
+    },
+    {
+      "x": 86,
+      "y": 87,
+      "type": "Digression"
+    },
+    {
+      "x": 88,
+      "y": 86,
+      "type": "Continuation"
+    },
+    {
+      "x": 87,
+      "y": 88,
+      "type": "joint"
+    },
+    {
+      "x": 88,
+      "y": 89,
+      "type": "joint"
+    },
+    {
+      "x": 89,
+      "y": 90,
+      "type": "joint"
+    },
+    {
+      "x": 90,
+      "y": 91,
+      "type": "joint"
+    },
+    {
+      "x": 91,
+      "y": 92,
+      "type": "joint"
+    },
+    {
+      "x": 92,
+      "y": 93,
+      "type": "joint"
+    },
+    {
+      "x": 93,
+      "y": 94,
+      "type": "joint"
+    },
+    {
+      "x": 94,
+      "y": 95,
+      "type": "joint"
+    },
+    {
+      "x": 95,
+      "y": 96,
+      "type": "joint"
+    },
+    {
+      "x": 96,
+      "y": 97,
+      "type": "joint"
+    },
+    {
+      "x": 97,
+      "y": 98,
+      "type": "joint"
+    },
+    {
+      "x": 98,
+      "y": 99,
+      "type": "joint"
+    },
+    {
+      "x": 99,
+      "y": 100,
+      "type": "joint"
+    },
+    {
+      "x": 100,
+      "y": 101,
+      "type": "joint"
+    },
+    {
+      "x": 101,
+      "y": 102,
+      "type": "joint"
+    },
+    {
+      "x": 102,
+      "y": 103,
+      "type": "joint"
+    },
+    {
+      "x": 103,
+      "y": 104,
+      "type": "joint"
+    },
+    {
+      "x": 104,
+      "y": 105,
+      "type": "joint"
+    },
+    {
+      "x": 105,
+      "y": 106,
+      "type": "joint"
+    },
+    {
+      "x": 106,
+      "y": 108,
+      "type": "joint"
+    },
+    {
+      "x": 108,
+      "y": 107,
+      "type": "joint"
+    },
+    {
+      "x": 108,
+      "y": 109,
+      "type": "joint"
+    },
+    {
+      "x": 109,
+      "y": 110,
+      "type": "joint"
+    },
+    {
+      "x": 110,
+      "y": 111,
+      "type": "joint"
+    },
+    {
+      "x": 111,
+      "y": 112,
+      "type": "joint"
+    },
+    {
+      "x": 112,
+      "y": 113,
+      "type": "joint"
+    },
+    {
+      "x": 113,
+      "y": 114,
+      "type": "joint"
+    },
+    {
+      "x": 114,
+      "y": 115,
+      "type": "joint"
+    },
+    {
+      "x": 115,
+      "y": 116,
+      "type": "joint"
+    },
+    {
+      "x": 116,
+      "y": 117,
+      "type": "joint"
+    },
+    {
+      "x": 117,
+      "y": 118,
+      "type": "joint"
+    },
+    {
+      "x": 118,
+      "y": 119,
+      "type": "joint"
+    },
+    {
+      "x": 119,
+      "y": 120,
+      "type": "joint"
+    },
+    {
+      "x": 120,
+      "y": 121,
+      "type": "joint"
+    },
+    {
+      "x": 121,
+      "y": 122,
+      "type": "joint"
+    },
+    {
+      "x": 122,
+      "y": 123,
+      "type": "joint"
+    },
+    {
+      "x": 123,
+      "y": 124,
+      "type": "joint"
+    },
+    {
+      "x": 124,
+      "y": 125,
+      "type": "joint"
+    },
+    {
+      "x": 125,
+      "y": 126,
+      "type": "joint"
+    },
+    {
+      "x": 126,
+      "y": 127,
+      "type": "joint"
+    },
+    {
+      "x": 127,
+      "y": 128,
+      "type": "joint"
+    },
+    {
+      "x": 128,
+      "y": 129,
+      "type": "joint"
+    },
+    {
+      "x": 128,
+      "y": 129,
+      "type": "joint"
+    },
+    {
+      "x": 129,
+      "y": 130,
+      "type": "joint"
+    },
+    {
+      "x": 130,
+      "y": 131,
+      "type": "joint"
+    },
+    {
+      "x": 131,
+      "y": 132,
+      "type": "joint"
+    },
+    {
+      "x": 132,
+      "y": 133,
+      "type": "joint"
+    },
+    {
+      "x": 133,
+      "y": 134,
+      "type": "joint"
+    },
+    {
+      "x": 134,
+      "y": 135,
+      "type": "joint"
+    },
+    {
+      "x": 135,
+      "y": 136,
+      "type": "joint"
+    },
+    {
+      "x": 136,
+      "y": 137,
+      "type": "joint"
+    },
+    {
+      "x": 137,
+      "y": 138,
+      "type": "joint"
+    },
+    {
+      "x": 138,
+      "y": 139,
+      "type": "joint"
+    },
+    {
+      "x": 139,
+      "y": 140,
+      "type": "joint"
+    },
+    {
+      "x": 140,
+      "y": 141,
+      "type": "joint"
+    },
+    {
+      "x": 141,
+      "y": 142,
+      "type": "joint"
+    },
+    {
+      "x": 142,
+      "y": 143,
+      "type": "joint"
+    },
+    {
+      "x": 143,
+      "y": 144,
+      "type": "joint"
+    },
+    {
+      "x": 144,
+      "y": 145,
+      "type": "joint"
+    },
+    {
+      "x": 145,
+      "y": 146,
+      "type": "joint"
+    },
+    {
+      "x": 146,
+      "y": 147,
+      "type": "joint"
+    },
+    {
+      "x": 147,
+      "y": 148,
+      "type": "joint"
+    },
+    {
+      "x": 148,
+      "y": 149,
+      "type": "joint"
+    },
+    {
+      "x": 149,
+      "y": 150,
+      "type": "joint"
+    },
+    {
+      "x": 150,
+      "y": 151,
+      "type": "joint"
+    },
+    {
+      "x": 151,
+      "y": 152,
+      "type": "joint"
+    },
+    {
+      "x": 152,
+      "y": 153,
+      "type": "joint"
+    },
+    {
+      "x": 141,
+      "y": 153,
+      "type": "Subordinating 1"
+    },
+    {
+      "x": 153,
+      "y": 154,
+      "type": "joint"
+    },
+    {
+      "x": 154,
+      "y": 155,
+      "type": "joint"
+    },
+    {
+      "x": 155,
+      "y": 156,
+      "type": "joint"
+    },
+    {
+      "x": 156,
+      "y": 157,
+      "type": "joint"
+    },
+    {
+      "x": 157,
+      "y": 158,
+      "type": "joint"
+    },
+    {
+      "x": 158,
+      "y": 159,
+      "type": "joint"
+    },
+    {
+      "x": 159,
+      "y": 160,
+      "type": "joint"
+    },
+    {
+      "x": 160,
+      "y": 161,
+      "type": "joint"
+    },
+    {
+      "x": 161,
+      "y": 162,
+      "type": "joint"
+    },
+    {
+      "x": 162,
+      "y": 163,
+      "type": "joint"
+    },
+    {
+      "x": 163,
+      "y": 164,
+      "type": "joint"
+    }
+  ]
+}

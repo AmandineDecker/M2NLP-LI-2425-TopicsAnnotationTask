@@ -1,0 +1,14 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	None_0 > 2596_1
+	None_0 > 2708_113
+
+
+Relations:
+	S_None --- Draw on background context --- B_2596
+	A_2603 --- Continuation --- A_2604
+	B_2618 --- Continuation --- A_2619
+	A_2624 --- Consequence --- A_2625

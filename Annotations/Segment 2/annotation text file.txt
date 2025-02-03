@@ -1,0 +1,97 @@
+sNan - 344 = fuzzy
+344 - 394 = chunk --> about the dealy of the bus
+
+395 - 405 = chunk --> should be joined with previous chunk
+405 - 406 = consequence --> Because of the delay she wants to have a car
+
+406 - 424 = chuck --> benefit of having a car
+
+424 - 425 = continuation --> she adds her intetest of having an apartment also
+
+425 - 445 = chunk --> benefit of having an apartment
+
+445 - 446 = digression --> slight shift from the previous topic
+
+445 - 461 = continuation on the same topic of apartment 
+
+446 - 461 = chunk --> regarding the situation of commuting in Chicago
+
+461 - 462 = Coordinating 1
+
+462 - 495 = chunk --> Reasons behind having an apartment and not living in a dorm
+
+496 - 546 = chunk --> should be joined with the previous chunk
+
+546 - 547 = continuation --> link between the previous topic and the next topic
+
+547 - 553 = small chunk --> Reference towards her age
+
+553 - 554 = Coordinating 1 --> refers to the connection to the previous topic
+
+546 - 554 = continuation --> link between the two chunks sharing the same context to some extent which is regarding the new place
+
+554 - 594 = chunk --> description of the new place, her plans
+
+594 - 595 = explanation --> Exphasize on the fact that she's mentally ready for the change
+
+595 - 597 = chunk --> expected changes
+
+598 - 603  = chunk --> should be joined with the previous chunk
+
+603 - 604 = Coordianting 2 --> Carries the narrative forward
+
+604 - 616 = small chunk --> about her mother and their role in paying tuituin fees
+
+616 - 617 = fuzzy --> not totally related by still about future plans
+
+617 - 648 = chunk --> reasons behind going for apartment hunting
+
+648 - 648 = continuation
+
+649 - 699 = chunk --> new topic about the experience of apartment hunting
+
+699 - 700 = continuation
+
+700 - 750 = chunk --> new topic about the apartment they found
+
+751 - 753 = small chunk --> should be joined to the previous chunk
+
+753 -754 = explanation --> behind looking for apartment
+
+754 - 760 = smal chunk --> reasons behind going for apartment hunting
+
+648 - 754 = coordination 1 (previously defined as background)
+
+760 - 761 = continuation
+
+761 - 801 = chunk --> issues faced at the dorm
+
+802 - 811 = small chunk --> should be joined to the previous topic
+
+811 - 812 = digression
+
+812 - 816 = small chunk --> related to the benefit of coming back home
+
+816 - 817 = explanation
+
+801 - 817 = coordination 1 (previously defined as background)
+
+817 - 852 = chunk --> should be joined to the previous topic talking about issues faced at the dorm
+
+853 - 903 = chunk --> new topic about education
+
+903 - 904 = continuation
+
+904 - 954 = chunk --> should be joined to the previous chunk
+
+954 - 955 = continuation
+
+955 - 980 = chunk --> should be joined to the previous chunk
+
+980 - 981 = digression
+
+981 - 1005 = chunk --> new topic about earning money
+
+1005 - 1006 = continuation 
+
+1006 - 1029 = chunk --> should be joined to the previous chunk

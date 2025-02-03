@@ -1,0 +1,15 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	2229_0 > 2235_6
+	2236_7 > 2259_30
+	2260_31 > 2273_44
+	None_45 > 2290_63
+
+
+Relations:
+	A_2235 --- Continuation --- B_2236
+	A_2259 --- Explanation --- B_2260
+	A_2273 --- Consequence --- %_None

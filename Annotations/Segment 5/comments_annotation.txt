@@ -1,0 +1,76 @@
+Relation Explanations: 
+Subordinate Relation 1: Elaboration —> Going more into depth into sth that was part of the topic before 
+Example: in Section ADD-1789 to ADD-1810, one of the speaker is enumerating which classes they take in the upcoming semester. They then elaborate more about the Spanish class, before coming back to the topic of the choice of classes in the next semester in Section ADD-1899 to BRO-1907.
+
+I used the relation Continuation quite a lot, because I felt like the dialogue was overall very coherent. There are two big topic blocs: the first one (roughly until BRI-1712) about their friends and presents; the second (from BRI-1712 to end) about college. The transition between the two topics is smooth, though, so that are are (almost) no abrupt topic changes and that one topic often leads to the next. 
+
+In Section AD-1613 to BRI-1644, I chose the relation drawing on background context, because they start talking about he, and it is not clear how he is related to the topic of Moira, but it seems like there is a connection.
+It is also unclear who Amanda is or how she is related to the speakers and evoked persons. I chose unrelated, because for me it was not obvious from the available context whether Amanda was in any kind related to any of the persons the two speakers talked about previously, not did they still seem to talk about presents or parties.  
+
+Sometimes I made rather fine-grained distinctions, as in sections ADD-1899 to ADD-1829, which I split up into 2 sections. I chose to do this because I felt they were slightly deviating from the topic of the choice of classes for the upcoming semester and were instead elaborating more on one particular aspect, namely the philosophy class. 
+
+Finally, section BRI-2091 to section ADD-2128 is related to the previous section with relations fuzzy and Continuation. The relation was meant to be between that section and the section ending with BRI-1978; and not the immediately previous section, though I did not manage to annotate that in the tool . 
+I chose the fuzzy boundary here, because I felt like it is a lightly longer transition from topics Grades back to classes next semester.
+
+
+Annotations overview:
+
+File1:
+ADD-1442 - BRI-1447: busy downtown 
+Continuation 
+BRI-1448 - ADD-1480 : looking for presents downtown in antique shops 
+Illustration
+BRI-1481 - ADD-1520: Peter, lipsticks 
+Continuation
+BRI-1521 - BRI-1551: don’t know what to get people for a present 
+Continuation/ Illustration
+BRI-1552 - BRI-1587: Present for Moira 
+Continuation 
+BRI-1588 - ADD-1612: get all her stuff home 
+Continuation 
+ADD-1613 - BRI-1644: how is Moira 
+Continuation & Drawing on background context
+ADD-1645 - ADD-1674: the man 
+Continuation from BRI-1644 (not Coordinating 1)
+ADD-1675 - BRI-1686: she hasn’t written 
+Unrelated 
+ADD-1687 - ADD-1694: Amanda didn’t come up 
+Consequence 
+ADD-1695- ADD-1705: Busy woman 
+Explanation 
+
+File2: 
+ADD-1706 - BRI-1712: unrestful vacation 
+Continuation 
+ADD-1714 - ADD-1731: read Richard the 3rd
+Explanation 
+BRI-1732 - ADD-1788: paper about concert 
+Continuation 
+ADD-1789 - ADD-1810: classes for next semester 
+Subordinating relation 1 (Elaboration)
+BRI-1811 - BRI-1832: Spanish class 
+Recording issue 
+BRI-1834 - ADD-1861: Spanish teachers 
+Illustration 
+BRI-1862- BRI-1892: laid-back Spanish class 
+Coordinating 1 from ADD-1862
+BRI-1893 - BRI-1898
+
+
+File3:
+Coordinating from ADD-1810
+ADD-1899 - BRI-1907: philosophy class 
+Subordinating relation 1 (Elaboration)
+ADD-1908 - ADD-1928: philosophy class elaboration 
+Coordinating 1 from BRO-1907
+ADD-1929 - BRI-1978: other classes 
+Continuation 
+BRI-1979 - ADD-2028: Timetable confusions 
+Continuation 
+ADD-2029 - BRI-2066: Number of hours 
+Continuation
+ADD-2067 - BRI-2091: Grades 
+Fuzzy boundary + coordinating 1 from BRI-1978
+BRI-2091 - ADD-2128: classes next semester 
+Elaboration
+BRI-2129 - ADD-2179: Arts classes 

@@ -1,0 +1,60 @@
+label that I used:
+Continuation
+Event in the physical context
+Digression
+Illustration
+Explanation
+Consequence
+Unrelated
+Enumeration
+Meta
+Recording issue
+
+"text": "hi guys .",
+      "speaker": "A",
+      "eduidx": 36,
+      "turnidx": 1066
+"text": "how are you doing ?",
+      "speaker": "A",
+      "eduidx": 37,
+      "turnidx": 1067
+"type": "Unrelated"
+
+This was a random people disturbed the two people in a conversation,
+after these two people said hello to the ramdom people,
+they went back to the conversation.
+So the relation here I used is "unrelated."
+
+
+
+"text": "uhm (.) some lady named Judy or something like that +...",
+      "speaker": "B",
+      "eduidx": 61,
+      "turnidx": 1288
+"text": "Mum told me that there was a Judy that worked there .",
+      "speaker": "A",
+      "eduidx": 62,
+      "turnidx": 1289
+"type": "Enumeration"
+
+This topic was an "enumeration" from the previous topic in Amy4-1030-%com.jsonfile.
+The colleagues/students were talking about one girl kept being sick,
+then another similar/related sotry was bringing out by the people in this topic.
+
+
+
+"text": "that's right .",
+      "speaker": "A",
+      "eduidx": 1,
+      "turnidx": 1527
+"text": "<laugh> oh yeah .",
+      "speaker": "A",
+      "eduidx": 2,
+      "turnidx": 1528
+"type": "Meta"
+
+The relation is "Meta" cause "That's right." and "oh yeah." is more like a comment.
+
+
+
+In general, the topics content from work, small talk-gossip, study, birthday gifts to school life.

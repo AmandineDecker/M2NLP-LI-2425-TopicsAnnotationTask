@@ -1,0 +1,69 @@
+If there is no indication of which topic it links to, it means it links to the previous topic.
+
+1.	Lines 754–759 BRI recently wanted to move out due to conflicts with a roommate. ADD only responded briefly.
+
+2.	Lines 760–769 (Continuation from the previous topic "wanting to move out") BRI mentions that the situation has improved somewhat, it's bearable now. ADD asks if it's possible to continue staying until the end of the year, or if it's possible to break the lease.
+
+3.	Lines 770–778 (Subordinating 1 to topic 2, discussing a more detailed subtopic on "how to move out") Discussion on how others have successfully terminated their leases due to "financial issues."
+
+4.	Lines 779–785 (Illustration to topic 3) Using an example from Northern, mentioning that withdrawing from school is required to terminate housing. Both question if this policy is too strict.
+
+5.	Lines 786–807 (From "breaking the lease" to a deeper discussion on "roommate relations" → Subordinating 1 to 2) ADD suggests changing roommates; BRI prefers to endure till the end rather than go through the hassle again.
+
+6.	Lines 808–853 (Marked as coordinating 1 to 1) BRI says things have been better recently, not just with roommates, but the entire academic year has been stressful.
+
+7.	Lines 854-864 (Consequence to 6) Visiting the library to check school records.
+
+8.	Lines 865-874 (Enumeration) Listing the pros and cons of various schools.
+
+9.	Lines 875–909 (Explanation) Elaborating in detail why they prefer to stay at a university rather than a pure art school.
+
+10.	Lines 910–953 (Illustration) ADD asks whether BRI plans to complete four years or transfer to a master's program? BRI shares specific information about the University of Colorado.
+
+11.	Lines 954–980 (Continuation of the university topic)
+
+12.	Lines 981-986 (Coordinating 2 from the university topic to experiencing stress) Starting to discuss "needing to find a job due to lack of money."
+
+13.	Lines 987–1006 (Consequence) Due to financial reasons, a job must be found.
+
+14.	Lines 1007–1048 (Enumeration of job opportunities) Listing job options: fast food, on-campus jobs, hometown jobs, etc.
+
+15.	Lines 1049–1098 (Illustration) ADD provides examples from their own experience (staying in the school's locality to find jobs, rent, and take courses).
+
+16.	Lines 1099–1130 (Continuation of the job-seeking topic) Continuing the discussion on finding work, how to arrange the summer, and considerations of financial pressure.
+
+17.	Lines 1131–1148 (Digression, the topic shifts to parental pressure) Topic of "mom urging to find a job, not earning well over the summer."
+
+18.	Lines 1149-1155 (Coordination 1 to 16) Continuing the job topic.
+
+19.	Lines 1156-1198 (Subordinating 1) "Initially discussing work → now entering a specific poor job scenario" i.e., its sublevel.
+
+20.	Lines 1199-1225 (Consequence) What the consequences will be if the boss behaves in certain ways.
+
+21.	Lines 1226-1227 Event in the physical context
+
+22.	Lines 1228-1241 (Coordinating 1 to 19) Continuing to complain about the store's distrust of employees, especially since Sheila hardly ever takes sick leave, but was questioned the rare time she got sick.
+
+23.	Lines 1242-1267 (Continuation) Sheila was notified at the last minute to work the next morning, although she still feels unwell; and her recent scheduling situation (often weekends, sometimes as early as 5:30 AM).
+
+24.	Lines 1268-1284 (Explanation) Explaining views on "food hygiene," believing "if the boss knows an employee is sick, they should let her rest properly, not force her to come back."
+
+25.	Lines 1285–1315 (Coordinating 2 to 19, another parallel case of "complaint about poor management in the store") Another negative event shared between "boss and employees."
+
+26.	Lines 1316-1346 (Coordinating 1 to 19) The store's problems have never changed, and employees continue to resign (Laurie, Judy, Cindy all left), it won't get better.
+
+27.	Lines 1347-1441 (Still related to store gossip, but the focus shifts to "the boss couple/boss Gunther also working at the front desk"; can be seen as another parallel topic, marked as Coordinating 2 to 19) Discussing the relationship between Gunther (with various pronunciation variations) and Astrid, their marital discord, and the staff shortage that leads Gunther to come out and sell doughnuts at the front.
+
+
+
+Regarding the definition of labels: 
+
+Continuation can only be between two topics without other topics in between. If another topic intervenes, it is coordinating 1. 
+
+
+Subordinating 1 is a sub-topic; between two subordinating topics, it can be coordinating 2. 
+
+
+Illustration involves examples; explanation does not. 
+
+Semantic link refers to linking to a small semantic part of the topic, such as when someone asks you what xxx means that you mentioned.

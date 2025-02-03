@@ -1,0 +1,25 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	1789_0 > 1810_21
+	1899_23 > 1907_31
+	1908_32 > 1928_52
+	1929_53 > 1978_102
+	1979_103 > 2066_190
+	2067_191 > 2088_212
+	2089_213 > 2128_252
+	2129_253 > 2179_303
+
+
+Relations:
+	A_1810 --- Coordinating 1 --- A_1899
+	B_1907 --- Subordinating 1 --- A_1908
+	B_1907 --- Coordinating 1 --- A_1929
+	B_1978 --- Continuation --- A_1979
+	B_2066 --- Continuation --- A_2067
+	B_2088 --- Fuzzy --- A_2089
+	A_2089 --- Continuation --- B_2090
+	B_2090 --- Fuzzy --- B_2097
+	A_2128 --- Subordinating 1 --- B_2129

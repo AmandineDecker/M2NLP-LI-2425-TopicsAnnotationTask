@@ -1,0 +1,25 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	None_0 > 753_120
+
+
+Relations:
+	S_None --- Continuation --- A_634
+	B_637 --- Explanation --- B_638
+	A_643 --- Subordinating 1 --- B_644
+	B_657 --- Event in the physical context --- B_658
+	A_659 --- Continuation --- B_660
+	A_679 --- Subordinating 1 --- B_680
+	B_685 --- Enumeration --- B_686
+	A_687 --- Continuation --- A_688
+	A_693 --- Subordinating 1 --- B_694
+	A_696 --- Explanation --- B_697
+	B_702 --- Continuation --- B_703
+	A_711 --- Subordinating 1 --- B_712
+	A_723 --- Illustration --- B_724
+	A_729 --- Continuation --- B_730
+	B_734 --- Subordinating 1 --- A_735
+	A_743 --- Subordinating 1 --- A_744

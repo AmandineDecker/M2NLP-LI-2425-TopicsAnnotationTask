@@ -1,0 +1,13 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	395_0 > 405_10
+	406_11 > 424_29
+	425_30 > 445_50
+
+
+Relations:
+	B_405 --- Consequence --- B_406
+	A_424 --- Continuation --- A_425

@@ -1,0 +1,20 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	2291_0 > 2305_14
+	2306_15 > 2312_21
+	2313_22 > 2320_29
+	2321_30 > 2369_78
+	2370_79 > 2453_162
+	2454_163 > 2510_219
+	2511_220 > 2671_380
+
+
+Relations:
+	A_2305 --- Continuation --- B_2306
+	A_2312 --- Explanation --- A_2313
+	A_2320 --- Digression --- A_2321
+	A_2369 --- Illustration --- B_2370
+	A_2453 --- Explanation --- A_2454

@@ -1,0 +1,78 @@
+Not subsequent joint (ignored when building topics):
+	9 --- joint --- 21
+	92 --- joint --- 110
+	109 --- joint --- 114
+	109 --- joint --- 114
+	145 --- joint --- 149
+	148 --- joint --- 151
+	150 --- joint --- 162
+	263 --- joint --- 268
+	626 --- joint --- 628
+	667 --- joint --- 682
+
+
+Topics:
+	1899_0 > 1907_8
+	1908_9 > 1928_29
+	1929_30 > 1978_79
+	1979_80 > 1990_91
+	1991_92 > 2007_108
+	2008_109 > 2034_135
+	2035_136 > 2043_144
+	2044_145 > 2046_147
+	2047_148 > 2048_149
+	2049_150 > 2102_203
+	2103_204 > 2118_219
+	2119_220 > 2139_240
+	2140_241 > 2182_283
+	2183_284 > 2200_301
+	2201_302 > 2228_329
+	2229_330 > 2235_336
+	2236_337 > 2259_360
+	2260_361 > 2273_374
+	None_375 > 2294_397
+	2295_398 > 2320_423
+	2321_424 > 2369_472
+	2370_473 > 2453_556
+	2454_557 > 2510_613
+	2511_614 > 2563_666
+	2564_667 > 2595_698
+
+
+Relations:
+	B_1907 --- Explanation --- A_1908
+	A_1928 --- Digression --- A_1929
+	B_1978 --- Continuation --- A_1979
+	A_1990 --- Meta --- B_1991
+	A_2008 --- Continuation --- A_2024
+	A_2034 --- Continuation --- A_2037
+	A_2035 --- Continuation --- A_2044
+	A_2048 --- Continuation --- A_2060
+	A_2060 --- Consequence --- A_2062
+	A_2062 --- Digression --- A_2067
+	A_2102 --- Continuation --- B_2103
+	A_2118 --- Subordinating 1 --- A_2119
+	A_2118 --- Continuation --- B_2129
+	B_2139 --- Illustration --- A_2140
+	B_2161 --- Explanation --- A_2162
+	B_2182 --- Explanation --- B_2183
+	B_2200 --- Draw on background context --- B_2201
+	A_2228 --- Digression --- B_2229
+	A_2235 --- Digression --- B_2236
+	B_2240 --- Illustration --- A_2273
+	A_2259 --- Continuation --- B_2260
+	A_2273 --- Event in the physical context --- %_None
+	A_2273 --- Continuation --- B_2274
+	A_2294 --- Unrelated --- A_2295
+	A_2320 --- Unrelated --- A_2321
+	A_2369 --- Coordinating 1 --- B_2370
+	B_2398 --- Explanation --- B_2404
+	A_2453 --- Coordinating 1 --- A_2454
+	A_2457 --- Draw on background context --- B_2458
+	B_2458 --- Draw on background context --- A_2459
+	B_2458 --- Digression --- A_2459
+	A_2486 --- Explanation --- A_2489
+	A_2510 --- Coordinating 1 --- B_2511
+	A_2522 --- Explanation --- B_2524
+	B_2534 --- Digression --- B_2536
+	A_2563 --- Explanation --- B_2564

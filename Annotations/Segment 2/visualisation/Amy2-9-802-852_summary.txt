@@ -1,0 +1,13 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	802_0 > 811_9
+	812_10 > 816_14
+	817_15 > 852_50
+
+
+Relations:
+	A_811 --- Digression --- B_812
+	B_816 --- Explanation --- A_817

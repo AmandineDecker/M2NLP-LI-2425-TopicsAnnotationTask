@@ -1,0 +1,15 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	2672_0 > 2691_19
+	2692_20 > 2727_55
+	2728_56 > 2766_94
+	2767_95 > 2850_178
+
+
+Relations:
+	A_2691 --- Consequence --- B_2692
+	A_2727 --- Continuation --- B_2728
+	A_2766 --- Illustration --- B_2767

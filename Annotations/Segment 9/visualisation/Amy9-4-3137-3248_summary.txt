@@ -1,0 +1,11 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	3138_0 > 3248_110
+
+
+Relations:
+	A_3151 --- Digression --- A_3153
+	A_3172 --- Recording issue --- B_3173

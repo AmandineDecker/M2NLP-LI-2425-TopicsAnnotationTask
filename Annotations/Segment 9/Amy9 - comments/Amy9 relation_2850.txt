@@ -1,0 +1,29 @@
+Unrelated:
+
+"x: 4 and y: 5 seem completely unrelated to each other. They don't appear to have any connection."
+"x: 17 and y: 18 seem completely unrelated to each other. They don't appear to have any connection."
+"x: 77 and y: 78 seem completely unrelated to each other. They don't appear to have any connection."
+Fuzzy:
+
+"The link between x: 12 and y: 13 is a bit unclear. It might be a weak connection, or it's hard to say exactly how they relate."
+"The link between x: 21 and y: 22 is a bit unclear. It might be a weak connection, or it's hard to say exactly how they relate."
+"The link between x: 51 and y: 50 is a bit unclear. It might be a weak connection, or it's hard to say exactly how they relate."
+Digression:
+
+"x: 13 seems to be a sidetrack from x: 14. The conversation or sequence temporarily shifts away from the main point."
+"x: 86 seems to be a sidetrack from x: 82. The conversation or sequence temporarily shifts away from the main point."
+"x: 86 seems to be a sidetrack from x: 87. The conversation or sequence temporarily shifts away from the main point."
+Explanation: "x: 20 is clarified or explained by y: 17."
+
+Event in the physical context:
+
+"The connection between x: 18 and y: 19 is related to a physical location or situation."
+"The connection between x: 85 and y: 86 is related to a physical location or situation."
+Continuation:
+
+"x: 62 continues the thought or idea started by x: 60."
+"x: 77 continues the thought or idea started by x: 67."
+"x: 86 continues the thought or idea started by x: 88."
+Coordinating: "x: 81 and y: 82 are presented together, like two parts of the same idea."
+
+Subordinating: "x: 153 depends on x: 141 to make sense."

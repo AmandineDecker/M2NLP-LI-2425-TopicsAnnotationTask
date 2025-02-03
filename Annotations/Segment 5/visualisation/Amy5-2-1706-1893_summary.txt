@@ -1,0 +1,24 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	1706_0 > 1712_6
+	1713_7 > 1731_25
+	1732_26 > 1788_82
+	1789_83 > 1810_104
+	1811_105 > 1833_127
+	1834_129 > 1861_157
+	1862_158 > 1892_188
+	1893_189 > 1898_194
+
+
+Relations:
+	B_1712 --- Continuation --- A_1713
+	B_1732 --- Explanation --- B_1733
+	A_1788 --- Continuation --- A_1789
+	A_1810 --- Subordinating 1 --- B_1811
+	B_1833 --- Recording issue --- %_None
+	%_None --- Recording issue --- B_1834
+	A_1861 --- Illustration --- B_1862
+	B_1862 --- Coordinating 1 --- B_1893

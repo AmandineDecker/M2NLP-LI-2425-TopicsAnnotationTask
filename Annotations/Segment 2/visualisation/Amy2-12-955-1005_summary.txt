@@ -1,0 +1,11 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	955_0 > 980_25
+	981_26 > 1005_50
+
+
+Relations:
+	A_980 --- Digression --- B_981

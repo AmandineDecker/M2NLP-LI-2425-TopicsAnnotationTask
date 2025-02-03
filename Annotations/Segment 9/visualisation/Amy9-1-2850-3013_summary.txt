@@ -1,0 +1,38 @@
+Not subsequent joint (ignored when building topics):
+	17 --- joint --- 20
+	50 --- joint --- 52
+	106 --- joint --- 108
+
+
+Topics:
+	2851_0 > 2854_3
+	2855_4 > 2861_11
+	2863_13 > 2866_16
+	2867_17 > 2868_18
+	2867_17 > 2899_49
+	2900_50 > 2926_76
+	2927_77 > 2929_79
+	2931_81 > 2934_84
+	2936_86 > 2955_105
+	2956_106 > 2978_128
+	2977_127 > 3013_163
+
+
+Relations:
+	A_2854 --- Unrelated --- A_2855
+	A_2861 --- Fuzzy --- B_2862
+	B_2862 --- Digression --- A_2863
+	A_2866 --- Unrelated --- B_2867
+	A_2866 --- Explanation --- A_2869
+	B_2867 --- Event in the physical context --- B_2868
+	B_2870 --- Fuzzy --- A_2871
+	A_2899 --- Fuzzy --- B_2900
+	A_2909 --- Continuation --- A_2911
+	A_2916 --- Continuation --- A_2926
+	A_2926 --- Unrelated --- B_2927
+	B_2930 --- Coordinating 1 --- A_2931
+	A_2931 --- Digression --- A_2935
+	A_2934 --- Event in the physical context --- A_2935
+	A_2935 --- Digression --- A_2936
+	A_2935 --- Continuation --- A_2937
+	B_2990 --- Subordinating 1 --- A_3002

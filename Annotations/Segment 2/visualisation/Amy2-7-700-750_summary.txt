@@ -1,0 +1,9 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	700_0 > 750_50
+
+
+Relations:

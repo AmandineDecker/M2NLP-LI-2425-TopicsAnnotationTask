@@ -1,0 +1,68 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	None_0 > 442_186
+	443_187 > 753_497
+
+
+Relations:
+	S_None --- Unrelated --- B_258
+	A_264 --- Unrelated --- A_265
+	A_268 --- Continuation --- B_269
+	A_272 --- Draw on background context --- B_273
+	A_279 --- Continuation --- B_280
+	A_298 --- Coordinating 1 --- A_299
+	B_301 --- Explanation --- A_302
+	A_304 --- Fuzzy --- B_305
+	A_311 --- Continuation --- A_312
+	A_312 --- Explanation --- B_313
+	B_318 --- Subordinating 1 --- A_319
+	A_324 --- Continuation --- B_325
+	B_335 --- Subordinating 1 --- B_336
+	B_343 --- Subordinating 1 --- A_344
+	B_347 --- Continuation --- B_348
+	A_361 --- Continuation --- B_362
+	A_376 --- Subordinating 1 --- B_377
+	B_383 --- Illustration --- A_384
+	B_390 --- Continuation --- B_391
+	B_405 --- Explanation --- B_406
+	B_412 --- Continuation --- B_413
+	B_422 --- Continuation --- A_433
+	A_424 --- Coordinating 1 --- A_425
+	A_425 --- Continuation --- B_443
+	A_432 --- Continuation --- A_433
+	A_444 --- Unrelated --- A_445
+	A_449 --- Subordinating 1 --- B_450
+	B_461 --- Continuation --- A_462
+	A_462 --- Explanation --- A_464
+	B_471 --- Continuation --- A_472
+	A_479 --- Subordinating 1 --- A_480
+	B_482 --- Continuation --- A_483
+	A_497 --- Explanation --- A_498
+	B_501 --- Coordinating 1 --- A_502
+	A_509 --- Continuation --- A_510
+	B_513 --- Explanation --- A_514
+	A_520 --- Coordinating 1 --- A_521
+	A_525 --- Coordinating 1 --- A_526
+	A_535 --- Continuation --- A_536
+	A_538 --- Subordinating 1 --- A_539
+	A_544 --- Continuation --- A_545
+	A_553 --- Subordinating 1 --- A_554
+	A_554 --- Continuation --- A_571
+	A_557 --- Continuation --- A_558
+	B_566 --- Explanation --- A_567
+	B_574 --- Subordinating 1 --- A_575
+	B_577 --- Continuation --- A_578
+	B_580 --- Illustration --- A_581
+	B_582 --- Enumeration --- A_583
+	B_589 --- Continuation --- A_590
+	B_596 --- Subordinating 1 --- A_597
+	B_607 --- Explanation --- A_608
+	A_614 --- Continuation --- A_615
+	A_617 --- Continuation --- B_618
+	B_621 --- Subordinating 1 --- B_622
+	A_623 --- Explanation --- B_624
+	B_632 --- Subordinating 1 --- B_633
+	A_643 --- Continuation --- B_644

@@ -1,0 +1,9 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	3450_0 > 3536_86
+
+
+Relations:

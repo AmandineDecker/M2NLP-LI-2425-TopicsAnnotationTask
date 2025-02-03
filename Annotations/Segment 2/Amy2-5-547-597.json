@@ -1,0 +1,563 @@
+{
+  "id": "ADD-546:\tbut I just don't like to put up with that like .",
+  "edus": [
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 0,
+      "turnidx": 547
+    },
+    {
+      "text": "next year I'm twenty .",
+      "speaker": "A",
+      "eduidx": 1,
+      "turnidx": 548
+    },
+    {
+      "text": "⌈and⌉ +/.",
+      "speaker": "A",
+      "eduidx": 2,
+      "turnidx": 549
+    },
+    {
+      "text": "⌊you'd⌋ better be about it .",
+      "speaker": "B",
+      "eduidx": 3,
+      "turnidx": 550
+    },
+    {
+      "text": "that'll be plenty .",
+      "speaker": "A",
+      "eduidx": 4,
+      "turnidx": 551
+    },
+    {
+      "text": "oh yeah .",
+      "speaker": "B",
+      "eduidx": 5,
+      "turnidx": 552
+    },
+    {
+      "text": "oh yeah .",
+      "speaker": "A",
+      "eduidx": 6,
+      "turnidx": 553
+    },
+    {
+      "text": "so (.) there's this guy Tom Hopkins who [/] uhm [/] (1.) who's a friend of mine .",
+      "speaker": "A",
+      "eduidx": 7,
+      "turnidx": 554
+    },
+    {
+      "text": "uh huh .",
+      "speaker": "B",
+      "eduidx": 8,
+      "turnidx": 555
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 9,
+      "turnidx": 556
+    },
+    {
+      "text": "(1.) he",
+      "speaker": "A",
+      "eduidx": 10,
+      "turnidx": 557
+    },
+    {
+      "text": "but uhm this guy this uhm landlord in DeKalb owns like twenty of these houses ⌈or something⌉ +/.",
+      "speaker": "A",
+      "eduidx": 11,
+      "turnidx": 558
+    },
+    {
+      "text": "⌊oh really⌋ ?",
+      "speaker": "B",
+      "eduidx": 12,
+      "turnidx": 559
+    },
+    {
+      "text": "+, and he rents out rooms to kids .",
+      "speaker": "A",
+      "eduidx": 13,
+      "turnidx": 560
+    },
+    {
+      "text": "uh huh .",
+      "speaker": "B",
+      "eduidx": 14,
+      "turnidx": 561
+    },
+    {
+      "text": "I don't know it's like eight hundred dollars for the semester .",
+      "speaker": "A",
+      "eduidx": 15,
+      "turnidx": 562
+    },
+    {
+      "text": "oh that's good .",
+      "speaker": "B",
+      "eduidx": 16,
+      "turnidx": 563
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 17,
+      "turnidx": 564
+    },
+    {
+      "text": "oh my God !",
+      "speaker": "B",
+      "eduidx": 18,
+      "turnidx": 565
+    },
+    {
+      "text": "that ⌈makes me sick⌉ .",
+      "speaker": "B",
+      "eduidx": 19,
+      "turnidx": 566
+    },
+    {
+      "text": "⌊well ⌋ they're all run down and beat up places .",
+      "speaker": "A",
+      "eduidx": 20,
+      "turnidx": 567
+    },
+    {
+      "text": "⌈but uhm⌉ .",
+      "speaker": "A",
+      "eduidx": 21,
+      "turnidx": 568
+    },
+    {
+      "text": "⌊but still⌋ .",
+      "speaker": "B",
+      "eduidx": 22,
+      "turnidx": 569
+    },
+    {
+      "text": "I think that's what it is .",
+      "speaker": "A",
+      "eduidx": 23,
+      "turnidx": 570
+    },
+    {
+      "text": "I think that's what Tom said he pays .",
+      "speaker": "A",
+      "eduidx": 24,
+      "turnidx": 571
+    },
+    {
+      "text": "for the semester .",
+      "speaker": "A",
+      "eduidx": 25,
+      "turnidx": 572
+    },
+    {
+      "text": "and so I'm [/] he lives there now (.) and he's planning to be there over the summer probably .",
+      "speaker": "A",
+      "eduidx": 26,
+      "turnidx": 573
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 27,
+      "turnidx": 574
+    },
+    {
+      "text": "so I'm gonna live there over the summer .",
+      "speaker": "A",
+      "eduidx": 28,
+      "turnidx": 575
+    },
+    {
+      "text": "and then from there we might [/] I might even live there (1.) next year or (1.) else go and get another apartment next year .",
+      "speaker": "A",
+      "eduidx": 29,
+      "turnidx": 576
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 30,
+      "turnidx": 577
+    },
+    {
+      "text": "so [/] (be)cause Tom said he might [/] he'd also like a town house .",
+      "speaker": "A",
+      "eduidx": 31,
+      "turnidx": 578
+    },
+    {
+      "text": "they're pretty cool .",
+      "speaker": "A",
+      "eduidx": 32,
+      "turnidx": 579
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 33,
+      "turnidx": 580
+    },
+    {
+      "text": "it's like [/] it (.) has upstairs and downstairs and a couple of bedrooms +/.",
+      "speaker": "A",
+      "eduidx": 34,
+      "turnidx": 581
+    },
+    {
+      "text": "oh ⌈nice⌉ .",
+      "speaker": "B",
+      "eduidx": 35,
+      "turnidx": 582
+    },
+    {
+      "text": "⌊and bath⌋rooms .",
+      "speaker": "A",
+      "eduidx": 36,
+      "turnidx": 583
+    },
+    {
+      "text": "(1.) uhm [/] (1.) so a bunch of us might do that .",
+      "speaker": "A",
+      "eduidx": 37,
+      "turnidx": 584
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 38,
+      "turnidx": 585
+    },
+    {
+      "text": "like get a couple of other people together and do that .",
+      "speaker": "A",
+      "eduidx": 39,
+      "turnidx": 586
+    },
+    {
+      "text": "(1.) that would be cool .",
+      "speaker": "A",
+      "eduidx": 40,
+      "turnidx": 587
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 41,
+      "turnidx": 588
+    },
+    {
+      "text": "that would be ⌈nice⌉ .",
+      "speaker": "B",
+      "eduidx": 42,
+      "turnidx": 589
+    },
+    {
+      "text": "⌊these⌋ are all gonna be my friends that are my age or ⌈older⌉ .",
+      "speaker": "A",
+      "eduidx": 43,
+      "turnidx": 590
+    },
+    {
+      "text": "⌊year⌋ ha ha ha .",
+      "speaker": "B",
+      "eduidx": 44,
+      "turnidx": 591
+    },
+    {
+      "text": "I think [/] you know [/] I just [/] you know [/] would like to live in the same area .",
+      "speaker": "A",
+      "eduidx": 45,
+      "turnidx": 592
+    },
+    {
+      "text": "so I think that would be cool .",
+      "speaker": "A",
+      "eduidx": 46,
+      "turnidx": 593
+    },
+    {
+      "text": "mhm mhm .",
+      "speaker": "B",
+      "eduidx": 47,
+      "turnidx": 594
+    },
+    {
+      "text": "I'm ready for that kind of stuff .",
+      "speaker": "A",
+      "eduidx": 48,
+      "turnidx": 595
+    },
+    {
+      "text": "oh I know +/.",
+      "speaker": "B",
+      "eduidx": 49,
+      "turnidx": 596
+    },
+    {
+      "text": "++ you know I know food preparation's gonna be kind of (.) ⌈aggravating⌉ .",
+      "speaker": "A",
+      "eduidx": 50,
+      "turnidx": 597
+    }
+  ],
+  "relations": [
+    {
+      "x": 1,
+      "y": 2,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "joint"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "joint"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "joint"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "joint"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "joint"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "joint"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "joint"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "joint"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "joint"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "joint"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "joint"
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "type": "joint"
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "type": "joint"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 21,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "joint"
+    },
+    {
+      "x": 22,
+      "y": 23,
+      "type": "joint"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "type": "joint"
+    },
+    {
+      "x": 24,
+      "y": 25,
+      "type": "joint"
+    },
+    {
+      "x": 25,
+      "y": 26,
+      "type": "joint"
+    },
+    {
+      "x": 26,
+      "y": 27,
+      "type": "joint"
+    },
+    {
+      "x": 27,
+      "y": 28,
+      "type": "joint"
+    },
+    {
+      "x": 28,
+      "y": 29,
+      "type": "joint"
+    },
+    {
+      "x": 29,
+      "y": 30,
+      "type": "joint"
+    },
+    {
+      "x": 30,
+      "y": 31,
+      "type": "joint"
+    },
+    {
+      "x": 31,
+      "y": 32,
+      "type": "joint"
+    },
+    {
+      "x": 32,
+      "y": 33,
+      "type": "joint"
+    },
+    {
+      "x": 33,
+      "y": 34,
+      "type": "joint"
+    },
+    {
+      "x": 34,
+      "y": 35,
+      "type": "joint"
+    },
+    {
+      "x": 35,
+      "y": 36,
+      "type": "joint"
+    },
+    {
+      "x": 36,
+      "y": 37,
+      "type": "joint"
+    },
+    {
+      "x": 37,
+      "y": 38,
+      "type": "joint"
+    },
+    {
+      "x": 38,
+      "y": 39,
+      "type": "joint"
+    },
+    {
+      "x": 39,
+      "y": 40,
+      "type": "joint"
+    },
+    {
+      "x": 40,
+      "y": 41,
+      "type": "joint"
+    },
+    {
+      "x": 41,
+      "y": 42,
+      "type": "joint"
+    },
+    {
+      "x": 42,
+      "y": 43,
+      "type": "joint"
+    },
+    {
+      "x": 43,
+      "y": 44,
+      "type": "joint"
+    },
+    {
+      "x": 44,
+      "y": 45,
+      "type": "joint"
+    },
+    {
+      "x": 45,
+      "y": 46,
+      "type": "joint"
+    },
+    {
+      "x": 46,
+      "y": 47,
+      "type": "joint"
+    },
+    {
+      "x": 47,
+      "y": 48,
+      "type": "joint"
+    },
+    {
+      "x": 49,
+      "y": 50,
+      "type": "joint"
+    },
+    {
+      "x": 50,
+      "y": 51,
+      "type": "joint"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "Draw on background context"
+    },
+    {
+      "x": 48,
+      "y": 49,
+      "type": "Explanation"
+    }
+  ]
+}

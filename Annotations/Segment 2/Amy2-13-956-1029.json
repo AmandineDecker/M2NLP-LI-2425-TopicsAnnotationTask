@@ -1,0 +1,266 @@
+{
+  "id": "ADD-1005:\tI mean I suppose I can be worth it ⌈if⌉ +/.",
+  "edus": [
+    {
+      "text": "⌊uhhuh⌋ .",
+      "speaker": "B",
+      "eduidx": 0,
+      "turnidx": 1006
+    },
+    {
+      "text": "+, you find the right job .",
+      "speaker": "A",
+      "eduidx": 1,
+      "turnidx": 1007
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 2,
+      "turnidx": 1008
+    },
+    {
+      "text": "but I mean some of those jobs aren't any better than the jobs you could get here .",
+      "speaker": "A",
+      "eduidx": 3,
+      "turnidx": 1009
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 4,
+      "turnidx": 1010
+    },
+    {
+      "text": "you know especially if you started (.) here early .",
+      "speaker": "A",
+      "eduidx": 5,
+      "turnidx": 1011
+    },
+    {
+      "text": "⌈or⌉ +/.",
+      "speaker": "A",
+      "eduidx": 6,
+      "turnidx": 1012
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "B",
+      "eduidx": 7,
+      "turnidx": 1013
+    },
+    {
+      "text": "+, if you came home a few weekends in [/] like in March or something .",
+      "speaker": "A",
+      "eduidx": 8,
+      "turnidx": 1014
+    },
+    {
+      "text": "uh⌈huh⌉ .",
+      "speaker": "B",
+      "eduidx": 9,
+      "turnidx": 1015
+    },
+    {
+      "text": "⌊there's⌋ probably good jobs to be found like in (.) offices and stuff +/.",
+      "speaker": "A",
+      "eduidx": 10,
+      "turnidx": 1016
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 11,
+      "turnidx": 1017
+    },
+    {
+      "text": "+, I don't know .",
+      "speaker": "A",
+      "eduidx": 12,
+      "turnidx": 1018
+    },
+    {
+      "text": "in law offices probably once in a while they'll have something .",
+      "speaker": "A",
+      "eduidx": 13,
+      "turnidx": 1019
+    },
+    {
+      "text": "yeah .",
+      "speaker": "B",
+      "eduidx": 14,
+      "turnidx": 1020
+    },
+    {
+      "text": "maybe better than [/] you know +/.",
+      "speaker": "A",
+      "eduidx": 15,
+      "turnidx": 1021
+    },
+    {
+      "text": "I know .",
+      "speaker": "B",
+      "eduidx": 16,
+      "turnidx": 1022
+    },
+    {
+      "text": "+, pool jobs .",
+      "speaker": "A",
+      "eduidx": 17,
+      "turnidx": 1023
+    },
+    {
+      "text": "uhhuh .",
+      "speaker": "B",
+      "eduidx": 18,
+      "turnidx": 1024
+    },
+    {
+      "text": "maybe you could find a better job than that .",
+      "speaker": "A",
+      "eduidx": 19,
+      "turnidx": 1025
+    },
+    {
+      "text": "(2.) yeah if I could find something good I guess I could come back .",
+      "speaker": "B",
+      "eduidx": 20,
+      "turnidx": 1026
+    },
+    {
+      "text": "⌈but⌉ +...",
+      "speaker": "B",
+      "eduidx": 21,
+      "turnidx": 1027
+    },
+    {
+      "text": "⌊yeah⌋ .",
+      "speaker": "A",
+      "eduidx": 22,
+      "turnidx": 1028
+    },
+    {
+      "text": "yeah .",
+      "speaker": "A",
+      "eduidx": 23,
+      "turnidx": 1029
+    }
+  ],
+  "relations": [
+    {
+      "x": 1,
+      "y": 2,
+      "type": "joint"
+    },
+    {
+      "x": 2,
+      "y": 3,
+      "type": "joint"
+    },
+    {
+      "x": 3,
+      "y": 4,
+      "type": "joint"
+    },
+    {
+      "x": 4,
+      "y": 5,
+      "type": "joint"
+    },
+    {
+      "x": 5,
+      "y": 6,
+      "type": "joint"
+    },
+    {
+      "x": 6,
+      "y": 7,
+      "type": "joint"
+    },
+    {
+      "x": 7,
+      "y": 8,
+      "type": "joint"
+    },
+    {
+      "x": 8,
+      "y": 9,
+      "type": "joint"
+    },
+    {
+      "x": 9,
+      "y": 10,
+      "type": "joint"
+    },
+    {
+      "x": 10,
+      "y": 11,
+      "type": "joint"
+    },
+    {
+      "x": 11,
+      "y": 12,
+      "type": "joint"
+    },
+    {
+      "x": 12,
+      "y": 13,
+      "type": "joint"
+    },
+    {
+      "x": 13,
+      "y": 14,
+      "type": "joint"
+    },
+    {
+      "x": 14,
+      "y": 15,
+      "type": "joint"
+    },
+    {
+      "x": 15,
+      "y": 16,
+      "type": "joint"
+    },
+    {
+      "x": 16,
+      "y": 17,
+      "type": "joint"
+    },
+    {
+      "x": 17,
+      "y": 18,
+      "type": "joint"
+    },
+    {
+      "x": 18,
+      "y": 19,
+      "type": "joint"
+    },
+    {
+      "x": 19,
+      "y": 20,
+      "type": "joint"
+    },
+    {
+      "x": 20,
+      "y": 21,
+      "type": "joint"
+    },
+    {
+      "x": 21,
+      "y": 22,
+      "type": "joint"
+    },
+    {
+      "x": 22,
+      "y": 23,
+      "type": "joint"
+    },
+    {
+      "x": 23,
+      "y": 24,
+      "type": "joint"
+    }
+  ]
+}

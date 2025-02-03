@@ -1,0 +1,13 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	598_0 > 603_5
+	604_6 > 616_18
+	617_19 > 648_50
+
+
+Relations:
+	A_603 --- Coordinating 1 --- A_604
+	A_616 --- Fuzzy --- A_617

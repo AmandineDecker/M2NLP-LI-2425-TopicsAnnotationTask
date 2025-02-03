@@ -1,0 +1,33 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	None_0 > 257_257
+
+
+Relations:
+	S_None --- Draw on background context --- A_1
+	A_11 --- Fuzzy --- A_12
+	B_31 --- Continuation --- A_32
+	A_36 --- Continuation --- A_37
+	A_36 --- Coordinating 1 --- A_37
+	B_43 --- Continuation --- A_44
+	B_50 --- Continuation --- B_51
+	A_54 --- Explanation --- B_55
+	B_57 --- Continuation --- B_58
+	A_59 --- Explanation --- B_60
+	B_105 --- Continuation --- B_106
+	B_119 --- Coordinating 1 --- B_120
+	A_126 --- Fuzzy --- B_127
+	B_141 --- Explanation --- B_142
+	B_164 --- Continuation --- A_165
+	A_170 --- Consequence --- B_171
+	A_184 --- Continuation --- B_185
+	B_200 --- Coordinating 1 --- A_201
+	A_210 --- Explanation --- B_211
+	A_213 --- Continuation --- B_214
+	A_227 --- Subordinating 1 --- A_228
+	B_231 --- Continuation --- B_232
+	B_243 --- Fuzzy --- A_244
+	B_248 --- Continuation --- A_249

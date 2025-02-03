@@ -1,0 +1,13 @@
+Not subsequent joint (ignored when building topics):
+	None
+
+
+Topics:
+	3014_0 > 3039_25
+	3040_26 > 3136_124
+
+
+Relations:
+	A_3035 --- Explanation --- A_3037
+	A_3039 --- Digression --- A_3040
+	A_3080 --- Digression --- B_3081
